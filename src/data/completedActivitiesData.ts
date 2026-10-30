@@ -1,4 +1,4 @@
-import { ResearchActivity } from "../types";
+import { ResearchActivity } from '../types';
 
 export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
@@ -21,8 +21,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420073,
-    "budgetUtilizedETB": 420073,
+    "budgetAllocatedETB": 362962,
+    "budgetUtilizedETB": 362962,
     "objectives": [
       "Bread Wheat Regional Variety Trial (BWRVT-2023)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -82,8 +82,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420146,
-    "budgetUtilizedETB": 420146,
+    "budgetAllocatedETB": 479345,
+    "budgetUtilizedETB": 479345,
     "objectives": [
       "Brown Seeded Tef Regional Variety Trial (BSTRVT-2024)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -143,8 +143,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420219,
-    "budgetUtilizedETB": 420219,
+    "budgetAllocatedETB": 590607,
+    "budgetUtilizedETB": 590607,
     "objectives": [
       "Tef [Eragrostis tef (Zucc.) Trotter] Observation Nursery",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -205,8 +205,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420292,
-    "budgetUtilizedETB": 420292,
+    "budgetAllocatedETB": 550909,
+    "budgetUtilizedETB": 550909,
     "objectives": [
       "Adaptation Trial of Mung bean Varieties",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -266,8 +266,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420365,
-    "budgetUtilizedETB": 420365,
+    "budgetAllocatedETB": 573386,
+    "budgetUtilizedETB": 573386,
     "objectives": [
       "Adaptation Trial of Lentil Varieties",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -327,8 +327,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420438,
-    "budgetUtilizedETB": 420438,
+    "budgetAllocatedETB": 523490,
+    "budgetUtilizedETB": 523490,
     "objectives": [
       "Response of Rhizobium Inoculation and P Fertilizer Levels on Growth, Nodulation ,Yield, and Yield Components of FabaBean (Vicia faba L.) under acid Soil of Bedele Southwestern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -359,7 +359,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-6-1",
-        "title": "Final Research Dossier: Response of Rhizobium Inoculation and P Fertilizer Levels on Growth...",
+        "title": "Final Research Dossier: Response of Rhizobium Inoculation and P Fertilizer Levels on Growth, Nodulation ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -388,8 +388,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420511,
-    "budgetUtilizedETB": 420511,
+    "budgetAllocatedETB": 552317,
+    "budgetUtilizedETB": 552317,
     "objectives": [
       "Sesame (Sesamum indicum L.) Observation Nursery",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -450,8 +450,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420584,
-    "budgetUtilizedETB": 420584,
+    "budgetAllocatedETB": 437610,
+    "budgetUtilizedETB": 437610,
     "objectives": [
       "Small white haricot bean (Phaseolus vulgaris L.) Observation Nursery",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -512,8 +512,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420657,
-    "budgetUtilizedETB": 420657,
+    "budgetAllocatedETB": 495176,
+    "budgetUtilizedETB": 495176,
     "objectives": [
       "Medium set Soybean (Glycine max L. Merrill) Preliminary Yield Trial",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -574,8 +574,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420730,
-    "budgetUtilizedETB": 420730,
+    "budgetAllocatedETB": 464158,
+    "budgetUtilizedETB": 464158,
     "objectives": [
       "Adaptation trail of Tomato Varieties",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -635,8 +635,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2018-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 420803,
-    "budgetUtilizedETB": 420803,
+    "budgetAllocatedETB": 520280,
+    "budgetUtilizedETB": 520280,
     "objectives": [
       "Coriander Adaptation Trial",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -696,8 +696,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420876,
-    "budgetUtilizedETB": 420876,
+    "budgetAllocatedETB": 379292,
+    "budgetUtilizedETB": 379292,
     "objectives": [
       "Hot pepper Preliminary Yield trial (PYT)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -744,7 +744,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Integrated Management of Late Blight Potato (Phytophthora infestans, (Mont) de Bary) Disease in Buno Bedele Zone of Southwestern Oromia",
     "centerId": "bedele-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Takela Kusa",
@@ -758,8 +758,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 420949,
-    "budgetUtilizedETB": 420949,
+    "budgetAllocatedETB": 482891,
+    "budgetUtilizedETB": 482891,
     "objectives": [
       "Integrated Management of Late Blight Potato (Phytophthora infestans, (Mont) de Bary) Disease in Buno Bedele Zone of Southwestern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -790,7 +790,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-13-1",
-        "title": "Final Research Dossier: Integrated Management of Late Blight Potato (Phytophthora infestans...",
+        "title": "Final Research Dossier: Integrated Management of Late Blight Potato (Phytophthora infestans, (Mont) de B...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -805,7 +805,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Fungicides for the Management of Head Smudge (Helmintosporium miyakei) and Leaf Rust (Uromyces eragrostidis) Disease of Tef in Buno Bedele Zone",
     "centerId": "bedele-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Takela Kusa",
@@ -819,8 +819,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421022,
-    "budgetUtilizedETB": 421022,
+    "budgetAllocatedETB": 570859,
+    "budgetUtilizedETB": 570859,
     "objectives": [
       "Evaluation of Fungicides for the Management of Head Smudge (Helmintosporium miyakei) and Leaf Rust (Uromyces eragrostidis) Disease of Tef in Buno Bedele Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -851,7 +851,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-14-1",
-        "title": "Final Research Dossier: Evaluation of Fungicides for the Management of Head Smudge (Helmint...",
+        "title": "Final Research Dossier: Evaluation of Fungicides for the Management of Head Smudge (Helmintosporium miya...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -866,7 +866,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of Major Insects of Cereal Crops at Buno Bedele, Ilu Abba Bora and Jimma Zones of South Western Oromia",
     "centerId": "bedele-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Takela Kusa",
@@ -880,8 +880,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421095,
-    "budgetUtilizedETB": 421095,
+    "budgetAllocatedETB": 411626,
+    "budgetUtilizedETB": 411626,
     "objectives": [
       "Assessment of Major Insects of Cereal Crops at Buno Bedele, Ilu Abba Bora and Jimma Zones of South Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -912,7 +912,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-15-1",
-        "title": "Final Research Dossier: Assessment of Major Insects of Cereal Crops at Buno Bedele, Ilu Abb...",
+        "title": "Final Research Dossier: Assessment of Major Insects of Cereal Crops at Buno Bedele, Ilu Abba Bora and Ji...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -924,10 +924,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-016",
     "code": "IQQO-COMP-BdARC-2018-016",
-    "title": "Evaluation and Characterization of Coffee  Landraces collection  from Coffee Growing Areas of Buno Bedele and Ilu Abba Bor Zones",
+    "title": "Evaluation and Characterization of Coffee Landraces collection from Coffee Growing Areas of Buno Bedele and Ilu Abba Bor Zones",
     "centerId": "bedele-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tamiru T., Samuel R. & Haphtamu G.",
@@ -941,10 +941,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2011-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421168,
-    "budgetUtilizedETB": 421168,
+    "budgetAllocatedETB": 522884,
+    "budgetUtilizedETB": 522884,
     "objectives": [
-      "Evaluation and Characterization of Coffee  Landraces collection  from Coffee Growing Areas of Buno Bedele and Ilu Abba Bor Zones",
+      "Evaluation and Characterization of Coffee Landraces collection from Coffee Growing Areas of Buno Bedele and Ilu Abba Bor Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -973,7 +973,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-16-1",
-        "title": "Final Research Dossier: Evaluation and Characterization of Coffee  Landraces collection  fr...",
+        "title": "Final Research Dossier: Evaluation and Characterization of Coffee Landraces collection from Coffee Growi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1002,8 +1002,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421241,
-    "budgetUtilizedETB": 421241,
+    "budgetAllocatedETB": 402987,
+    "budgetUtilizedETB": 402987,
     "objectives": [
       "Performance Evaluation of Vetch varieties at Midland areas of Buno Bedele Zone, South Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1034,7 +1034,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-17-1",
-        "title": "Final Research Dossier: Performance Evaluation of Vetch varieties at Midland areas of Buno ...",
+        "title": "Final Research Dossier: Performance Evaluation of Vetch varieties at Midland areas of Buno Bedele Zone, ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1063,8 +1063,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "1018",
     "startDate": "2018-01-01",
     "endDate": "1018-12-30",
-    "budgetAllocatedETB": 421314,
-    "budgetUtilizedETB": 421314,
+    "budgetAllocatedETB": 428827,
+    "budgetUtilizedETB": 428827,
     "objectives": [
       "Fodder Oats Preliminary Variety Trial in Buno Bedele Zone, South Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1095,7 +1095,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-18-1",
-        "title": "Final Research Dossier: Fodder Oats Preliminary Variety Trial in Buno Bedele Zone, South We...",
+        "title": "Final Research Dossier: Fodder Oats Preliminary Variety Trial in Buno Bedele Zone, South Western Oromia",
         "type": "Technical Manual",
         "status": "Published",
         "date": "1018-10-15"
@@ -1124,8 +1124,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "1018",
     "startDate": "2018-01-01",
     "endDate": "1018-12-30",
-    "budgetAllocatedETB": 421387,
-    "budgetUtilizedETB": 421387,
+    "budgetAllocatedETB": 471699,
+    "budgetUtilizedETB": 471699,
     "objectives": [
       "Cowpea Observation Nursery Trial in Buno Bedele Zone, South Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1156,7 +1156,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-19-1",
-        "title": "Final Research Dossier: Cowpea Observation Nursery Trial in Buno Bedele Zone, South Western...",
+        "title": "Final Research Dossier: Cowpea Observation Nursery Trial in Buno Bedele Zone, South Western Oromia",
         "type": "Technical Manual",
         "status": "Published",
         "date": "1018-10-15"
@@ -1185,8 +1185,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421460,
-    "budgetUtilizedETB": 421460,
+    "budgetAllocatedETB": 505130,
+    "budgetUtilizedETB": 505130,
     "objectives": [
       "Performance evaluation of selected annual bee forages at Buno Bedele and Ilu Abba Bora zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1217,7 +1217,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-20-1",
-        "title": "Final Research Dossier: Performance evaluation of selected annual bee forages at Buno Bedel...",
+        "title": "Final Research Dossier: Performance evaluation of selected annual bee forages at Buno Bedele and Ilu Abb...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1232,7 +1232,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Soil Test Crop Response Based Phosphorus Calibration Study for Maize in Mettu District",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dagne Chimdesa",
@@ -1246,8 +1246,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421533,
-    "budgetUtilizedETB": 421533,
+    "budgetAllocatedETB": 378726,
+    "budgetUtilizedETB": 378726,
     "objectives": [
       "Soil Test Crop Response Based Phosphorus Calibration Study for Maize in Mettu District",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1278,7 +1278,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-21-1",
-        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study for Maiz...",
+        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study for Maize in Mettu Di...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1293,7 +1293,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effects of Integrated use of Vermicompost and NP fertilizers on maize productivity and selected soil chemical properties in acid prone areas of Dabo Hana district, Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dagne Chimdesa",
@@ -1307,8 +1307,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421606,
-    "budgetUtilizedETB": 421606,
+    "budgetAllocatedETB": 531007,
+    "budgetUtilizedETB": 531007,
     "objectives": [
       "Effects of Integrated use of Vermicompost and NP fertilizers on maize productivity and selected soil chemical properties in acid prone areas of Dabo Hana district, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1339,7 +1339,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-22-1",
-        "title": "Final Research Dossier: Effects of Integrated use of Vermicompost and NP fertilizers on mai...",
+        "title": "Final Research Dossier: Effects of Integrated use of Vermicompost and NP fertilizers on maize productivi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1354,7 +1354,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Integrated influence of Organic and Inorganic Fertilizers on Growth, Yield and Yield Components of Maize (Zea mays l.) and Selected Soil Chemical properties in Chora district",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bati Dube",
@@ -1368,8 +1368,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421679,
-    "budgetUtilizedETB": 421679,
+    "budgetAllocatedETB": 519297,
+    "budgetUtilizedETB": 519297,
     "objectives": [
       "Integrated influence of Organic and Inorganic Fertilizers on Growth, Yield and Yield Components of Maize (Zea mays l.) and Selected Soil Chemical properties in Chora district",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1400,7 +1400,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-23-1",
-        "title": "Final Research Dossier: Integrated influence of Organic and Inorganic Fertilizers on Growth...",
+        "title": "Final Research Dossier: Integrated influence of Organic and Inorganic Fertilizers on Growth, Yield and Y...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1412,10 +1412,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-024",
     "code": "IQQO-COMP-BdARC-2018-024",
-    "title": "Effects of Biochar and lime Application on  Selected Soil Properties,  Wheat Yield and Yeeld Components in Chora district, South Western Ethiopia",
+    "title": "Effects of Biochar and lime Application on Selected Soil Properties, Wheat Yield and Yeeld Components in Chora district, South Western Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dechasa Mengistu",
@@ -1429,10 +1429,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421752,
-    "budgetUtilizedETB": 421752,
+    "budgetAllocatedETB": 469289,
+    "budgetUtilizedETB": 469289,
     "objectives": [
-      "Effects of Biochar and lime Application on  Selected Soil Properties,  Wheat Yield and Yeeld Components in Chora district, South Western Ethiopia",
+      "Effects of Biochar and lime Application on Selected Soil Properties, Wheat Yield and Yeeld Components in Chora district, South Western Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -1461,7 +1461,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-24-1",
-        "title": "Final Research Dossier: Effects of Biochar and lime Application on  Selected Soil Propertie...",
+        "title": "Final Research Dossier: Effects of Biochar and lime Application on Selected Soil Properties, Wheat Yield...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1476,7 +1476,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of Soil Test Crop Response based Calibrated Phosohorus for Tef in Didesa District",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dagne Chimdesa",
@@ -1490,8 +1490,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421825,
-    "budgetUtilizedETB": 421825,
+    "budgetAllocatedETB": 427003,
+    "budgetUtilizedETB": 427003,
     "objectives": [
       "Verification of Soil Test Crop Response based Calibrated Phosohorus for Tef in Didesa District",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1522,7 +1522,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-25-1",
-        "title": "Final Research Dossier: Verification of Soil Test Crop Response based Calibrated Phosohorus...",
+        "title": "Final Research Dossier: Verification of Soil Test Crop Response based Calibrated Phosohorus for Tef in D...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1537,7 +1537,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of Nano Avocado Magic Organic Fertilizer on Bread wheat Yield and Soil properties in Chora district",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bati Dube",
@@ -1551,8 +1551,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421898,
-    "budgetUtilizedETB": 421898,
+    "budgetAllocatedETB": 524519,
+    "budgetUtilizedETB": 524519,
     "objectives": [
       "Verification of Nano Avocado Magic Organic Fertilizer on Bread wheat Yield and Soil properties in Chora district",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1584,7 +1584,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-26-1",
-        "title": "Final Research Dossier: Verification of Nano Avocado Magic Organic Fertilizer on Bread whea...",
+        "title": "Final Research Dossier: Verification of Nano Avocado Magic Organic Fertilizer on Bread wheat Yield and S...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1599,7 +1599,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of Nano Avocado Magic Organic Fertilizer on Maize Yield and Soil properties in Dabo Hana district, Buno Bedele",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bati Dube",
@@ -1613,8 +1613,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 421971,
-    "budgetUtilizedETB": 421971,
+    "budgetAllocatedETB": 547290,
+    "budgetUtilizedETB": 547290,
     "objectives": [
       "Verification of Nano Avocado Magic Organic Fertilizer on Maize Yield and Soil properties in Dabo Hana district, Buno Bedele",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1646,7 +1646,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-27-1",
-        "title": "Final Research Dossier: Verification of Nano Avocado Magic Organic Fertilizer on Maize Yiel...",
+        "title": "Final Research Dossier: Verification of Nano Avocado Magic Organic Fertilizer on Maize Yield and Soil pr...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1661,7 +1661,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of the effectiveness of Bio. SoilZ and Bio. PlantZ Liquid Fertilizers for Maize production in Bedele District, Buno Bedele Zone, Oromia, Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Gedefa Sori",
@@ -1675,8 +1675,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422044,
-    "budgetUtilizedETB": 422044,
+    "budgetAllocatedETB": 482479,
+    "budgetUtilizedETB": 482479,
     "objectives": [
       "Verification of the effectiveness of Bio. SoilZ and Bio. PlantZ Liquid Fertilizers for Maize production in Bedele District, Buno Bedele Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1708,7 +1708,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-28-1",
-        "title": "Final Research Dossier: Verification of the effectiveness of Bio. SoilZ and Bio. PlantZ Liq...",
+        "title": "Final Research Dossier: Verification of the effectiveness of Bio. SoilZ and Bio. PlantZ Liquid Fertilize...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1723,7 +1723,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of the effectiveness of Bio. SoilZ and Bio. PlantZ Liquid Fertilizers for Tef production in Chora District, Buno Bedele Zone, Oromia, Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dagne Chimdesa",
@@ -1737,8 +1737,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422117,
-    "budgetUtilizedETB": 422117,
+    "budgetAllocatedETB": 450372,
+    "budgetUtilizedETB": 450372,
     "objectives": [
       "Verification of the effectiveness of Bio. SoilZ and Bio. PlantZ Liquid Fertilizers for Tef production in Chora District, Buno Bedele Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1770,7 +1770,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-29-1",
-        "title": "Final Research Dossier: Verification of the effectiveness of Bio. SoilZ and Bio. PlantZ Liq...",
+        "title": "Final Research Dossier: Verification of the effectiveness of Bio. SoilZ and Bio. PlantZ Liquid Fertilize...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -1785,7 +1785,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of soil at Mettu district, Iluba Abori Zone of Oromia region, Southwest Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Kajela",
@@ -1799,8 +1799,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2018-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 422190,
-    "budgetUtilizedETB": 422190,
+    "budgetAllocatedETB": 467217,
+    "budgetUtilizedETB": 467217,
     "objectives": [
       "Assessment of soil at Mettu district, Iluba Abori Zone of Oromia region, Southwest Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1831,7 +1831,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-30-1",
-        "title": "Final Research Dossier: Assessment of soil at Mettu district, Iluba Abori Zone of Oromia re...",
+        "title": "Final Research Dossier: Assessment of soil at Mettu district, Iluba Abori Zone of Oromia region, Southwe...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2019-10-15"
@@ -1846,7 +1846,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of soil at Dega district, Buno Bedele Zone of Oromia region, Southwest Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Kajela",
@@ -1860,8 +1860,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2018-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 422263,
-    "budgetUtilizedETB": 422263,
+    "budgetAllocatedETB": 449520,
+    "budgetUtilizedETB": 449520,
     "objectives": [
       "Assessment of soil at Dega district, Buno Bedele Zone of Oromia region, Southwest Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1892,7 +1892,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-31-1",
-        "title": "Final Research Dossier: Assessment of soil at Dega district, Buno Bedele Zone of Oromia reg...",
+        "title": "Final Research Dossier: Assessment of soil at Dega district, Buno Bedele Zone of Oromia region, Southwes...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2019-10-15"
@@ -1907,7 +1907,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of soil at Gechi district, Buno Bedele Zone of Oromia region, Southwest Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Kajela",
@@ -1921,8 +1921,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2018-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 422336,
-    "budgetUtilizedETB": 422336,
+    "budgetAllocatedETB": 530077,
+    "budgetUtilizedETB": 530077,
     "objectives": [
       "Assessment of soil at Gechi district, Buno Bedele Zone of Oromia region, Southwest Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -1953,7 +1953,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-32-1",
-        "title": "Final Research Dossier: Assessment of soil at Gechi district, Buno Bedele Zone of Oromia re...",
+        "title": "Final Research Dossier: Assessment of soil at Gechi district, Buno Bedele Zone of Oromia region, Southwe...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2019-10-15"
@@ -1968,7 +1968,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effects of Tillage Frequency on Selected Soil Properties, Maize Yield and Yield Components at Bedele District, South Western Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-swc",
+    "teamId": "team-soil-water-conservation",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dechasa Mengistu",
@@ -1982,8 +1982,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422409,
-    "budgetUtilizedETB": 422409,
+    "budgetAllocatedETB": 566834,
+    "budgetUtilizedETB": 566834,
     "objectives": [
       "Effects of Tillage Frequency on Selected Soil Properties, Maize Yield and Yield Components at Bedele District, South Western Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2014,7 +2014,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-33-1",
-        "title": "Final Research Dossier: Effects of Tillage Frequency on Selected Soil Properties, Maize Yie...",
+        "title": "Final Research Dossier: Effects of Tillage Frequency on Selected Soil Properties, Maize Yield and Yield ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2043,8 +2043,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2020",
     "startDate": "2017-01-01",
     "endDate": "2020-12-30",
-    "budgetAllocatedETB": 422482,
-    "budgetUtilizedETB": 422482,
+    "budgetAllocatedETB": 460766,
+    "budgetUtilizedETB": 460766,
     "objectives": [
       "Identification and Domestication of Wild Edible Plants in Buno Bedele Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2075,7 +2075,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-34-1",
-        "title": "Final Research Dossier: Identification and Domestication of Wild Edible Plants in Buno Bede...",
+        "title": "Final Research Dossier: Identification and Domestication of Wild Edible Plants in Buno Bedele Zone, Orom...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2020-10-15"
@@ -2104,8 +2104,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422555,
-    "budgetUtilizedETB": 422555,
+    "budgetAllocatedETB": 394236,
+    "budgetUtilizedETB": 394236,
     "objectives": [
       "Assessment of Factors Affecting Seedling Survival in Oromia Regional State, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2136,7 +2136,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-35-1",
-        "title": "Final Research Dossier: Assessment of Factors Affecting Seedling Survival in Oromia Regiona...",
+        "title": "Final Research Dossier: Assessment of Factors Affecting Seedling Survival in Oromia Regional State, Ethi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2151,7 +2151,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of Improved Faba bean Varieties in Buno Bedele Zone, Southwestern Oromia, Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Nuru T.",
@@ -2165,8 +2165,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422628,
-    "budgetUtilizedETB": 422628,
+    "budgetAllocatedETB": 503581,
+    "budgetUtilizedETB": 503581,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of Improved Faba bean Varieties in Buno Bedele Zone, Southwestern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2197,7 +2197,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-36-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Improved Faba bean Va...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Improved Faba bean Varieties in Bu...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2212,7 +2212,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling up of Improved Sorghum Variety in Dabo Hana District of Buno Bedele Zone South Western Oromia Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Diriba H.",
@@ -2226,8 +2226,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422701,
-    "budgetUtilizedETB": 422701,
+    "budgetAllocatedETB": 562892,
+    "budgetUtilizedETB": 562892,
     "objectives": [
       "Pre-Scaling up of Improved Sorghum Variety in Dabo Hana District of Buno Bedele Zone South Western Oromia Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2258,7 +2258,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-37-1",
-        "title": "Final Research Dossier: Pre-Scaling up of Improved Sorghum Variety in Dabo Hana District of...",
+        "title": "Final Research Dossier: Pre-Scaling up of Improved Sorghum Variety in Dabo Hana District of Buno Bedele ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2273,7 +2273,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling up of Improved Potato Variety in Gachi District of Buno Bedele Zone, South Western, Oromia Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Suleman A.",
@@ -2287,8 +2287,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422774,
-    "budgetUtilizedETB": 422774,
+    "budgetAllocatedETB": 589208,
+    "budgetUtilizedETB": 589208,
     "objectives": [
       "Pre-Scaling up of Improved Potato Variety in Gachi District of Buno Bedele Zone, South Western, Oromia Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2319,7 +2319,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-38-1",
-        "title": "Final Research Dossier: Pre-Scaling up of Improved Potato Variety in Gachi District of Buno...",
+        "title": "Final Research Dossier: Pre-Scaling up of Improved Potato Variety in Gachi District of Buno Bedele Zone,...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2334,7 +2334,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling up of improved Sesame Variety in Dabo Hana and Bure Districts of Buno Bedele and Ilu Aba Bor Zones South Western Oromia Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Suleman A.",
@@ -2348,8 +2348,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422847,
-    "budgetUtilizedETB": 422847,
+    "budgetAllocatedETB": 365366,
+    "budgetUtilizedETB": 365366,
     "objectives": [
       "Pre-Scaling up of improved Sesame Variety in Dabo Hana and Bure Districts of Buno Bedele and Ilu Aba Bor Zones South Western Oromia Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2380,7 +2380,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-39-1",
-        "title": "Final Research Dossier: Pre-Scaling up of improved Sesame Variety in Dabo Hana and Bure Dis...",
+        "title": "Final Research Dossier: Pre-Scaling up of improved Sesame Variety in Dabo Hana and Bure Districts of Bun...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2395,7 +2395,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling up of improved Oat Variety in Chora and Gachi Districts of Buno Bedele Zone, Southwestern Oromia Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Nuru T.",
@@ -2409,8 +2409,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422920,
-    "budgetUtilizedETB": 422920,
+    "budgetAllocatedETB": 391524,
+    "budgetUtilizedETB": 391524,
     "objectives": [
       "Pre-Scaling up of improved Oat Variety in Chora and Gachi Districts of Buno Bedele Zone, Southwestern Oromia Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2441,7 +2441,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-40-1",
-        "title": "Final Research Dossier: Pre-Scaling up of improved Oat Variety in Chora and Gachi Districts...",
+        "title": "Final Research Dossier: Pre-Scaling up of improved Oat Variety in Chora and Gachi Districts of Buno Bede...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2456,7 +2456,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration of Groundnut in Bedele, Dabo Hana and Gechi Districts of Buno Bedele Zone, Southwestern Ethiopia",
     "centerId": "bedele-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Imbabet A.",
@@ -2470,8 +2470,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 422993,
-    "budgetUtilizedETB": 422993,
+    "budgetAllocatedETB": 552997,
+    "budgetUtilizedETB": 552997,
     "objectives": [
       "Pre-extension Demonstration of Groundnut in Bedele, Dabo Hana and Gechi Districts of Buno Bedele Zone, Southwestern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2502,7 +2502,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-41-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration of Groundnut in Bedele, Dabo Hana and G...",
+        "title": "Final Research Dossier: Pre-extension Demonstration of Groundnut in Bedele, Dabo Hana and Gechi District...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2531,8 +2531,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423066,
-    "budgetUtilizedETB": 423066,
+    "budgetAllocatedETB": 462794,
+    "budgetUtilizedETB": 462794,
     "objectives": [
       "Genotype by environment interaction and stability analysis for yield Food Barley Regional Variety Trial at High land of Guji, southern Oromia (FB-RVT-HL-24)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2563,7 +2563,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-42-1",
-        "title": "Final Research Dossier: Genotype by environment interaction and stability analysis for yiel...",
+        "title": "Final Research Dossier: Genotype by environment interaction and stability analysis for yield Food Barley...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2592,8 +2592,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423139,
-    "budgetUtilizedETB": 423139,
+    "budgetAllocatedETB": 458264,
+    "budgetUtilizedETB": 458264,
     "objectives": [
       "Durum wheat Regional Variety Trial at Mid-land of Guji (DW-RVT-ML-24)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2653,8 +2653,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423212,
-    "budgetUtilizedETB": 423212,
+    "budgetAllocatedETB": 473910,
+    "budgetUtilizedETB": 473910,
     "objectives": [
       "Release & Registration of Newly Faba Bean variety",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2714,8 +2714,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423285,
-    "budgetUtilizedETB": 423285,
+    "budgetAllocatedETB": 543204,
+    "budgetUtilizedETB": 543204,
     "objectives": [
       "Effect of Plant Spacing on Growth, Yield and Yield Component of Faba Bean at Bore, Southern",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2746,7 +2746,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-45-1",
-        "title": "Final Research Dossier: Effect of Plant Spacing on Growth, Yield and Yield Component of Fab...",
+        "title": "Final Research Dossier: Effect of Plant Spacing on Growth, Yield and Yield Component of Faba Bean at Bor...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2758,7 +2758,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-046",
     "code": "IQQO-COMP-BoARC-2018-046",
-    "title": "Genotype by environment interaction and stability analysis for yield of Lentil(Lens culinaris) genotypes in highland to midland of Guji  zone, southern Oromia",
+    "title": "Genotype by environment interaction and stability analysis for yield of Lentil(Lens culinaris) genotypes in highland to midland of Guji zone, southern Oromia",
     "centerId": "bore-arc",
     "directorateId": "crop-research",
     "teamId": "team-pulses-oilseeds",
@@ -2775,10 +2775,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423358,
-    "budgetUtilizedETB": 423358,
+    "budgetAllocatedETB": 384556,
+    "budgetUtilizedETB": 384556,
     "objectives": [
-      "Genotype by environment interaction and stability analysis for yield of Lentil(Lens culinaris) genotypes in highland to midland of Guji  zone, southern Oromia",
+      "Genotype by environment interaction and stability analysis for yield of Lentil(Lens culinaris) genotypes in highland to midland of Guji zone, southern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -2807,7 +2807,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-46-1",
-        "title": "Final Research Dossier: Genotype by environment interaction and stability analysis for yiel...",
+        "title": "Final Research Dossier: Genotype by environment interaction and stability analysis for yield of Lentil(L...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2836,8 +2836,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423431,
-    "budgetUtilizedETB": 423431,
+    "budgetAllocatedETB": 461958,
+    "budgetUtilizedETB": 461958,
     "objectives": [
       "Shiro-type Field Pea Variety Verification Trial (SHFP-VVT-2025)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2880,7 +2880,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-048",
     "code": "IQQO-COMP-BoARC-2018-048",
-    "title": "Participatory�varietal�selection�of�improved�orange�fleshed�Sweet�potato�(Ipomoea�batatas�L.)�varieties�in�Guji�Zone,�Southern�Oromia,�Ethiopia",
+    "title": "Participatory varietal selection of improved orange fleshed Sweet potato (Ipomoea batatas L.) varieties in Guji Zone, Southern Oromia, Ethiopia",
     "centerId": "bore-arc",
     "directorateId": "crop-research",
     "teamId": "team-horticulture",
@@ -2897,10 +2897,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423504,
-    "budgetUtilizedETB": 423504,
+    "budgetAllocatedETB": 493093,
+    "budgetUtilizedETB": 493093,
     "objectives": [
-      "Participatory�varietal�selection�of�improved�orange�fleshed�Sweet�potato�(Ipomoea�batatas�L.)�varieties�in�Guji�Zone,�Southern�Oromia,�Ethiopia",
+      "Participatory varietal selection of improved orange fleshed Sweet potato (Ipomoea batatas L.) varieties in Guji Zone, Southern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -2929,7 +2929,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-48-1",
-        "title": "Final Research Dossier: Participatory�varietal�selection�of�improved�orange�fleshed�Sweet�p...",
+        "title": "Final Research Dossier: Participatory varietal selection of improved orange fleshed Sweet potato (Ipomoe...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -2944,7 +2944,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effect of Integrated Disease Management on Wheat stem rust and stripe rust in Highlands of Guji Zone, Southern Ethiopia",
     "centerId": "bore-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Girma T",
@@ -2958,8 +2958,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423577,
-    "budgetUtilizedETB": 423577,
+    "budgetAllocatedETB": 467393,
+    "budgetUtilizedETB": 467393,
     "objectives": [
       "Effect of Integrated Disease Management on Wheat stem rust and stripe rust in Highlands of Guji Zone, Southern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -2990,7 +2990,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-49-1",
-        "title": "Final Research Dossier: Effect of Integrated Disease Management on Wheat stem rust and stri...",
+        "title": "Final Research Dossier: Effect of Integrated Disease Management on Wheat stem rust and stripe rust in Hi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3002,10 +3002,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-050",
     "code": "IQQO-COMP-BoARC-2018-050",
-    "title": "Evaluation�of�Fungicides�Efficacy�for�the�Management�of�Scald�(Rhynchosporiumseclis) and Net blotch Disease of Barley at highland Guji, South Oromia",
+    "title": "Evaluation of Fungicides Efficacy for the Management of Scald (Rhynchosporiumseclis) and Net blotch Disease of Barley at highland Guji, South Oromia",
     "centerId": "bore-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Girma T",
@@ -3019,10 +3019,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423650,
-    "budgetUtilizedETB": 423650,
+    "budgetAllocatedETB": 500964,
+    "budgetUtilizedETB": 500964,
     "objectives": [
-      "Evaluation�of�Fungicides�Efficacy�for�the�Management�of�Scald�(Rhynchosporiumseclis) and Net blotch Disease of Barley at highland Guji, South Oromia",
+      "Evaluation of Fungicides Efficacy for the Management of Scald (Rhynchosporiumseclis) and Net blotch Disease of Barley at highland Guji, South Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -3051,7 +3051,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-50-1",
-        "title": "Final Research Dossier: Evaluation�of�Fungicides�Efficacy�for�the�Management�of�Scald�(Rhyn...",
+        "title": "Final Research Dossier: Evaluation of Fungicides Efficacy for the Management of Scald (Rhynchosporiumsec...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3066,7 +3066,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of Major Cereal Crops Diseases in Guji zone, southern Ethiopia",
     "centerId": "bore-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Girma T",
@@ -3080,8 +3080,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423723,
-    "budgetUtilizedETB": 423723,
+    "budgetAllocatedETB": 382001,
+    "budgetUtilizedETB": 382001,
     "objectives": [
       "Assessment of Major Cereal Crops Diseases in Guji zone, southern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3112,7 +3112,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-51-1",
-        "title": "Final Research Dossier: Assessment of Major Cereal Crops Diseases in Guji zone, southern Et...",
+        "title": "Final Research Dossier: Assessment of Major Cereal Crops Diseases in Guji zone, southern Ethiopia",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3127,7 +3127,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of Enset (Ensete ventricosum) major disease in Guji zones, of Southern Oromia",
     "centerId": "bore-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Belachew D",
@@ -3141,8 +3141,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423796,
-    "budgetUtilizedETB": 423796,
+    "budgetAllocatedETB": 573560,
+    "budgetUtilizedETB": 573560,
     "objectives": [
       "Assessment of Enset (Ensete ventricosum) major disease in Guji zones, of Southern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3173,7 +3173,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-52-1",
-        "title": "Final Research Dossier: Assessment of Enset (Ensete ventricosum) major disease in Guji zone...",
+        "title": "Final Research Dossier: Assessment of Enset (Ensete ventricosum) major disease in Guji zones, of Souther...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3185,10 +3185,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-053",
     "code": "IQQO-COMP-BoARC-2018-053",
-    "title": "Ef?cacy of Selected Synthetic Insecticides with application frequency against Fall Armyworm, Spodoptera frugiperda, on Maize in Guji Zone",
+    "title": "Efficacy of Selected Synthetic Insecticides with application frequency against Fall Armyworm, Spodoptera frugiperda, on Maize in Guji Zone",
     "centerId": "bore-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Belachew D",
@@ -3202,10 +3202,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423869,
-    "budgetUtilizedETB": 423869,
+    "budgetAllocatedETB": 567609,
+    "budgetUtilizedETB": 567609,
     "objectives": [
-      "Ef?cacy of Selected Synthetic Insecticides with application frequency against Fall Armyworm, Spodoptera frugiperda, on Maize in Guji Zone",
+      "Efficacy of Selected Synthetic Insecticides with application frequency against Fall Armyworm, Spodoptera frugiperda, on Maize in Guji Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -3234,7 +3234,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-53-1",
-        "title": "Final Research Dossier: Ef?cacy of Selected Synthetic Insecticides with application frequen...",
+        "title": "Final Research Dossier: Efficacy of Selected Synthetic Insecticides with application frequency against F...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3249,7 +3249,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Integrated Management of Weeds on yield and yield components of Faba bean (Vicia fabae L) in Guji Zone, Southern Oromia",
     "centerId": "bore-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Lulu M",
@@ -3263,8 +3263,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 423942,
-    "budgetUtilizedETB": 423942,
+    "budgetAllocatedETB": 359705,
+    "budgetUtilizedETB": 359705,
     "objectives": [
       "Integrated Management of Weeds on yield and yield components of Faba bean (Vicia fabae L) in Guji Zone, Southern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3295,7 +3295,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-54-1",
-        "title": "Final Research Dossier: Integrated Management of Weeds on yield and yield components of Fab...",
+        "title": "Final Research Dossier: Integrated Management of Weeds on yield and yield components of Faba bean (Vicia...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3310,7 +3310,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effect of Integrated Weed Management on Yield and Yield Component of Maize (Zea mays) at Midland of Guji Zone",
     "centerId": "bore-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Lulu M",
@@ -3324,8 +3324,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424015,
-    "budgetUtilizedETB": 424015,
+    "budgetAllocatedETB": 553380,
+    "budgetUtilizedETB": 553380,
     "objectives": [
       "Effect of Integrated Weed Management on Yield and Yield Component of Maize (Zea mays) at Midland of Guji Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3356,7 +3356,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-55-1",
-        "title": "Final Research Dossier: Effect of Integrated Weed Management on Yield and Yield Component o...",
+        "title": "Final Research Dossier: Effect of Integrated Weed Management on Yield and Yield Component of Maize (Zea ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3371,7 +3371,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of post emergence herbicide for the Control of Broad leaves and Grass Weeds in Barley (Hordeum Vulgare L.) at Highland of Guji Zone, Southern Oromia",
     "centerId": "bore-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Lulu M",
@@ -3385,8 +3385,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424088,
-    "budgetUtilizedETB": 424088,
+    "budgetAllocatedETB": 564952,
+    "budgetUtilizedETB": 564952,
     "objectives": [
       "Evaluation of post emergence herbicide for the Control of Broad leaves and Grass Weeds in Barley (Hordeum Vulgare L.) at Highland of Guji Zone, Southern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3417,7 +3417,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-56-1",
-        "title": "Final Research Dossier: Evaluation of post emergence herbicide for the Control of Broad lea...",
+        "title": "Final Research Dossier: Evaluation of post emergence herbicide for the Control of Broad leaves and Grass...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3432,7 +3432,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of Major Coffee weeds in major coffee growing areas of Guji zone.",
     "centerId": "bore-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Awel K",
@@ -3446,8 +3446,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424161,
-    "budgetUtilizedETB": 424161,
+    "budgetAllocatedETB": 365953,
+    "budgetUtilizedETB": 365953,
     "objectives": [
       "Assessment of Major Coffee weeds in major coffee growing areas of Guji zone.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3478,7 +3478,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-57-1",
-        "title": "Final Research Dossier: Assessment of Major Coffee weeds in major coffee growing areas of G...",
+        "title": "Final Research Dossier: Assessment of Major Coffee weeds in major coffee growing areas of Guji zone.",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3507,8 +3507,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424234,
-    "budgetUtilizedETB": 424234,
+    "budgetAllocatedETB": 535591,
+    "budgetUtilizedETB": 535591,
     "objectives": [
       "Adaptation of Sweet Lupin Varities in the at Highland and Midland of Guji Zone, Southern",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3539,7 +3539,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-58-1",
-        "title": "Final Research Dossier: Adaptation of Sweet Lupin Varities in the at Highland and Midland o...",
+        "title": "Final Research Dossier: Adaptation of Sweet Lupin Varities in the at Highland and Midland of Guji Zone, ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3568,8 +3568,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424307,
-    "budgetUtilizedETB": 424307,
+    "budgetAllocatedETB": 505399,
+    "budgetUtilizedETB": 505399,
     "objectives": [
       "On farm evaluation and demonstration of Pond Water harvesting and mulching on yield and water productivity of tomato under drip irrigation at Adola District, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3600,7 +3600,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-59-1",
-        "title": "Final Research Dossier: On farm evaluation and demonstration of Pond Water harvesting and m...",
+        "title": "Final Research Dossier: On farm evaluation and demonstration of Pond Water harvesting and mulching on yi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3629,8 +3629,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424380,
-    "budgetUtilizedETB": 424380,
+    "budgetAllocatedETB": 383701,
+    "budgetUtilizedETB": 383701,
     "objectives": [
       "On Farm evaluation and demonstration of different furrow irrigation methods under straw mulch on growth, yield and Water use efficiency of hot pepper at Abaya District, West Guji Zone, Oromia region",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3661,7 +3661,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-60-1",
-        "title": "Final Research Dossier: On Farm evaluation and demonstration of different furrow irrigation...",
+        "title": "Final Research Dossier: On Farm evaluation and demonstration of different furrow irrigation methods unde...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3690,8 +3690,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424453,
-    "budgetUtilizedETB": 424453,
+    "budgetAllocatedETB": 381163,
+    "budgetUtilizedETB": 381163,
     "objectives": [
       "Effect of irrigation level and mulching on Onion (Allium cepa L.) yield and water use efficiency at Abaya District, Guji zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3722,7 +3722,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-61-1",
-        "title": "Final Research Dossier: Effect of irrigation level and mulching on Onion (Allium cepa L.) y...",
+        "title": "Final Research Dossier: Effect of irrigation level and mulching on Onion (Allium cepa L.) yield and wate...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3751,8 +3751,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424526,
-    "budgetUtilizedETB": 424526,
+    "budgetAllocatedETB": 541011,
+    "budgetUtilizedETB": 541011,
     "objectives": [
       "Improving Irrigation Management Practices with Deficit Irrigation for Wheat Production: The Case of West Guji Zone of Southern Oromia Region",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3783,7 +3783,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-62-1",
-        "title": "Final Research Dossier: Improving Irrigation Management Practices with Deficit Irrigation f...",
+        "title": "Final Research Dossier: Improving Irrigation Management Practices with Deficit Irrigation for Wheat Prod...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3812,8 +3812,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424599,
-    "budgetUtilizedETB": 424599,
+    "budgetAllocatedETB": 520251,
+    "budgetUtilizedETB": 520251,
     "objectives": [
       "Determination of optimum irrigation scheduling for tomato yield and water use efficiency at Odo Shakiso District, Guji zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3844,7 +3844,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-63-1",
-        "title": "Final Research Dossier: Determination of optimum irrigation scheduling for tomato yield and...",
+        "title": "Final Research Dossier: Determination of optimum irrigation scheduling for tomato yield and water use ef...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3859,7 +3859,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of soil test-based crop Response phosphorus recommendations for Bread wheat in Bore and Ana Sora district of Guji zone.",
     "centerId": "bore-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Demena N",
@@ -3873,8 +3873,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424672,
-    "budgetUtilizedETB": 424672,
+    "budgetAllocatedETB": 474290,
+    "budgetUtilizedETB": 474290,
     "objectives": [
       "Verification of soil test-based crop Response phosphorus recommendations for Bread wheat in Bore and Ana Sora district of Guji zone.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -3905,7 +3905,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-64-1",
-        "title": "Final Research Dossier: Verification of soil test-based crop Response phosphorus recommenda...",
+        "title": "Final Research Dossier: Verification of soil test-based crop Response phosphorus recommendations for Bre...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3917,10 +3917,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-065",
     "code": "IQQO-COMP-BoARC-2018-065",
-    "title": "Establishment and characterization of Vermiculture and   Vermicomposting at Bore on station",
+    "title": "Establishment and characterization of Vermiculture and Vermicomposting at Bore on station",
     "centerId": "bore-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Demena N",
@@ -3934,10 +3934,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424745,
-    "budgetUtilizedETB": 424745,
+    "budgetAllocatedETB": 432762,
+    "budgetUtilizedETB": 432762,
     "objectives": [
-      "Establishment and characterization of Vermiculture and   Vermicomposting at Bore on station",
+      "Establishment and characterization of Vermiculture and Vermicomposting at Bore on station",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -3966,7 +3966,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-65-1",
-        "title": "Final Research Dossier: Establishment and characterization of Vermiculture and   Vermicompo...",
+        "title": "Final Research Dossier: Establishment and characterization of Vermiculture and Vermicomposting at Bore o...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -3981,7 +3981,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre scaling up of Irish potato technologies at midlands of Guji Zone, Oromia, Ethiopia",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Basha K",
@@ -3995,8 +3995,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424818,
-    "budgetUtilizedETB": 424818,
+    "budgetAllocatedETB": 436379,
+    "budgetUtilizedETB": 436379,
     "objectives": [
       "Pre scaling up of Irish potato technologies at midlands of Guji Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4027,7 +4027,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-66-1",
-        "title": "Final Research Dossier: Pre scaling up of Irish potato technologies at midlands of Guji Zon...",
+        "title": "Final Research Dossier: Pre scaling up of Irish potato technologies at midlands of Guji Zone, Oromia, Et...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4042,7 +4042,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre scaling up of Elephant grass technologies in midlands of Guji Zone, Oromia, Ethiopia",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Basha K",
@@ -4056,8 +4056,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424891,
-    "budgetUtilizedETB": 424891,
+    "budgetAllocatedETB": 463148,
+    "budgetUtilizedETB": 463148,
     "objectives": [
       "Pre scaling up of Elephant grass technologies in midlands of Guji Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4088,7 +4088,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-67-1",
-        "title": "Final Research Dossier: Pre scaling up of Elephant grass technologies in midlands of Guji Z...",
+        "title": "Final Research Dossier: Pre scaling up of Elephant grass technologies in midlands of Guji Zone, Oromia, ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4103,7 +4103,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre scaling up of bread wheat technologies in the highlands of Guji Zone, Oromia, Ethiopia",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Basha K",
@@ -4117,8 +4117,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 424964,
-    "budgetUtilizedETB": 424964,
+    "budgetAllocatedETB": 567799,
+    "budgetUtilizedETB": 567799,
     "objectives": [
       "Pre scaling up of bread wheat technologies in the highlands of Guji Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4149,7 +4149,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-68-1",
-        "title": "Final Research Dossier: Pre scaling up of bread wheat technologies in the highlands of Guji...",
+        "title": "Final Research Dossier: Pre scaling up of bread wheat technologies in the highlands of Guji Zone, Oromia...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4164,7 +4164,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scale up of Brachiaria mutica varieties at Adola Rede, midland district of Guji Zone,",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dembi K",
@@ -4178,8 +4178,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425037,
-    "budgetUtilizedETB": 425037,
+    "budgetAllocatedETB": 437286,
+    "budgetUtilizedETB": 437286,
     "objectives": [
       "Pre-Scale up of Brachiaria mutica varieties at Adola Rede, midland district of Guji Zone,",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4210,7 +4210,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-69-1",
-        "title": "Final Research Dossier: Pre-Scale up of Brachiaria mutica varieties at Adola Rede, midland ...",
+        "title": "Final Research Dossier: Pre-Scale up of Brachiaria mutica varieties at Adola Rede, midland district of G...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4225,7 +4225,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling up of Improved Faba Bean technologies at Highland Districts of Guji Zone, Oromia,",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Girma A",
@@ -4239,8 +4239,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425110,
-    "budgetUtilizedETB": 425110,
+    "budgetAllocatedETB": 582135,
+    "budgetUtilizedETB": 582135,
     "objectives": [
       "Pre-Scaling up of Improved Faba Bean technologies at Highland Districts of Guji Zone, Oromia,",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4271,7 +4271,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-70-1",
-        "title": "Final Research Dossier: Pre-Scaling up of Improved Faba Bean technologies at Highland Distr...",
+        "title": "Final Research Dossier: Pre-Scaling up of Improved Faba Bean technologies at Highland Districts of Guji ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4286,7 +4286,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre extension demonstration and evaluation of small white type common bean technologies in the midlands of Guji zone, Oromia Regional State, Ethiopia",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Basha K",
@@ -4300,8 +4300,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425183,
-    "budgetUtilizedETB": 425183,
+    "budgetAllocatedETB": 571566,
+    "budgetUtilizedETB": 571566,
     "objectives": [
       "Pre extension demonstration and evaluation of small white type common bean technologies in the midlands of Guji zone, Oromia Regional State, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4332,7 +4332,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-71-1",
-        "title": "Final Research Dossier: Pre extension demonstration and evaluation of small white type comm...",
+        "title": "Final Research Dossier: Pre extension demonstration and evaluation of small white type common bean techn...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4347,7 +4347,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre Extension Demonstration and Evaluation of Improved Durum Wheat Varieties at Adola Rede District of Guji Zone, Southern Oromia, Ethiopia",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dembi K",
@@ -4361,8 +4361,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425256,
-    "budgetUtilizedETB": 425256,
+    "budgetAllocatedETB": 545945,
+    "budgetUtilizedETB": 545945,
     "objectives": [
       "Pre Extension Demonstration and Evaluation of Improved Durum Wheat Varieties at Adola Rede District of Guji Zone, Southern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4393,7 +4393,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-72-1",
-        "title": "Final Research Dossier: Pre Extension Demonstration and Evaluation of Improved Durum Wheat ...",
+        "title": "Final Research Dossier: Pre Extension Demonstration and Evaluation of Improved Durum Wheat Varieties at ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4408,7 +4408,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre extension demonstration and evaluation of improved bread wheat (Triticum aestivum. L) Technologies at Adola Rede District of Guji Zone, Southern Oromia, Ethiopia.",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dembi K",
@@ -4422,8 +4422,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425329,
-    "budgetUtilizedETB": 425329,
+    "budgetAllocatedETB": 373828,
+    "budgetUtilizedETB": 373828,
     "objectives": [
       "Pre extension demonstration and evaluation of improved bread wheat (Triticum aestivum. L) Technologies at Adola Rede District of Guji Zone, Southern Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4454,7 +4454,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-73-1",
-        "title": "Final Research Dossier: Pre extension demonstration and evaluation of improved bread wheat ...",
+        "title": "Final Research Dossier: Pre extension demonstration and evaluation of improved bread wheat (Triticum aes...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4469,7 +4469,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Haricot Bean Value Chain Analysis in Midland Districts of Guji zone, southern Oromia",
     "centerId": "bore-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Takile B",
@@ -4483,8 +4483,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425402,
-    "budgetUtilizedETB": 425402,
+    "budgetAllocatedETB": 408842,
+    "budgetUtilizedETB": 408842,
     "objectives": [
       "Haricot Bean Value Chain Analysis in Midland Districts of Guji zone, southern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4515,7 +4515,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-74-1",
-        "title": "Final Research Dossier: Haricot Bean Value Chain Analysis in Midland Districts of Guji zone...",
+        "title": "Final Research Dossier: Haricot Bean Value Chain Analysis in Midland Districts of Guji zone, southern Or...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4527,10 +4527,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-075",
     "code": "IQQO-COMP-NSRC-2018-075",
-    "title": "Soil Test Crop Response Based Phosphorus Calibration Study on Maize(zea maize) at Guto Gida District of  East Wollega Zone, Oromia Region, Ethiopia",
+    "title": "Soil Test Crop Response Based Phosphorus Calibration Study on Maize(zea maize) at Guto Gida District of East Wollega Zone, Oromia Region, Ethiopia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Tadase",
@@ -4544,10 +4544,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2014-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425475,
-    "budgetUtilizedETB": 425475,
+    "budgetAllocatedETB": 510377,
+    "budgetUtilizedETB": 510377,
     "objectives": [
-      "Soil Test Crop Response Based Phosphorus Calibration Study on Maize(zea maize) at Guto Gida District of  East Wollega Zone, Oromia Region, Ethiopia",
+      "Soil Test Crop Response Based Phosphorus Calibration Study on Maize(zea maize) at Guto Gida District of East Wollega Zone, Oromia Region, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -4576,7 +4576,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-75-1",
-        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study on Maize...",
+        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study on Maize(zea maize) a...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4591,7 +4591,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Soil Test Crop Response Based Phosphorus Calibration Study on Food Barley(Hordeum vulgare L.) in Jima Arjo District of East Wollega Zone, Oromia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Tadase",
@@ -4605,8 +4605,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2014-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425548,
-    "budgetUtilizedETB": 425548,
+    "budgetAllocatedETB": 519924,
+    "budgetUtilizedETB": 519924,
     "objectives": [
       "Soil Test Crop Response Based Phosphorus Calibration Study on Food Barley(Hordeum vulgare L.) in Jima Arjo District of East Wollega Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4637,7 +4637,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-76-1",
-        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study on Food ...",
+        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study on Food Barley(Hordeu...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4649,10 +4649,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-077",
     "code": "IQQO-COMP-NSRC-2018-077",
-    "title": "Integrated use of vermicompost and NP Fertilizer and their Effects on the Yield and Yield Components of Bread Wheat (Triticum aestivum)  at Jima Arjo District, Western Oromia Region, Ethiopia",
+    "title": "Integrated use of vermicompost and NP Fertilizer and their Effects on the Yield and Yield Components of Bread Wheat (Triticum aestivum) at Jima Arjo District, Western Oromia Region, Ethiopia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Temesgen Chimdess",
@@ -4666,10 +4666,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425621,
-    "budgetUtilizedETB": 425621,
+    "budgetAllocatedETB": 377638,
+    "budgetUtilizedETB": 377638,
     "objectives": [
-      "Integrated use of vermicompost and NP Fertilizer and their Effects on the Yield and Yield Components of Bread Wheat (Triticum aestivum)  at Jima Arjo District, Western Oromia Region, Ethiopia",
+      "Integrated use of vermicompost and NP Fertilizer and their Effects on the Yield and Yield Components of Bread Wheat (Triticum aestivum) at Jima Arjo District, Western Oromia Region, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -4698,7 +4698,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-77-1",
-        "title": "Final Research Dossier: Integrated use of vermicompost and NP Fertilizer and their Effects ...",
+        "title": "Final Research Dossier: Integrated use of vermicompost and NP Fertilizer and their Effects on the Yield ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4713,7 +4713,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Determination of Integrated Inorganic fertilizer rates and green manure on acidic soil for improving soil fertility and yields of Bread Wheat at Horo District, Horo Guduru Wollega Zone, Oromia, Ethiopia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mintasinot Desalegn",
@@ -4727,8 +4727,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425694,
-    "budgetUtilizedETB": 425694,
+    "budgetAllocatedETB": 474205,
+    "budgetUtilizedETB": 474205,
     "objectives": [
       "Determination of Integrated Inorganic fertilizer rates and green manure on acidic soil for improving soil fertility and yields of Bread Wheat at Horo District, Horo Guduru Wollega Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4759,7 +4759,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-78-1",
-        "title": "Final Research Dossier: Determination of Integrated Inorganic fertilizer rates and green ma...",
+        "title": "Final Research Dossier: Determination of Integrated Inorganic fertilizer rates and green manure on acidi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4771,10 +4771,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-079",
     "code": "IQQO-COMP-NSRC-2018-079",
-    "title": "Verification �of�Rhizobium�Bio�Fertilizer�Effects�on Yield and Yield Related Components of Field�Pea�(Pisum�Sativum�L.) at�Jima�Arjo District,�East�Wollega Zone, Oromia, Ethiopia",
+    "title": "Verification of Rhizobium Bio Fertilizer Effects on Yield and Yield Related Components of Field Pea (Pisum Sativum L.) at Jima Arjo District, East Wollega Zone, Oromia, Ethiopia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Olifan Fikadu",
@@ -4788,10 +4788,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425767,
-    "budgetUtilizedETB": 425767,
+    "budgetAllocatedETB": 517683,
+    "budgetUtilizedETB": 517683,
     "objectives": [
-      "Verification �of�Rhizobium�Bio�Fertilizer�Effects�on Yield and Yield Related Components of Field�Pea�(Pisum�Sativum�L.) at�Jima�Arjo District,�East�Wollega Zone, Oromia, Ethiopia",
+      "Verification of Rhizobium Bio Fertilizer Effects on Yield and Yield Related Components of Field Pea (Pisum Sativum L.) at Jima Arjo District, East Wollega Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -4820,7 +4820,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-79-1",
-        "title": "Final Research Dossier: Verification �of�Rhizobium�Bio�Fertilizer�Effects�on Yield and Yiel...",
+        "title": "Final Research Dossier: Verification of Rhizobium Bio Fertilizer Effects on Yield and Yield Related Comp...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4835,7 +4835,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of Soil Test Crop Response Based Phosphorus Calibration study on Maize (Zea mays L.) on Nitisols of W/Tuka District, Western Oromia Region, Ethiopia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Temesgen Chimdess",
@@ -4849,8 +4849,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425840,
-    "budgetUtilizedETB": 425840,
+    "budgetAllocatedETB": 516069,
+    "budgetUtilizedETB": 516069,
     "objectives": [
       "Verification of Soil Test Crop Response Based Phosphorus Calibration study on Maize (Zea mays L.) on Nitisols of W/Tuka District, Western Oromia Region, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4881,7 +4881,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-80-1",
-        "title": "Final Research Dossier: Verification of Soil Test Crop Response Based Phosphorus Calibratio...",
+        "title": "Final Research Dossier: Verification of Soil Test Crop Response Based Phosphorus Calibration study on Ma...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4896,7 +4896,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification on Integration Application of Rhizobium Biofertilizer With Vermicompost in Productivity of Faba Bean at Horo District, Horo Guduru Wollega Zone, Oromia, Ethiopia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Olifan Fikadu",
@@ -4910,8 +4910,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425913,
-    "budgetUtilizedETB": 425913,
+    "budgetAllocatedETB": 509042,
+    "budgetUtilizedETB": 509042,
     "objectives": [
       "Verification on Integration Application of Rhizobium Biofertilizer With Vermicompost in Productivity of Faba Bean at Horo District, Horo Guduru Wollega Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -4942,7 +4942,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-81-1",
-        "title": "Final Research Dossier: Verification on Integration Application of Rhizobium Biofertilizer ...",
+        "title": "Final Research Dossier: Verification on Integration Application of Rhizobium Biofertilizer With Vermicom...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -4957,7 +4957,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Phosphores Requirement mapping & validation for Bread Wheat at Jimma Arjo District, East Wollega Zone Oromia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Tadase & Bikiltu Regasa",
@@ -4971,8 +4971,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 425986,
-    "budgetUtilizedETB": 425986,
+    "budgetAllocatedETB": 561021,
+    "budgetUtilizedETB": 561021,
     "objectives": [
       "Phosphores Requirement mapping & validation for Bread Wheat at Jimma Arjo District, East Wollega Zone Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5003,7 +5003,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-82-1",
-        "title": "Final Research Dossier: Phosphores Requirement mapping & validation for Bread Wheat at Jimm...",
+        "title": "Final Research Dossier: Phosphores Requirement mapping & validation for Bread Wheat at Jimma Arjo Distri...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5018,7 +5018,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Characterization, Classification and Mapping of Major Soil groups in different agro ecological zones of Sibu Sire District, East Wollega zone, Western Oromia",
     "centerId": "nekemte-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Tadase & Bikiltu Regasa",
@@ -5032,8 +5032,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426059,
-    "budgetUtilizedETB": 426059,
+    "budgetAllocatedETB": 352343,
+    "budgetUtilizedETB": 352343,
     "objectives": [
       "Characterization, Classification and Mapping of Major Soil groups in different agro ecological zones of Sibu Sire District, East Wollega zone, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5064,7 +5064,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-83-1",
-        "title": "Final Research Dossier: Characterization, Classification and Mapping of Major Soil groups i...",
+        "title": "Final Research Dossier: Characterization, Classification and Mapping of Major Soil groups in different a...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5079,7 +5079,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling up of Soil Test Crop Response Based Phosphorous Calibration Study for Maize (Zea mays L.) at Abay Choman District, Western Oromia, Ethiopia",
     "centerId": "nekemte-soil",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Naferom Negesa",
@@ -5093,8 +5093,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426132,
-    "budgetUtilizedETB": 426132,
+    "budgetAllocatedETB": 464219,
+    "budgetUtilizedETB": 464219,
     "objectives": [
       "Pre-Scaling up of Soil Test Crop Response Based Phosphorous Calibration Study for Maize (Zea mays L.) at Abay Choman District, Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5125,7 +5125,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-84-1",
-        "title": "Final Research Dossier: Pre-Scaling up of Soil Test Crop Response Based Phosphorous Calibra...",
+        "title": "Final Research Dossier: Pre-Scaling up of Soil Test Crop Response Based Phosphorous Calibration Study fo...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5140,7 +5140,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Study on Limnology and status of the Fish introduced to Microdams in Borana Zone, Oromia",
     "centerId": "batu-fishery",
     "directorateId": "livestock-research",
-    "teamId": "team-fisheries-aquaculture",
+    "teamId": "team-aquaculture-fisheries",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mr.Getachew",
@@ -5154,8 +5154,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426205,
-    "budgetUtilizedETB": 426205,
+    "budgetAllocatedETB": 352467,
+    "budgetUtilizedETB": 352467,
     "objectives": [
       "Study on Limnology and status of the Fish introduced to Microdams in Borana Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5186,7 +5186,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-85-1",
-        "title": "Final Research Dossier: Study on Limnology and status of the Fish introduced to Microdams i...",
+        "title": "Final Research Dossier: Study on Limnology and status of the Fish introduced to Microdams in Borana Zone...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5201,7 +5201,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Investigating fish parasite prevalence and diversity in lake Abijata, Ethiopia: Implications for sustainable fisheries and ecosystem health.",
     "centerId": "batu-fishery",
     "directorateId": "livestock-research",
-    "teamId": "team-fisheries-aquaculture",
+    "teamId": "team-aquaculture-fisheries",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dr. Gebewo",
@@ -5215,8 +5215,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426278,
-    "budgetUtilizedETB": 426278,
+    "budgetAllocatedETB": 429280,
+    "budgetUtilizedETB": 429280,
     "objectives": [
       "Investigating fish parasite prevalence and diversity in lake Abijata, Ethiopia: Implications for sustainable fisheries and ecosystem health.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5247,7 +5247,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-86-1",
-        "title": "Final Research Dossier: Investigating fish parasite prevalence and diversity in lake Abijat...",
+        "title": "Final Research Dossier: Investigating fish parasite prevalence and diversity in lake Abijata, Ethiopia: ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5262,7 +5262,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment on the diversity and intensity of fish parasites in Gilgel Gibe I reservoir",
     "centerId": "batu-fishery",
     "directorateId": "livestock-research",
-    "teamId": "team-fisheries-aquaculture",
+    "teamId": "team-aquaculture-fisheries",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dr .Gebewo",
@@ -5276,8 +5276,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426351,
-    "budgetUtilizedETB": 426351,
+    "budgetAllocatedETB": 402992,
+    "budgetUtilizedETB": 402992,
     "objectives": [
       "Assessment on the diversity and intensity of fish parasites in Gilgel Gibe I reservoir",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5308,7 +5308,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-87-1",
-        "title": "Final Research Dossier: Assessment on the diversity and intensity of fish parasites in Gilg...",
+        "title": "Final Research Dossier: Assessment on the diversity and intensity of fish parasites in Gilgel Gibe I res...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5323,7 +5323,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Substitution of fish meal with dried poultry manure as a protein source in Nile tilapia feed",
     "centerId": "batu-fishery",
     "directorateId": "livestock-research",
-    "teamId": "team-fisheries-aquaculture",
+    "teamId": "team-aquaculture-fisheries",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dr.Megersa",
@@ -5337,8 +5337,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426424,
-    "budgetUtilizedETB": 426424,
+    "budgetAllocatedETB": 451822,
+    "budgetUtilizedETB": 451822,
     "objectives": [
       "Substitution of fish meal with dried poultry manure as a protein source in Nile tilapia feed",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5369,7 +5369,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-88-1",
-        "title": "Final Research Dossier: Substitution of fish meal with dried poultry manure as a protein so...",
+        "title": "Final Research Dossier: Substitution of fish meal with dried poultry manure as a protein source in Nile ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5384,7 +5384,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Study on Effects of Salinity Levels on Nile Tilapa of Three Rift Valley Lakes",
     "centerId": "batu-fishery",
     "directorateId": "livestock-research",
-    "teamId": "team-fisheries-aquaculture",
+    "teamId": "team-aquaculture-fisheries",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dr.Megersa",
@@ -5398,8 +5398,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426497,
-    "budgetUtilizedETB": 426497,
+    "budgetAllocatedETB": 427392,
+    "budgetUtilizedETB": 427392,
     "objectives": [
       "Study on Effects of Salinity Levels on Nile Tilapa of Three Rift Valley Lakes",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5430,7 +5430,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-89-1",
-        "title": "Final Research Dossier: Study on Effects of Salinity Levels on Nile Tilapa of Three Rift Va...",
+        "title": "Final Research Dossier: Study on Effects of Salinity Levels on Nile Tilapa of Three Rift Valley Lakes",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5445,7 +5445,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Growth and survival evaluation of Oreochromis niloticus of Alwero reservoir under pond culture at Batu",
     "centerId": "batu-fishery",
     "directorateId": "livestock-research",
-    "teamId": "team-fisheries-aquaculture",
+    "teamId": "team-aquaculture-fisheries",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mr Derribew",
@@ -5459,8 +5459,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426570,
-    "budgetUtilizedETB": 426570,
+    "budgetAllocatedETB": 412407,
+    "budgetUtilizedETB": 412407,
     "objectives": [
       "Growth and survival evaluation of Oreochromis niloticus of Alwero reservoir under pond culture at Batu",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5491,7 +5491,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-90-1",
-        "title": "Final Research Dossier: Growth and survival evaluation of Oreochromis niloticus of Alwero r...",
+        "title": "Final Research Dossier: Growth and survival evaluation of Oreochromis niloticus of Alwero reservoir unde...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5506,7 +5506,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of fish culture suitability in irrigation schemes of East Bale",
     "centerId": "batu-fishery",
     "directorateId": "livestock-research",
-    "teamId": "team-fisheries-aquaculture",
+    "teamId": "team-aquaculture-fisheries",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "mr Habtamu",
@@ -5520,8 +5520,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426643,
-    "budgetUtilizedETB": 426643,
+    "budgetAllocatedETB": 381251,
+    "budgetUtilizedETB": 381251,
     "objectives": [
       "Assessment of fish culture suitability in irrigation schemes of East Bale",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5552,7 +5552,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-91-1",
-        "title": "Final Research Dossier: Assessment of fish culture suitability in irrigation schemes of Eas...",
+        "title": "Final Research Dossier: Assessment of fish culture suitability in irrigation schemes of East Bale",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5567,7 +5567,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Economic Valuation of Ecosystem Services of Lake Langano and Koka Reservoir in Oromia Regional State, Ethiopia",
     "centerId": "batu-fishery",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mr.Abdulhakim",
@@ -5581,8 +5581,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426716,
-    "budgetUtilizedETB": 426716,
+    "budgetAllocatedETB": 450560,
+    "budgetUtilizedETB": 450560,
     "objectives": [
       "Economic Valuation of Ecosystem Services of Lake Langano and Koka Reservoir in Oromia Regional State, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5613,7 +5613,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-92-1",
-        "title": "Final Research Dossier: Economic Valuation of Ecosystem Services of Lake Langano and Koka R...",
+        "title": "Final Research Dossier: Economic Valuation of Ecosystem Services of Lake Langano and Koka Reservoir in O...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5625,10 +5625,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-093",
     "code": "IQQO-COMP-BFALRC-2018-093",
-    "title": "Pre-extension�Demonstration and Evaluation of�Urban�Integrated Aquaponics�Technology in�Batu Town of�East Showa�Zone ,Oromia, Ethiopia",
+    "title": "Pre-extension Demonstration and Evaluation of Urban Integrated Aquaponics Technology in Batu Town of East Showa Zone ,Oromia, Ethiopia",
     "centerId": "batu-fishery",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mr.Alemayehu",
@@ -5642,10 +5642,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426789,
-    "budgetUtilizedETB": 426789,
+    "budgetAllocatedETB": 469230,
+    "budgetUtilizedETB": 469230,
     "objectives": [
-      "Pre-extension�Demonstration and Evaluation of�Urban�Integrated Aquaponics�Technology in�Batu Town of�East Showa�Zone ,Oromia, Ethiopia",
+      "Pre-extension Demonstration and Evaluation of Urban Integrated Aquaponics Technology in Batu Town of East Showa Zone ,Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -5674,7 +5674,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-93-1",
-        "title": "Final Research Dossier: Pre-extension�Demonstration and Evaluation of�Urban�Integrated Aqua...",
+        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Urban Integrated Aquaponics Techno...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5689,7 +5689,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "participatory demonstration of improved fishery technologies to Abijata lake of Oromia regional state, Ethiopia",
     "centerId": "batu-fishery",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mr.Abdulhakim",
@@ -5703,8 +5703,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 426862,
-    "budgetUtilizedETB": 426862,
+    "budgetAllocatedETB": 477152,
+    "budgetUtilizedETB": 477152,
     "objectives": [
       "participatory demonstration of improved fishery technologies to Abijata lake of Oromia regional state, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5735,7 +5735,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-94-1",
-        "title": "Final Research Dossier: participatory demonstration of improved fishery technologies to Abi...",
+        "title": "Final Research Dossier: participatory demonstration of improved fishery technologies to Abijata lake of ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -5747,7 +5747,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-095",
     "code": "IQQO-COMP-BARC-2018-095",
-    "title": "Genotype � Environment Interaction and Stability Analysis of Finger millet (Eleusine coracana) Genotypes in Western Oromia, Ethiopia.",
+    "title": "Genotype Environment Interaction and Stability Analysis of Finger millet (Eleusine coracana) Genotypes in Western Oromia, Ethiopia.",
     "centerId": "bako-arc",
     "directorateId": "crop-research",
     "teamId": "team-cereal-crops",
@@ -5764,10 +5764,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2022-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 426935,
-    "budgetUtilizedETB": 426935,
+    "budgetAllocatedETB": 567473,
+    "budgetUtilizedETB": 567473,
     "objectives": [
-      "Genotype � Environment Interaction and Stability Analysis of Finger millet (Eleusine coracana) Genotypes in Western Oromia, Ethiopia.",
+      "Genotype Environment Interaction and Stability Analysis of Finger millet (Eleusine coracana) Genotypes in Western Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -5796,7 +5796,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-95-1",
-        "title": "Final Research Dossier: Genotype � Environment Interaction and Stability Analysis of Finger...",
+        "title": "Final Research Dossier: Genotype Environment Interaction and Stability Analysis of Finger millet (Eleusi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -5808,7 +5808,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-096",
     "code": "IQQO-COMP-BARC-2018-096",
-    "title": "Genotype � Environment Interaction and Stability Analysis of Rice Genotypes in Western Oromia, Ethiopia.",
+    "title": "Genotype Environment Interaction and Stability Analysis of Rice Genotypes in Western Oromia, Ethiopia.",
     "centerId": "bako-arc",
     "directorateId": "crop-research",
     "teamId": "team-cereal-crops",
@@ -5825,10 +5825,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2022-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 427008,
-    "budgetUtilizedETB": 427008,
+    "budgetAllocatedETB": 369237,
+    "budgetUtilizedETB": 369237,
     "objectives": [
-      "Genotype � Environment Interaction and Stability Analysis of Rice Genotypes in Western Oromia, Ethiopia.",
+      "Genotype Environment Interaction and Stability Analysis of Rice Genotypes in Western Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -5857,7 +5857,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-96-1",
-        "title": "Final Research Dossier: Genotype � Environment Interaction and Stability Analysis of Rice G...",
+        "title": "Final Research Dossier: Genotype Environment Interaction and Stability Analysis of Rice Genotypes in Wes...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -5886,8 +5886,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 427081,
-    "budgetUtilizedETB": 427081,
+    "budgetAllocatedETB": 539847,
+    "budgetUtilizedETB": 539847,
     "objectives": [
       "Effects of spacing on grain yield and yield components of sorghum (Sorghum bicolor. L Moench) in west region of Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5918,7 +5918,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-97-1",
-        "title": "Final Research Dossier: Effects of spacing on grain yield and yield components of sorghum (...",
+        "title": "Final Research Dossier: Effects of spacing on grain yield and yield components of sorghum (Sorghum bicol...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -5947,8 +5947,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 427154,
-    "budgetUtilizedETB": 427154,
+    "budgetAllocatedETB": 362037,
+    "budgetUtilizedETB": 362037,
     "objectives": [
       "Effects of sowing time on growth, yield and yield components of finger millet (Eleusine coracana L. Gaertn.) varieties in West region of Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -5979,7 +5979,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-98-1",
-        "title": "Final Research Dossier: Effects of sowing time on growth, yield and yield components of fin...",
+        "title": "Final Research Dossier: Effects of sowing time on growth, yield and yield components of finger millet (E...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -6008,8 +6008,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 427227,
-    "budgetUtilizedETB": 427227,
+    "budgetAllocatedETB": 595284,
+    "budgetUtilizedETB": 595284,
     "objectives": [
       "Determination of optimum nitrogen fertilizer rates and time of top dressing on tef variety in western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6040,7 +6040,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-99-1",
-        "title": "Final Research Dossier: Determination of optimum nitrogen fertilizer rates and time of top ...",
+        "title": "Final Research Dossier: Determination of optimum nitrogen fertilizer rates and time of top dressing on t...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -6069,8 +6069,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 427300,
-    "budgetUtilizedETB": 427300,
+    "budgetAllocatedETB": 535996,
+    "budgetUtilizedETB": 535996,
     "objectives": [
       "Effects of Seeding rates on yield and yield components of tef in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6101,7 +6101,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-100-1",
-        "title": "Final Research Dossier: Effects of Seeding rates on yield and yield components of tef in We...",
+        "title": "Final Research Dossier: Effects of Seeding rates on yield and yield components of tef in Western Oromia,...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -6130,8 +6130,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 427373,
-    "budgetUtilizedETB": 427373,
+    "budgetAllocatedETB": 411517,
+    "budgetUtilizedETB": 411517,
     "objectives": [
       "Effects of seeding rate on yield and yield components of food barley varieties (Hordeum vulgare L.) in west region of Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6162,7 +6162,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-101-1",
-        "title": "Final Research Dossier: Effects of seeding rate on yield and yield components of food barle...",
+        "title": "Final Research Dossier: Effects of seeding rate on yield and yield components of food barley varieties (...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -6189,10 +6189,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2023/24",
     "yearCompletionEC": "2025/26",
-    "startDate": "2023/24-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 427446,
-    "budgetUtilizedETB": 427446,
+    "startDate": "2023-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 474812,
+    "budgetUtilizedETB": 474812,
     "objectives": [
       "Genotype by Environment Interaction and Stability Analysis for Bread Wheat Genotypes in West Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6206,27 +6206,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-102-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2023/24-06-30",
+        "dueDate": "2023-06-30",
         "completed": true,
-        "completedDate": "2023/24-06-25",
+        "completedDate": "2023-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-102-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-102-1",
-        "title": "Final Research Dossier: Genotype by Environment Interaction and Stability Analysis for Brea...",
+        "title": "Final Research Dossier: Genotype by Environment Interaction and Stability Analysis for Bread Wheat Genot...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -6252,8 +6252,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 427519,
-    "budgetUtilizedETB": 427519,
+    "budgetAllocatedETB": 471882,
+    "budgetUtilizedETB": 471882,
     "objectives": [
       "Genotype by Environment Interaction and AMMI for Stability Analysis of Food Barley Genotypes in Western Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6284,7 +6284,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-103-1",
-        "title": "Final Research Dossier: Genotype by Environment Interaction and AMMI for Stability Analysis...",
+        "title": "Final Research Dossier: Genotype by Environment Interaction and AMMI for Stability Analysis of Food Barl...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6296,7 +6296,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-104",
     "code": "IQQO-COMP-BARC-2018-104",
-    "title": "Registration of �Gamaa� Sorghum [Sorghum bicolor (L). Moench] Variety in Western, Ethiopia",
+    "title": "Registration of Gamaa Sorghum [Sorghum bicolor (L). Moench] Variety in Western, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-research",
     "teamId": "team-cereal-crops",
@@ -6313,10 +6313,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2022-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 427592,
-    "budgetUtilizedETB": 427592,
+    "budgetAllocatedETB": 445850,
+    "budgetUtilizedETB": 445850,
     "objectives": [
-      "Registration of �Gamaa� Sorghum [Sorghum bicolor (L). Moench] Variety in Western, Ethiopia",
+      "Registration of Gamaa Sorghum [Sorghum bicolor (L). Moench] Variety in Western, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -6345,7 +6345,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-104-1",
-        "title": "Final Research Dossier: Registration of �Gamaa� Sorghum [Sorghum bicolor (L). Moench] Varie...",
+        "title": "Final Research Dossier: Registration of Gamaa Sorghum [Sorghum bicolor (L). Moench] Variety in Western, ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6357,7 +6357,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-105",
     "code": "IQQO-COMP-BARC-2018-105",
-    "title": "Genotype � Environment Interaction and Stability Analysis for Grain Yield of Sorghum [Sorghum bicolor (L.) Moench] Genotypes in Western Ethiopia",
+    "title": "Genotype Environment Interaction and Stability Analysis for Grain Yield of Sorghum [Sorghum bicolor (L.) Moench] Genotypes in Western Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-research",
     "teamId": "team-cereal-crops",
@@ -6374,10 +6374,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 427665,
-    "budgetUtilizedETB": 427665,
+    "budgetAllocatedETB": 461663,
+    "budgetUtilizedETB": 461663,
     "objectives": [
-      "Genotype � Environment Interaction and Stability Analysis for Grain Yield of Sorghum [Sorghum bicolor (L.) Moench] Genotypes in Western Ethiopia",
+      "Genotype Environment Interaction and Stability Analysis for Grain Yield of Sorghum [Sorghum bicolor (L.) Moench] Genotypes in Western Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -6406,7 +6406,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-105-1",
-        "title": "Final Research Dossier: Genotype � Environment Interaction and Stability Analysis for Grain...",
+        "title": "Final Research Dossier: Genotype Environment Interaction and Stability Analysis for Grain Yield of Sorgh...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6435,8 +6435,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2022-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 427738,
-    "budgetUtilizedETB": 427738,
+    "budgetAllocatedETB": 597592,
+    "budgetUtilizedETB": 597592,
     "objectives": [
       "Grain yield Stability Analysis and Malting Quality of Malt Barley Genotypes Evaluated in Western Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6467,7 +6467,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-106-1",
-        "title": "Final Research Dossier: Grain yield Stability Analysis and Malting Quality of Malt Barley G...",
+        "title": "Final Research Dossier: Grain yield Stability Analysis and Malting Quality of Malt Barley Genotypes Eval...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6496,8 +6496,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2022-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 427811,
-    "budgetUtilizedETB": 427811,
+    "budgetAllocatedETB": 546799,
+    "budgetUtilizedETB": 546799,
     "objectives": [
       "Effect of Soil Amendment in Legume-wheat Based Rotation Systems on Yields and Chemical properties of the Rhizosphere Soil at Shambu, West Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6528,7 +6528,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-107-1",
-        "title": "Final Research Dossier: Effect of Soil Amendment in Legume-wheat Based Rotation Systems on ...",
+        "title": "Final Research Dossier: Effect of Soil Amendment in Legume-wheat Based Rotation Systems on Yields and Ch...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6557,8 +6557,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 427884,
-    "budgetUtilizedETB": 427884,
+    "budgetAllocatedETB": 568682,
+    "budgetUtilizedETB": 568682,
     "objectives": [
       "Response of Soybean [Glycine max L. (Merrill)] to Split Nitrogen Fertilizer Application in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6589,7 +6589,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-108-1",
-        "title": "Final Research Dossier: Response of Soybean [Glycine max L. (Merrill)] to Split Nitrogen Fe...",
+        "title": "Final Research Dossier: Response of Soybean [Glycine max L. (Merrill)] to Split Nitrogen Fertilizer Appl...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6618,8 +6618,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 427957,
-    "budgetUtilizedETB": 427957,
+    "budgetAllocatedETB": 425854,
+    "budgetUtilizedETB": 425854,
     "objectives": [
       "Evaluation of Different Cotton (Gossypium hirsutum L.) Varieties in Parts of Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6650,7 +6650,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-109-1",
-        "title": "Final Research Dossier: Evaluation of Different Cotton (Gossypium hirsutum L.) Varieties in...",
+        "title": "Final Research Dossier: Evaluation of Different Cotton (Gossypium hirsutum L.) Varieties in Parts of Wes...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6662,7 +6662,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-110",
     "code": "IQQO-COMP-BARC-2018-110",
-    "title": "�Genotype by Environment Interaction and Grain Yield Stability Analysis of Late Set Soybean (Glycine max (L.) Merrill) Genotypes using AMMI and GGE Biplot in Parts of Western Oromia",
+    "title": "Genotype by Environment Interaction and Grain Yield Stability Analysis of Late Set Soybean (Glycine max (L.) Merrill) Genotypes using AMMI and GGE Biplot in Parts of Western Oromia",
     "centerId": "bako-arc",
     "directorateId": "crop-research",
     "teamId": "team-pulses-oilseeds",
@@ -6679,10 +6679,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2021-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 428030,
-    "budgetUtilizedETB": 428030,
+    "budgetAllocatedETB": 373108,
+    "budgetUtilizedETB": 373108,
     "objectives": [
-      "�Genotype by Environment Interaction and Grain Yield Stability Analysis of Late Set Soybean (Glycine max (L.) Merrill) Genotypes using AMMI and GGE Biplot in Parts of Western Oromia",
+      "Genotype by Environment Interaction and Grain Yield Stability Analysis of Late Set Soybean (Glycine max (L.) Merrill) Genotypes using AMMI and GGE Biplot in Parts of Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -6711,7 +6711,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-110-1",
-        "title": "Final Research Dossier: �Genotype by Environment Interaction and Grain Yield Stability Anal...",
+        "title": "Final Research Dossier: Genotype by Environment Interaction and Grain Yield Stability Analysis of Late S...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6740,8 +6740,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2021-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 428103,
-    "budgetUtilizedETB": 428103,
+    "budgetAllocatedETB": 533759,
+    "budgetUtilizedETB": 533759,
     "objectives": [
       "Medium set soybean GEI",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6802,8 +6802,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 428176,
-    "budgetUtilizedETB": 428176,
+    "budgetAllocatedETB": 405340,
+    "budgetUtilizedETB": 405340,
     "objectives": [
       "Effect of Split N Fertilizer Application on Yield and Yield Components of Sesame at Bako Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6834,7 +6834,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-112-1",
-        "title": "Final Research Dossier: Effect of Split N Fertilizer Application on Yield and Yield Compone...",
+        "title": "Final Research Dossier: Effect of Split N Fertilizer Application on Yield and Yield Components of Sesame...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6863,8 +6863,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2022-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 428249,
-    "budgetUtilizedETB": 428249,
+    "budgetAllocatedETB": 597947,
+    "budgetUtilizedETB": 597947,
     "objectives": [
       "Effect of N Fertilizer Rates and Row spacing on Growth, Yield and Oil Content of Sesame (Sesamum indicum L.) Under Irrigation at Bako, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -6895,7 +6895,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-113-1",
-        "title": "Final Research Dossier: Effect of N Fertilizer Rates and Row spacing on Growth, Yield and O...",
+        "title": "Final Research Dossier: Effect of N Fertilizer Rates and Row spacing on Growth, Yield and Oil Content of...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6907,7 +6907,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-114",
     "code": "IQQO-COMP-BARC-2018-114",
-    "title": "Genotype � Environment Interaction and Stability of Orange-Fleshed Sweet Potato (Ipomoea batatas (L.)) Varieties in Western Oromia, Ethiopia",
+    "title": "Genotype Environment Interaction and Stability of Orange-Fleshed Sweet Potato (Ipomoea batatas (L.)) Varieties in Western Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-research",
     "teamId": "team-horticulture",
@@ -6924,10 +6924,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 428322,
-    "budgetUtilizedETB": 428322,
+    "budgetAllocatedETB": 590571,
+    "budgetUtilizedETB": 590571,
     "objectives": [
-      "Genotype � Environment Interaction and Stability of Orange-Fleshed Sweet Potato (Ipomoea batatas (L.)) Varieties in Western Oromia, Ethiopia",
+      "Genotype Environment Interaction and Stability of Orange-Fleshed Sweet Potato (Ipomoea batatas (L.)) Varieties in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -6956,7 +6956,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-114-1",
-        "title": "Final Research Dossier: Genotype � Environment Interaction and Stability of Orange-Fleshed ...",
+        "title": "Final Research Dossier: Genotype Environment Interaction and Stability of Orange-Fleshed Sweet Potato (I...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -6968,7 +6968,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-115",
     "code": "IQQO-COMP-BARC-2018-115",
-    "title": "Genotype � Environment Interaction and Stability of White-Fleshed Sweet Potato (Ipomoea batatas (L.)) Varieties in Western Oromia, Ethiopia",
+    "title": "Genotype Environment Interaction and Stability of White-Fleshed Sweet Potato (Ipomoea batatas (L.)) Varieties in Western Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-research",
     "teamId": "team-horticulture",
@@ -6985,10 +6985,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 428395,
-    "budgetUtilizedETB": 428395,
+    "budgetAllocatedETB": 587896,
+    "budgetUtilizedETB": 587896,
     "objectives": [
-      "Genotype � Environment Interaction and Stability of White-Fleshed Sweet Potato (Ipomoea batatas (L.)) Varieties in Western Oromia, Ethiopia",
+      "Genotype Environment Interaction and Stability of White-Fleshed Sweet Potato (Ipomoea batatas (L.)) Varieties in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -7017,7 +7017,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-115-1",
-        "title": "Final Research Dossier: Genotype � Environment Interaction and Stability of White-Fleshed S...",
+        "title": "Final Research Dossier: Genotype Environment Interaction and Stability of White-Fleshed Sweet Potato (Ip...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -7046,8 +7046,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2023-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 428468,
-    "budgetUtilizedETB": 428468,
+    "budgetAllocatedETB": 401503,
+    "budgetUtilizedETB": 401503,
     "objectives": [
       "Yield Performance and Adaptability of Cassava (Manihot esculenta (C.)) Varieties in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7078,7 +7078,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-116-1",
-        "title": "Final Research Dossier: Yield Performance and Adaptability of Cassava (Manihot esculenta (C...",
+        "title": "Final Research Dossier: Yield Performance and Adaptability of Cassava (Manihot esculenta (C.)) Varieties...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -7090,7 +7090,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-117",
     "code": "IQQO-COMP-BARC-2018-117",
-    "title": "Registration of �Qejjo�: A Small-Podded Hot Pepper (Capsicum annuum (L.)) Variety for the Agro-Ecologies of Western Oromia, Ethiopia",
+    "title": "Registration of Qejjo : A Small-Podded Hot Pepper (Capsicum annuum (L.)) Variety for the Agro-Ecologies of Western Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-research",
     "teamId": "team-horticulture",
@@ -7107,10 +7107,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2024",
     "startDate": "2022-01-01",
     "endDate": "2024-12-30",
-    "budgetAllocatedETB": 428541,
-    "budgetUtilizedETB": 428541,
+    "budgetAllocatedETB": 475519,
+    "budgetUtilizedETB": 475519,
     "objectives": [
-      "Registration of �Qejjo�: A Small-Podded Hot Pepper (Capsicum annuum (L.)) Variety for the Agro-Ecologies of Western Oromia, Ethiopia",
+      "Registration of Qejjo : A Small-Podded Hot Pepper (Capsicum annuum (L.)) Variety for the Agro-Ecologies of Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -7139,7 +7139,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-117-1",
-        "title": "Final Research Dossier: Registration of �Qejjo�: A Small-Podded Hot Pepper (Capsicum annuum...",
+        "title": "Final Research Dossier: Registration of Qejjo : A Small-Podded Hot Pepper (Capsicum annuum (L.)) Variety...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2024-10-15"
@@ -7168,8 +7168,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 428614,
-    "budgetUtilizedETB": 428614,
+    "budgetAllocatedETB": 375670,
+    "budgetUtilizedETB": 375670,
     "objectives": [
       "Effects of Sugarcane Top-Legumes mixed on Silage Nutritive Value and Fermentation characteristics in BARC",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7200,7 +7200,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-118-1",
-        "title": "Final Research Dossier: Effects of Sugarcane Top-Legumes mixed on Silage Nutritive Value an...",
+        "title": "Final Research Dossier: Effects of Sugarcane Top-Legumes mixed on Silage Nutritive Value and Fermentatio...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7229,8 +7229,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 428687,
-    "budgetUtilizedETB": 428687,
+    "budgetAllocatedETB": 492233,
+    "budgetUtilizedETB": 492233,
     "objectives": [
       "Assessment of Biosecurity Practice in Selective Slaughterhouse in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7261,7 +7261,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-119-1",
-        "title": "Final Research Dossier: Assessment of Biosecurity Practice in Selective Slaughterhouse in W...",
+        "title": "Final Research Dossier: Assessment of Biosecurity Practice in Selective Slaughterhouse in Western Oromia...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7290,8 +7290,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 428760,
-    "budgetUtilizedETB": 428760,
+    "budgetAllocatedETB": 547703,
+    "budgetUtilizedETB": 547703,
     "objectives": [
       "Impact of Entry Age to Fattening and Level of Concentrate on Growth Performance and Carcass Characteristics of Horro",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7322,7 +7322,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-120-1",
-        "title": "Final Research Dossier: Impact of Entry Age to Fattening and Level of Concentrate on Growth...",
+        "title": "Final Research Dossier: Impact of Entry Age to Fattening and Level of Concentrate on Growth Performance ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7351,8 +7351,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2011-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 428833,
-    "budgetUtilizedETB": 428833,
+    "budgetAllocatedETB": 361168,
+    "budgetUtilizedETB": 361168,
     "objectives": [
       "Estimation of genetic parameters and genetic trends for growth traits in Horro sheep under Community-Based Breeding Programs (Non IQQO)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7383,7 +7383,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-121-1",
-        "title": "Final Research Dossier: Estimation of genetic parameters and genetic trends for growth trai...",
+        "title": "Final Research Dossier: Estimation of genetic parameters and genetic trends for growth traits in Horro s...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7412,8 +7412,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 428906,
-    "budgetUtilizedETB": 428906,
+    "budgetAllocatedETB": 455599,
+    "budgetUtilizedETB": 455599,
     "objectives": [
       "Effects of planting time and inter and intra row spacing on nutritive values and forage DM yield, seed yield, of the Dolichos Lablab variety grown under Bako conditions",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7444,7 +7444,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-122-1",
-        "title": "Final Research Dossier: Effects of planting time and inter and intra row spacing on nutriti...",
+        "title": "Final Research Dossier: Effects of planting time and inter and intra row spacing on nutritive values and...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7473,8 +7473,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 428979,
-    "budgetUtilizedETB": 428979,
+    "budgetAllocatedETB": 542802,
+    "budgetUtilizedETB": 542802,
     "objectives": [
       "Effect of planting time, inter and intra row spacing of cow pea variety on seed and forage DM yields at Bako",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7505,7 +7505,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-123-1",
-        "title": "Final Research Dossier: Effect of planting time, inter and intra row spacing of cow pea var...",
+        "title": "Final Research Dossier: Effect of planting time, inter and intra row spacing of cow pea variety on seed ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7534,8 +7534,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429052,
-    "budgetUtilizedETB": 429052,
+    "budgetAllocatedETB": 431778,
+    "budgetUtilizedETB": 431778,
     "objectives": [
       "Evaluation of Inter- and Intra-row Spacing of Selected Pigeon Pea Variety for Biomass Yield and Quality Under Bako Condition, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7566,7 +7566,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-124-1",
-        "title": "Final Research Dossier: Evaluation of Inter- and Intra-row Spacing of Selected Pigeon Pea V...",
+        "title": "Final Research Dossier: Evaluation of Inter- and Intra-row Spacing of Selected Pigeon Pea Variety for Bi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7595,8 +7595,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429125,
-    "budgetUtilizedETB": 429125,
+    "budgetAllocatedETB": 504811,
+    "budgetUtilizedETB": 504811,
     "objectives": [
       "Evaluation of food and fodder crops for green fodder potential under hydroponic conditions for sustainable livestock feed production at Bako",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7628,7 +7628,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-125-1",
-        "title": "Final Research Dossier: Evaluation of food and fodder crops for green fodder potential unde...",
+        "title": "Final Research Dossier: Evaluation of food and fodder crops for green fodder potential under hydroponic ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7657,8 +7657,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429198,
-    "budgetUtilizedETB": 429198,
+    "budgetAllocatedETB": 363761,
+    "budgetUtilizedETB": 363761,
     "objectives": [
       "Study on Major Reproductive Problems of Dairy Cattle with Specific Emphasis on Bovine Brucellosis in Selected Districts of Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7689,7 +7689,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-126-1",
-        "title": "Final Research Dossier: Study on Major Reproductive Problems of Dairy Cattle with Specific ...",
+        "title": "Final Research Dossier: Study on Major Reproductive Problems of Dairy Cattle with Specific Emphasis on B...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7718,8 +7718,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429271,
-    "budgetUtilizedETB": 429271,
+    "budgetAllocatedETB": 520245,
+    "budgetUtilizedETB": 520245,
     "objectives": [
       "Assessment of Farm Characteristics and Dairy Herd Structure in Urban and Peri-Urban Dairy Production Systems of Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7751,7 +7751,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-127-1",
-        "title": "Final Research Dossier: Assessment of Farm Characteristics and Dairy Herd Structure in Urba...",
+        "title": "Final Research Dossier: Assessment of Farm Characteristics and Dairy Herd Structure in Urban and Peri-Ur...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7780,8 +7780,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2014-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429344,
-    "budgetUtilizedETB": 429344,
+    "budgetAllocatedETB": 408388,
+    "budgetUtilizedETB": 408388,
     "objectives": [
       "Evaluation and Improvement of Conception Rate in Dairy Cattle through the Establishment of AI Service Stations in Strategic Locations",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7812,7 +7812,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-128-1",
-        "title": "Final Research Dossier: Evaluation and Improvement of Conception Rate in Dairy Cattle throu...",
+        "title": "Final Research Dossier: Evaluation and Improvement of Conception Rate in Dairy Cattle through the Establ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7841,8 +7841,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429417,
-    "budgetUtilizedETB": 429417,
+    "budgetAllocatedETB": 538639,
+    "budgetUtilizedETB": 538639,
     "objectives": [
       "Physicochemical properties of natural mineral water (Hora) and their surrounding soil in western, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7874,7 +7874,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-129-1",
-        "title": "Final Research Dossier: Physicochemical properties of natural mineral water (Hora) and thei...",
+        "title": "Final Research Dossier: Physicochemical properties of natural mineral water (Hora) and their surrounding...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7903,8 +7903,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429490,
-    "budgetUtilizedETB": 429490,
+    "budgetAllocatedETB": 455437,
+    "budgetUtilizedETB": 455437,
     "objectives": [
       "Investigation of Pollinator Diversity and Foraging Behavior of Honeybees on Cuphea hyssopifolia Kunth (Family: Lythraceae) in Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -7935,7 +7935,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-130-1",
-        "title": "Final Research Dossier: Investigation of Pollinator Diversity and Foraging Behavior of Hone...",
+        "title": "Final Research Dossier: Investigation of Pollinator Diversity and Foraging Behavior of Honeybees on Cuph...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -7947,7 +7947,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-131",
     "code": "IQQO-COMP-BARC-2018-131",
-    "title": "Identification of smallholder farmers� breeding practices and trait preferences for indigenous Chicken: inputs to design a sustainable breeding Program",
+    "title": "Identification of smallholder farmers breeding practices and trait preferences for indigenous Chicken: inputs to design a sustainable breeding Program",
     "centerId": "bako-arc",
     "directorateId": "livestock-research",
     "teamId": "team-poultry",
@@ -7964,10 +7964,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429563,
-    "budgetUtilizedETB": 429563,
+    "budgetAllocatedETB": 445306,
+    "budgetUtilizedETB": 445306,
     "objectives": [
-      "Identification of smallholder farmers� breeding practices and trait preferences for indigenous Chicken: inputs to design a sustainable breeding Program",
+      "Identification of smallholder farmers breeding practices and trait preferences for indigenous Chicken: inputs to design a sustainable breeding Program",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -7997,7 +7997,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-131-1",
-        "title": "Final Research Dossier: Identification of smallholder farmers� breeding practices and trait...",
+        "title": "Final Research Dossier: Identification of smallholder farmers breeding practices and trait preferences f...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -8026,8 +8026,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 429636,
-    "budgetUtilizedETB": 429636,
+    "budgetAllocatedETB": 547937,
+    "budgetUtilizedETB": 547937,
     "objectives": [
       "Assessment of Major Poultry Diseases in Selected Districts of Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8058,7 +8058,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-132-1",
-        "title": "Final Research Dossier: Assessment of Major Poultry Diseases in Selected Districts of Weste...",
+        "title": "Final Research Dossier: Assessment of Major Poultry Diseases in Selected Districts of Western Oromia",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -8085,10 +8085,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2017/2018",
     "yearCompletionEC": "2025/2026",
-    "startDate": "2017/2018-01-01",
-    "endDate": "2025/2026-12-30",
-    "budgetAllocatedETB": 429709,
-    "budgetUtilizedETB": 429709,
+    "startDate": "2017-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 398900,
+    "budgetUtilizedETB": 398900,
     "objectives": [
       "Demonstration and promotion of Integrated Termite Management practices using different technologies for rehabilitation of degraded lands in Diga district.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8102,27 +8102,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-133-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2017/2018-06-30",
+        "dueDate": "2017-06-30",
         "completed": true,
-        "completedDate": "2017/2018-06-25",
+        "completedDate": "2017-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-133-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/2026-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/2026-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-133-1",
-        "title": "Final Research Dossier: Demonstration and promotion of Integrated Termite Management practi...",
+        "title": "Final Research Dossier: Demonstration and promotion of Integrated Termite Management practices using dif...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/2026-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -8146,10 +8146,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2023/2024",
     "yearCompletionEC": "2025/2026",
-    "startDate": "2023/2024-01-01",
-    "endDate": "2025/2026-12-30",
-    "budgetAllocatedETB": 429782,
-    "budgetUtilizedETB": 429782,
+    "startDate": "2023-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 387322,
+    "budgetUtilizedETB": 387322,
     "objectives": [
       "GIS and RS-Based Investigating Farm Landscape for Trees Potentiality in Bako and Cheliya Districts, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8163,27 +8163,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-134-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2023/2024-06-30",
+        "dueDate": "2023-06-30",
         "completed": true,
-        "completedDate": "2023/2024-06-25",
+        "completedDate": "2023-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-134-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/2026-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/2026-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-134-1",
-        "title": "Final Research Dossier: GIS and RS-Based Investigating Farm Landscape for Trees Potentialit...",
+        "title": "Final Research Dossier: GIS and RS-Based Investigating Farm Landscape for Trees Potentiality in Bako and...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/2026-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -8207,10 +8207,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2023/2024",
     "yearCompletionEC": "2025/2026",
-    "startDate": "2023/2024-01-01",
-    "endDate": "2025/2026-12-30",
-    "budgetAllocatedETB": 429855,
-    "budgetUtilizedETB": 429855,
+    "startDate": "2023-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 374032,
+    "budgetUtilizedETB": 374032,
     "objectives": [
       "Evaluating climate change Impacts on agro-climatic Suitability of Coffee (Coffea arabica) in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8224,27 +8224,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-135-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2023/2024-06-30",
+        "dueDate": "2023-06-30",
         "completed": true,
-        "completedDate": "2023/2024-06-25",
+        "completedDate": "2023-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-135-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/2026-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/2026-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-135-1",
-        "title": "Final Research Dossier: Evaluating climate change Impacts on agro-climatic Suitability of C...",
+        "title": "Final Research Dossier: Evaluating climate change Impacts on agro-climatic Suitability of Coffee (Coffea...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/2026-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -8256,7 +8256,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of Soil Test Crop Response Based Phosphorus Recommendation for Bread Wheat (Triticum species) in Jimma Rare District, Western Oromia",
     "centerId": "bako-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Negash Teshome",
@@ -8268,10 +8268,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2023/24",
     "yearCompletionEC": "2025",
-    "startDate": "2023/24-01-01",
+    "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 429928,
-    "budgetUtilizedETB": 429928,
+    "budgetAllocatedETB": 430317,
+    "budgetUtilizedETB": 430317,
     "objectives": [
       "Verification of Soil Test Crop Response Based Phosphorus Recommendation for Bread Wheat (Triticum species) in Jimma Rare District, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8285,9 +8285,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-136-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2023/24-06-30",
+        "dueDate": "2023-06-30",
         "completed": true,
-        "completedDate": "2023/24-06-25",
+        "completedDate": "2023-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
@@ -8302,7 +8302,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-136-1",
-        "title": "Final Research Dossier: Verification of Soil Test Crop Response Based Phosphorus Recommenda...",
+        "title": "Final Research Dossier: Verification of Soil Test Crop Response Based Phosphorus Recommendation for Brea...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8317,7 +8317,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On farm Verification of Soil Test Crop Response Based Phosphorus Requirement for Bread Wheat at Gudeya Bila District, East Wellega Zone, Western Oromia",
     "centerId": "bako-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Negash Teshome",
@@ -8331,8 +8331,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2025-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430001,
-    "budgetUtilizedETB": 430001,
+    "budgetAllocatedETB": 351271,
+    "budgetUtilizedETB": 351271,
     "objectives": [
       "On farm Verification of Soil Test Crop Response Based Phosphorus Requirement for Bread Wheat at Gudeya Bila District, East Wellega Zone, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8363,7 +8363,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-137-1",
-        "title": "Final Research Dossier: On farm Verification of Soil Test Crop Response Based Phosphorus Re...",
+        "title": "Final Research Dossier: On farm Verification of Soil Test Crop Response Based Phosphorus Requirement for...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8378,7 +8378,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Soil Test Crop Response Based Phosphorous Calibration Study under Limed Conditions on Grain Yield of Rice at Chewaka District, Western Oromia",
     "centerId": "bako-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Negash Teshome",
@@ -8392,8 +8392,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430074,
-    "budgetUtilizedETB": 430074,
+    "budgetAllocatedETB": 572290,
+    "budgetUtilizedETB": 572290,
     "objectives": [
       "Soil Test Crop Response Based Phosphorous Calibration Study under Limed Conditions on Grain Yield of Rice at Chewaka District, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8424,7 +8424,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-138-1",
-        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorous Calibration Study under L...",
+        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorous Calibration Study under Limed Conditio...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8436,10 +8436,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-139",
     "code": "IQQO-COMP-BARC-2018-139",
-    "title": "Soil Test Crop Response Based Calibration Study for Tef [Eragrostis tef (Zucc.) Trotter] in Ilu Galan District of West Shewa Zone,Western  Oromia, Ethiopia",
+    "title": "Soil Test Crop Response Based Calibration Study for Tef [Eragrostis tef (Zucc.) Trotter] in Ilu Galan District of West Shewa Zone,Western Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayisa Baye",
@@ -8451,12 +8451,12 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2023/24",
     "yearCompletionEC": "2025/26",
-    "startDate": "2023/24-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 430147,
-    "budgetUtilizedETB": 430147,
+    "startDate": "2023-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 581340,
+    "budgetUtilizedETB": 581340,
     "objectives": [
-      "Soil Test Crop Response Based Calibration Study for Tef [Eragrostis tef (Zucc.) Trotter] in Ilu Galan District of West Shewa Zone,Western  Oromia, Ethiopia",
+      "Soil Test Crop Response Based Calibration Study for Tef [Eragrostis tef (Zucc.) Trotter] in Ilu Galan District of West Shewa Zone,Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -8468,27 +8468,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-139-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2023/24-06-30",
+        "dueDate": "2023-06-30",
         "completed": true,
-        "completedDate": "2023/24-06-25",
+        "completedDate": "2023-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-139-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-139-1",
-        "title": "Final Research Dossier: Soil Test Crop Response Based Calibration Study for Tef [Eragrostis...",
+        "title": "Final Research Dossier: Soil Test Crop Response Based Calibration Study for Tef [Eragrostis tef (Zucc.) ...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -8500,7 +8500,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "The Influence of Inorganic Fertilizer and Vermicompost with Reclamation of Acidic Soil for Soil Fertility Improvement, Yield and Grain Quality of Ground nut (Arachis hypogaea L.) at Bako and Chewaka Districts of Western Oromia",
     "centerId": "bako-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Negash Teshome",
@@ -8514,8 +8514,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430220,
-    "budgetUtilizedETB": 430220,
+    "budgetAllocatedETB": 480847,
+    "budgetUtilizedETB": 480847,
     "objectives": [
       "The Influence of Inorganic Fertilizer and Vermicompost with Reclamation of Acidic Soil for Soil Fertility Improvement, Yield and Grain Quality of Ground nut (Arachis hypogaea L.) at Bako and Chewaka Districts of Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8525,7 +8525,6 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "expectedOutputs": "Final verified scientific outputs, technical recommendation dossiers, and demonstration packages.",
     "targetAgroEcology": "Mandated Oromia agro-ecologies (BARC)",
     "presentationDecision": "Will be presented",
-    "nonPresentationReason": "Since Laboratory results were sent to IQQO food Science and additionally, some soil parameters were not completed.",
     "milestones": [
       {
         "id": "m-comp-140-1",
@@ -8547,7 +8546,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-140-1",
-        "title": "Final Research Dossier: The Influence of Inorganic Fertilizer and Vermicompost with Reclama...",
+        "title": "Final Research Dossier: The Influence of Inorganic Fertilizer and Vermicompost with Reclamation of Acidi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8559,10 +8558,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-141",
     "code": "IQQO-COMP-BARC-2018-141",
-    "title": "Screening of large Red   Speckled Common Bean (Phaseolus vulgaris L.) Genotypes for Resistance to Major Common Bean Diseases at Bako in Wester Oromia",
+    "title": "Screening of large Red Speckled Common Bean (Phaseolus vulgaris L.) Genotypes for Resistance to Major Common Bean Diseases at Bako in Wester Oromia",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "kabna A",
@@ -8574,12 +8573,12 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025",
-    "startDate": "2024/25-01-01",
+    "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430293,
-    "budgetUtilizedETB": 430293,
+    "budgetAllocatedETB": 553535,
+    "budgetUtilizedETB": 553535,
     "objectives": [
-      "Screening of large Red   Speckled Common Bean (Phaseolus vulgaris L.) Genotypes for Resistance to Major Common Bean Diseases at Bako in Wester Oromia",
+      "Screening of large Red Speckled Common Bean (Phaseolus vulgaris L.) Genotypes for Resistance to Major Common Bean Diseases at Bako in Wester Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -8591,9 +8590,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-141-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
@@ -8608,7 +8607,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-141-1",
-        "title": "Final Research Dossier: Screening of large Red   Speckled Common Bean (Phaseolus vulgaris L...",
+        "title": "Final Research Dossier: Screening of large Red Speckled Common Bean (Phaseolus vulgaris L.) Genotypes fo...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8623,7 +8622,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screening of Bread Wheat Genotypes Resistance to Fusarium Head Blight at Gedo in Western Oromia.",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "kabna A",
@@ -8635,10 +8634,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025",
-    "startDate": "2024/25-01-01",
+    "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430366,
-    "budgetUtilizedETB": 430366,
+    "budgetAllocatedETB": 456274,
+    "budgetUtilizedETB": 456274,
     "objectives": [
       "Screening of Bread Wheat Genotypes Resistance to Fusarium Head Blight at Gedo in Western Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8652,9 +8651,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-142-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
@@ -8669,7 +8668,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-142-1",
-        "title": "Final Research Dossier: Screening of Bread Wheat Genotypes Resistance to Fusarium Head Blig...",
+        "title": "Final Research Dossier: Screening of Bread Wheat Genotypes Resistance to Fusarium Head Blight at Gedo in...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8681,10 +8680,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-143",
     "code": "IQQO-COMP-BARC-2018-143",
-    "title": "Screening of Small Red  Common Bean Genotypes for Resistance to Major Common    Bean Diseases at Bako in Wester Oromia",
+    "title": "Screening of Small Red Common Bean Genotypes for Resistance to Major Common Bean Diseases at Bako in Wester Oromia",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "kabna A",
@@ -8696,12 +8695,12 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025",
-    "startDate": "2024/25-01-01",
+    "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430439,
-    "budgetUtilizedETB": 430439,
+    "budgetAllocatedETB": 435036,
+    "budgetUtilizedETB": 435036,
     "objectives": [
-      "Screening of Small Red  Common Bean Genotypes for Resistance to Major Common    Bean Diseases at Bako in Wester Oromia",
+      "Screening of Small Red Common Bean Genotypes for Resistance to Major Common Bean Diseases at Bako in Wester Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -8713,9 +8712,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-143-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
@@ -8730,7 +8729,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-143-1",
-        "title": "Final Research Dossier: Screening of Small Red  Common Bean Genotypes for Resistance to Maj...",
+        "title": "Final Research Dossier: Screening of Small Red Common Bean Genotypes for Resistance to Major Common Bean...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8745,7 +8744,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screening of Food Barley genotypes against of major diseases of barley disease in Shambu area",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abay G.",
@@ -8759,8 +8758,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2025-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430512,
-    "budgetUtilizedETB": 430512,
+    "budgetAllocatedETB": 515242,
+    "budgetUtilizedETB": 515242,
     "objectives": [
       "Screening of Food Barley genotypes against of major diseases of barley disease in Shambu area",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8791,7 +8790,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-144-1",
-        "title": "Final Research Dossier: Screening of Food Barley genotypes against of major diseases of bar...",
+        "title": "Final Research Dossier: Screening of Food Barley genotypes against of major diseases of barley disease i...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8806,7 +8805,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screening of Malt Barley genotypes against of major diseases of barley disease in Shambu",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abay G.",
@@ -8820,8 +8819,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2025-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430585,
-    "budgetUtilizedETB": 430585,
+    "budgetAllocatedETB": 364453,
+    "budgetUtilizedETB": 364453,
     "objectives": [
       "Screening of Malt Barley genotypes against of major diseases of barley disease in Shambu",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8852,7 +8851,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-145-1",
-        "title": "Final Research Dossier: Screening of Malt Barley genotypes against of major diseases of bar...",
+        "title": "Final Research Dossier: Screening of Malt Barley genotypes against of major diseases of barley disease i...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8867,7 +8866,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Fungicides for the managements of Fuzarium Head Blight disease of bread wheat at Gedo and Shambu area",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abay G.",
@@ -8881,8 +8880,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 430658,
-    "budgetUtilizedETB": 430658,
+    "budgetAllocatedETB": 384340,
+    "budgetUtilizedETB": 384340,
     "objectives": [
       "Evaluation of Fungicides for the managements of Fuzarium Head Blight disease of bread wheat at Gedo and Shambu area",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8913,7 +8912,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-146-1",
-        "title": "Final Research Dossier: Evaluation of Fungicides for the managements of Fuzarium Head Bligh...",
+        "title": "Final Research Dossier: Evaluation of Fungicides for the managements of Fuzarium Head Blight disease of ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -8928,7 +8927,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screen of faba bean genotypes for Resistance to major disease of faba bean diseases",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abay G.",
@@ -8942,8 +8941,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2025-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430731,
-    "budgetUtilizedETB": 430731,
+    "budgetAllocatedETB": 407099,
+    "budgetUtilizedETB": 407099,
     "objectives": [
       "Screen of faba bean genotypes for Resistance to major disease of faba bean diseases",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -8974,7 +8973,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-147-1",
-        "title": "Final Research Dossier: Screen of faba bean genotypes for Resistance to major disease of fa...",
+        "title": "Final Research Dossier: Screen of faba bean genotypes for Resistance to major disease of faba bean disea...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -8989,7 +8988,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Management of rice bacterial blight (Xanthomonas campestris pv. oryzae (Xco)) disease through copper fungicides in West Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abraham N",
@@ -9003,8 +9002,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430804,
-    "budgetUtilizedETB": 430804,
+    "budgetAllocatedETB": 498158,
+    "budgetUtilizedETB": 498158,
     "objectives": [
       "Management of rice bacterial blight (Xanthomonas campestris pv. oryzae (Xco)) disease through copper fungicides in West Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9035,7 +9034,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-148-1",
-        "title": "Final Research Dossier: Management of rice bacterial blight (Xanthomonas campestris pv. ory...",
+        "title": "Final Research Dossier: Management of rice bacterial blight (Xanthomonas campestris pv. oryzae (Xco)) di...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -9050,7 +9049,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "In-Vitro Evaluation of Trichoderma Species for Management of Sorghum Anthracnose at Bako, Western Oromia",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abraham N",
@@ -9064,8 +9063,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2025-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430877,
-    "budgetUtilizedETB": 430877,
+    "budgetAllocatedETB": 507808,
+    "budgetUtilizedETB": 507808,
     "objectives": [
       "In-Vitro Evaluation of Trichoderma Species for Management of Sorghum Anthracnose at Bako, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9097,7 +9096,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-149-1",
-        "title": "Final Research Dossier: In-Vitro Evaluation of Trichoderma Species for Management of Sorghu...",
+        "title": "Final Research Dossier: In-Vitro Evaluation of Trichoderma Species for Management of Sorghum Anthracnose...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -9112,7 +9111,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Insecticides and their application frequency for the management of Termite (Microtermes adschaggae (Sjosted) in Hot pepper at Billo boshe western Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dejene H",
@@ -9126,8 +9125,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 430950,
-    "budgetUtilizedETB": 430950,
+    "budgetAllocatedETB": 472322,
+    "budgetUtilizedETB": 472322,
     "objectives": [
       "Evaluation of Insecticides and their application frequency for the management of Termite (Microtermes adschaggae (Sjosted) in Hot pepper at Billo boshe western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9158,7 +9157,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-150-1",
-        "title": "Final Research Dossier: Evaluation of Insecticides and their application frequency for the ...",
+        "title": "Final Research Dossier: Evaluation of Insecticides and their application frequency for the management of...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -9173,7 +9172,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of food Barley varieties and advanced genotypes for resistance to rice weevil Sitophilus Oryzae (L) (Coleoptera: Curculionidae) under laboratory condition at Bako Agricultural Research Center",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dejene H",
@@ -9187,8 +9186,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 431023,
-    "budgetUtilizedETB": 431023,
+    "budgetAllocatedETB": 406257,
+    "budgetUtilizedETB": 406257,
     "objectives": [
       "Evaluation of food Barley varieties and advanced genotypes for resistance to rice weevil Sitophilus Oryzae (L) (Coleoptera: Curculionidae) under laboratory condition at Bako Agricultural Research Center",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9219,7 +9218,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-151-1",
-        "title": "Final Research Dossier: Evaluation of food Barley varieties and advanced genotypes for resi...",
+        "title": "Final Research Dossier: Evaluation of food Barley varieties and advanced genotypes for resistance to ric...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -9234,7 +9233,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Chemical insecticides for the management of Russian Wheat Aphids under irrigation, in parts of western Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dejene H",
@@ -9248,8 +9247,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 431096,
-    "budgetUtilizedETB": 431096,
+    "budgetAllocatedETB": 573463,
+    "budgetUtilizedETB": 573463,
     "objectives": [
       "Evaluation of Chemical insecticides for the management of Russian Wheat Aphids under irrigation, in parts of western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9280,7 +9279,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-152-1",
-        "title": "Final Research Dossier: Evaluation of Chemical insecticides for the management of Russian W...",
+        "title": "Final Research Dossier: Evaluation of Chemical insecticides for the management of Russian Wheat Aphids u...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -9295,7 +9294,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Prediction of the Potential Distribution of Fall Armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae) under Current and Future Climate Conditions",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dr. Megersa",
@@ -9309,8 +9308,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 431169,
-    "budgetUtilizedETB": 431169,
+    "budgetAllocatedETB": 435511,
+    "budgetUtilizedETB": 435511,
     "objectives": [
       "Prediction of the Potential Distribution of Fall Armyworm, Spodoptera frugiperda (Lepidoptera: Noctuidae) under Current and Future Climate Conditions",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9341,7 +9340,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-153-1",
-        "title": "Final Research Dossier: Prediction of the Potential Distribution of Fall Armyworm, Spodopte...",
+        "title": "Final Research Dossier: Prediction of the Potential Distribution of Fall Armyworm, Spodoptera frugiperda...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -9353,10 +9352,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-154",
     "code": "IQQO-COMP-BARC-2018-154",
-    "title": "Evaluation of Pre-emergence Herbicides and Their Combination with one post-emergence herbicide and Hand weeding against Weeds in Sorghum (Sorghum bicolor L. Moench) in  Western Oromia, Ethiopia",
+    "title": "Evaluation of Pre-emergence Herbicides and Their Combination with one post-emergence herbicide and Hand weeding against Weeds in Sorghum (Sorghum bicolor L. Moench) in Western Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Lamma Lalisa",
@@ -9368,12 +9367,12 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 431242,
-    "budgetUtilizedETB": 431242,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 383344,
+    "budgetUtilizedETB": 383344,
     "objectives": [
-      "Evaluation of Pre-emergence Herbicides and Their Combination with one post-emergence herbicide and Hand weeding against Weeds in Sorghum (Sorghum bicolor L. Moench) in  Western Oromia, Ethiopia",
+      "Evaluation of Pre-emergence Herbicides and Their Combination with one post-emergence herbicide and Hand weeding against Weeds in Sorghum (Sorghum bicolor L. Moench) in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -9385,27 +9384,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-154-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-154-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-154-1",
-        "title": "Final Research Dossier: Evaluation of Pre-emergence Herbicides and Their Combination with o...",
+        "title": "Final Research Dossier: Evaluation of Pre-emergence Herbicides and Their Combination with one post-emerg...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -9417,7 +9416,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effects of weed management practices on the yield and yield components of hot pepper (Capsicum annum L.) under different growth stages of pepper in Western Oromia,Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Lamma Lalisa",
@@ -9429,10 +9428,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 431315,
-    "budgetUtilizedETB": 431315,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 551032,
+    "budgetUtilizedETB": 551032,
     "objectives": [
       "Effects of weed management practices on the yield and yield components of hot pepper (Capsicum annum L.) under different growth stages of pepper in Western Oromia,Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9446,27 +9445,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-155-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-155-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-155-1",
-        "title": "Final Research Dossier: Effects of weed management practices on the yield and yield compone...",
+        "title": "Final Research Dossier: Effects of weed management practices on the yield and yield components of hot pe...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -9475,10 +9474,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-156",
     "code": "IQQO-COMP-BARC-2018-156",
-    "title": "Effects of Integrated Weed Management  on weeds and Yield of Upland Rice (Oryza sativa L.) in Western Oromia, Ethiopia.",
+    "title": "Effects of Integrated Weed Management on weeds and Yield of Upland Rice (Oryza sativa L.) in Western Oromia, Ethiopia.",
     "centerId": "bako-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Lamma Lalisa",
@@ -9490,12 +9489,12 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2023/24",
     "yearCompletionEC": "2025/26",
-    "startDate": "2023/24-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 431388,
-    "budgetUtilizedETB": 431388,
+    "startDate": "2023-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 512102,
+    "budgetUtilizedETB": 512102,
     "objectives": [
-      "Effects of Integrated Weed Management  on weeds and Yield of Upland Rice (Oryza sativa L.) in Western Oromia, Ethiopia.",
+      "Effects of Integrated Weed Management on weeds and Yield of Upland Rice (Oryza sativa L.) in Western Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -9507,27 +9506,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-156-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2023/24-06-30",
+        "dueDate": "2023-06-30",
         "completed": true,
-        "completedDate": "2023/24-06-25",
+        "completedDate": "2023-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-156-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-156-1",
-        "title": "Final Research Dossier: Effects of Integrated Weed Management  on weeds and Yield of Upland...",
+        "title": "Final Research Dossier: Effects of Integrated Weed Management on weeds and Yield of Upland Rice (Oryza s...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -9539,7 +9538,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Yield Performance and Adaptability of Released Coffee Varieties in Western Oromia, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Natol B",
@@ -9553,8 +9552,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2011-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 431461,
-    "budgetUtilizedETB": 431461,
+    "budgetAllocatedETB": 547879,
+    "budgetUtilizedETB": 547879,
     "objectives": [
       "Yield Performance and Adaptability of Released Coffee Varieties in Western Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9585,7 +9584,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-157-1",
-        "title": "Final Research Dossier: Yield Performance and Adaptability of Released Coffee Varieties in ...",
+        "title": "Final Research Dossier: Yield Performance and Adaptability of Released Coffee Varieties in Western Oromi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -9600,7 +9599,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effect of coffee seedling age on field survival and early growth parameters",
     "centerId": "bako-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Hika B",
@@ -9614,8 +9613,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 431534,
-    "budgetUtilizedETB": 431534,
+    "budgetAllocatedETB": 386786,
+    "budgetUtilizedETB": 386786,
     "objectives": [
       "Effect of coffee seedling age on field survival and early growth parameters",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9646,7 +9645,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-158-1",
-        "title": "Final Research Dossier: Effect of coffee seedling age on field survival and early growth pa...",
+        "title": "Final Research Dossier: Effect of coffee seedling age on field survival and early growth parameters",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -9661,7 +9660,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of pigeon pea plantation as dry season mitigation for coffee seedlings during field transplantation season",
     "centerId": "bako-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Hika B",
@@ -9675,8 +9674,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 431607,
-    "budgetUtilizedETB": 431607,
+    "budgetAllocatedETB": 443553,
+    "budgetUtilizedETB": 443553,
     "objectives": [
       "Evaluation of pigeon pea plantation as dry season mitigation for coffee seedlings during field transplantation season",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9707,7 +9706,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-159-1",
-        "title": "Final Research Dossier: Evaluation of pigeon pea plantation as dry season mitigation for co...",
+        "title": "Final Research Dossier: Evaluation of pigeon pea plantation as dry season mitigation for coffee seedling...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -9719,7 +9718,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-160",
     "code": "IQQO-COMP-BARC-2018-160",
-    "title": "On Farm Evaluation and Demonstration of   Drip Irrigation System for tomato production at Bako Tibe district of West Shewa, Ethiopia",
+    "title": "On Farm Evaluation and Demonstration of Drip Irrigation System for tomato production at Bako Tibe district of West Shewa, Ethiopia",
     "centerId": "bako-arc",
     "directorateId": "agricultural-engineering",
     "teamId": "team-irrigation-drainage",
@@ -9734,12 +9733,12 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2017E.C",
     "yearCompletionEC": "2018E.C",
-    "startDate": "2017E.C-01-01",
-    "endDate": "2018E.C-12-30",
-    "budgetAllocatedETB": 431680,
-    "budgetUtilizedETB": 431680,
+    "startDate": "2017-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 550775,
+    "budgetUtilizedETB": 550775,
     "objectives": [
-      "On Farm Evaluation and Demonstration of   Drip Irrigation System for tomato production at Bako Tibe district of West Shewa, Ethiopia",
+      "On Farm Evaluation and Demonstration of Drip Irrigation System for tomato production at Bako Tibe district of West Shewa, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -9751,27 +9750,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-160-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2017E.C-06-30",
+        "dueDate": "2017-06-30",
         "completed": true,
-        "completedDate": "2017E.C-06-25",
+        "completedDate": "2017-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-160-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-160-1",
-        "title": "Final Research Dossier: On Farm Evaluation and Demonstration of   Drip Irrigation System fo...",
+        "title": "Final Research Dossier: On Farm Evaluation and Demonstration of Drip Irrigation System for tomato produc...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -9795,10 +9794,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2017E.C",
     "yearCompletionEC": "2018E.C",
-    "startDate": "2017E.C-01-01",
-    "endDate": "2018E.C-12-30",
-    "budgetAllocatedETB": 431753,
-    "budgetUtilizedETB": 431753,
+    "startDate": "2017-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 435805,
+    "budgetUtilizedETB": 435805,
     "objectives": [
       "Determination of optimal raised bed width for wheat production at Caliya and Jima Ganati District, Western Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9812,27 +9811,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-161-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2017E.C-06-30",
+        "dueDate": "2017-06-30",
         "completed": true,
-        "completedDate": "2017E.C-06-25",
+        "completedDate": "2017-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-161-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-161-1",
-        "title": "Final Research Dossier: Determination of optimal raised bed width for wheat production at C...",
+        "title": "Final Research Dossier: Determination of optimal raised bed width for wheat production at Caliya and Jim...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -9856,10 +9855,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2017E.C",
     "yearCompletionEC": "2018E.C",
-    "startDate": "2017E.C-01-01",
-    "endDate": "2018E.C-12-30",
-    "budgetAllocatedETB": 431826,
-    "budgetUtilizedETB": 431826,
+    "startDate": "2017-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 498669,
+    "budgetUtilizedETB": 498669,
     "objectives": [
       "Effect of irrigation Regimes on yield and water productivty of upland Rice at Bako Tibe District",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9873,27 +9872,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-162-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2017E.C-06-30",
+        "dueDate": "2017-06-30",
         "completed": true,
-        "completedDate": "2017E.C-06-25",
+        "completedDate": "2017-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-162-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-162-1",
-        "title": "Final Research Dossier: Effect of irrigation Regimes on yield and water productivty of upla...",
+        "title": "Final Research Dossier: Effect of irrigation Regimes on yield and water productivty of upland Rice at Ba...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -9905,7 +9904,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension demonstration of improved sesame technology in selected districts of East Wollega and Bunno Bedelle Zones of western Oromia.",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dubiso G",
@@ -9917,10 +9916,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2018E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2018E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 431899,
-    "budgetUtilizedETB": 431899,
+    "startDate": "2018-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 385486,
+    "budgetUtilizedETB": 385486,
     "objectives": [
       "Pre-Extension demonstration of improved sesame technology in selected districts of East Wollega and Bunno Bedelle Zones of western Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9934,27 +9933,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-163-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2018E.C-06-30",
+        "dueDate": "2018-06-30",
         "completed": true,
-        "completedDate": "2018E.C-06-25",
+        "completedDate": "2018-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-163-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-163-1",
-        "title": "Final Research Dossier: Pre-Extension demonstration of improved sesame technology in select...",
+        "title": "Final Research Dossier: Pre-Extension demonstration of improved sesame technology in selected districts ...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -9966,7 +9965,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of Barley technology in selected districts of East Wollega, Horro Guduru wollega, and West Shewa Zones.",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dubiso G",
@@ -9978,10 +9977,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2018E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2018E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 431972,
-    "budgetUtilizedETB": 431972,
+    "startDate": "2018-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 447775,
+    "budgetUtilizedETB": 447775,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of Barley technology in selected districts of East Wollega, Horro Guduru wollega, and West Shewa Zones.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -9995,27 +9994,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-164-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2018E.C-06-30",
+        "dueDate": "2018-06-30",
         "completed": true,
-        "completedDate": "2018E.C-06-25",
+        "completedDate": "2018-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-164-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-164-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Barley technology in ...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Barley technology in selected dist...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -10027,7 +10026,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of improved Rice technology in selected Districts of Bunno Bedelle Zone of Western Oromia.",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Effa w",
@@ -10039,10 +10038,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2018E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2018E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 432045,
-    "budgetUtilizedETB": 432045,
+    "startDate": "2018-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 365954,
+    "budgetUtilizedETB": 365954,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of improved Rice technology in selected Districts of Bunno Bedelle Zone of Western Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10056,27 +10055,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-165-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2018E.C-06-30",
+        "dueDate": "2018-06-30",
         "completed": true,
-        "completedDate": "2018E.C-06-25",
+        "completedDate": "2018-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-165-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-165-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of improved Rice technol...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of improved Rice technology in select...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -10088,7 +10087,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of improved Bread wheat technology in selected Districts of East Wollega and West Shewa Zones of Western Oromia.",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Effa w",
@@ -10100,10 +10099,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2018 E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2018 E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 432118,
-    "budgetUtilizedETB": 432118,
+    "startDate": "2018-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 387660,
+    "budgetUtilizedETB": 387660,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of improved Bread wheat technology in selected Districts of East Wollega and West Shewa Zones of Western Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10117,27 +10116,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-166-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2018 E.C-06-30",
+        "dueDate": "2018-06-30",
         "completed": true,
-        "completedDate": "2018 E.C-06-25",
+        "completedDate": "2018-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-166-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-166-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of improved Bread wheat ...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of improved Bread wheat technology in...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -10149,7 +10148,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of improved soybean technology (Medium maturing) in potential Districts of East Wollega and Bunno Bedelle Zones of Western Oromia.",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Effa w",
@@ -10161,10 +10160,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2015 E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2015 E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 432191,
-    "budgetUtilizedETB": 432191,
+    "startDate": "2015-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 387669,
+    "budgetUtilizedETB": 387669,
     "objectives": [
       "Pre-scaling up of improved soybean technology (Medium maturing) in potential Districts of East Wollega and Bunno Bedelle Zones of Western Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10178,27 +10177,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-167-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2015 E.C-06-30",
+        "dueDate": "2015-06-30",
         "completed": true,
-        "completedDate": "2015 E.C-06-25",
+        "completedDate": "2015-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-167-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-167-1",
-        "title": "Final Research Dossier: Pre-scaling up of improved soybean technology (Medium maturing) in ...",
+        "title": "Final Research Dossier: Pre-scaling up of improved soybean technology (Medium maturing) in potential Dis...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -10210,7 +10209,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of improved soybean technology (Late maturing) in potential Districts of East Wollega and Bunno Bedelle Zones of Western Oromia.",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Effa w",
@@ -10222,10 +10221,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2015 E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2015 E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 432264,
-    "budgetUtilizedETB": 432264,
+    "startDate": "2015-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 530156,
+    "budgetUtilizedETB": 530156,
     "objectives": [
       "Pre-scaling up of improved soybean technology (Late maturing) in potential Districts of East Wollega and Bunno Bedelle Zones of Western Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10239,27 +10238,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-168-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2015 E.C-06-30",
+        "dueDate": "2015-06-30",
         "completed": true,
-        "completedDate": "2015 E.C-06-25",
+        "completedDate": "2015-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-168-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-168-1",
-        "title": "Final Research Dossier: Pre-scaling up of improved soybean technology (Late maturing) in po...",
+        "title": "Final Research Dossier: Pre-scaling up of improved soybean technology (Late maturing) in potential Distr...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -10271,7 +10270,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of improved sesame technology in potential Districts of East Wollega and Bunno Bedelle zones of Western Oromia.",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Effa w",
@@ -10283,10 +10282,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2015 E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2015 E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 432337,
-    "budgetUtilizedETB": 432337,
+    "startDate": "2015-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 371397,
+    "budgetUtilizedETB": 371397,
     "objectives": [
       "Pre-scaling up of improved sesame technology in potential Districts of East Wollega and Bunno Bedelle zones of Western Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10300,27 +10299,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-169-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2015 E.C-06-30",
+        "dueDate": "2015-06-30",
         "completed": true,
-        "completedDate": "2015 E.C-06-25",
+        "completedDate": "2015-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-169-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-169-1",
-        "title": "Final Research Dossier: Pre-scaling up of improved sesame technology in potential Districts...",
+        "title": "Final Research Dossier: Pre-scaling up of improved sesame technology in potential Districts of East Woll...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -10329,10 +10328,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-170",
     "code": "IQQO-COMP-BARC-2018-170",
-    "title": "Pre-scaling up of improved bread wheat technologies in potential Districts of West Shewa and  East Wollega Zones of Western Oromia",
+    "title": "Pre-scaling up of improved bread wheat technologies in potential Districts of West Shewa and East Wollega Zones of Western Oromia",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Effa w",
@@ -10344,12 +10343,12 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2015 E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2015 E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 432410,
-    "budgetUtilizedETB": 432410,
+    "startDate": "2015-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 454846,
+    "budgetUtilizedETB": 454846,
     "objectives": [
-      "Pre-scaling up of improved bread wheat technologies in potential Districts of West Shewa and  East Wollega Zones of Western Oromia",
+      "Pre-scaling up of improved bread wheat technologies in potential Districts of West Shewa and East Wollega Zones of Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -10361,27 +10360,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-170-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2015 E.C-06-30",
+        "dueDate": "2015-06-30",
         "completed": true,
-        "completedDate": "2015 E.C-06-25",
+        "completedDate": "2015-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-170-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-170-1",
-        "title": "Final Research Dossier: Pre-scaling up of improved bread wheat technologies in potential Di...",
+        "title": "Final Research Dossier: Pre-scaling up of improved bread wheat technologies in potential Districts of We...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -10393,7 +10392,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of improved sorghum technology in selected districts of East Wollega and Bunno Bedelle zones of Western Oromia",
     "centerId": "bako-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Berhanu S",
@@ -10405,10 +10404,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2015 E.C",
     "yearCompletionEC": "2018 E.C",
-    "startDate": "2015 E.C-01-01",
-    "endDate": "2018 E.C-12-30",
-    "budgetAllocatedETB": 432483,
-    "budgetUtilizedETB": 432483,
+    "startDate": "2015-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 544317,
+    "budgetUtilizedETB": 544317,
     "objectives": [
       "Pre-scaling up of improved sorghum technology in selected districts of East Wollega and Bunno Bedelle zones of Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10422,27 +10421,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-171-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2015 E.C-06-30",
+        "dueDate": "2015-06-30",
         "completed": true,
-        "completedDate": "2015 E.C-06-25",
+        "completedDate": "2015-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-171-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 E.C-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 E.C-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-171-1",
-        "title": "Final Research Dossier: Pre-scaling up of improved sorghum technology in selected districts...",
+        "title": "Final Research Dossier: Pre-scaling up of improved sorghum technology in selected districts of East Woll...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 E.C-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -10451,7 +10450,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-172",
     "code": "IQQO-COMP-YPDARC-2018-172",
-    "title": "Genotype by Environment Interaction and grain yield Stability analysis for Sorghum (Sorghum bicolor. L)  Genotypes in the Lowlands of Southern Oromia, Ethiopia.",
+    "title": "Genotype by Environment Interaction and grain yield Stability analysis for Sorghum (Sorghum bicolor. L) Genotypes in the Lowlands of Southern Oromia, Ethiopia.",
     "centerId": "yabalo-pastoral",
     "directorateId": "crop-research",
     "teamId": "team-cereal-crops",
@@ -10468,10 +10467,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 432556,
-    "budgetUtilizedETB": 432556,
+    "budgetAllocatedETB": 384502,
+    "budgetUtilizedETB": 384502,
     "objectives": [
-      "Genotype by Environment Interaction and grain yield Stability analysis for Sorghum (Sorghum bicolor. L)  Genotypes in the Lowlands of Southern Oromia, Ethiopia.",
+      "Genotype by Environment Interaction and grain yield Stability analysis for Sorghum (Sorghum bicolor. L) Genotypes in the Lowlands of Southern Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -10500,7 +10499,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-172-1",
-        "title": "Final Research Dossier: Genotype by Environment Interaction and grain yield Stability analy...",
+        "title": "Final Research Dossier: Genotype by Environment Interaction and grain yield Stability analysis for Sorgh...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -10529,8 +10528,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2025-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 432629,
-    "budgetUtilizedETB": 432629,
+    "budgetAllocatedETB": 417279,
+    "budgetUtilizedETB": 417279,
     "objectives": [
       "Release and Registration of Milki Small Red Common bean variety",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10590,8 +10589,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2025-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 432702,
-    "budgetUtilizedETB": 432702,
+    "budgetAllocatedETB": 426268,
+    "budgetUtilizedETB": 426268,
     "objectives": [
       "Release and Registration of Yabello-02 Small Red Common bean variety",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10651,8 +10650,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2025-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 432775,
-    "budgetUtilizedETB": 432775,
+    "budgetAllocatedETB": 570787,
+    "budgetUtilizedETB": 570787,
     "objectives": [
       "Release and Registration of Liban Small Red Common bean variety",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10712,8 +10711,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 432848,
-    "budgetUtilizedETB": 432848,
+    "budgetAllocatedETB": 425290,
+    "budgetUtilizedETB": 425290,
     "objectives": [
       "Effect of different feed supplementation on feed intake, milk yield and milk composition of lactating Borana Doe under semi intensive management system",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10744,7 +10743,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-176-1",
-        "title": "Final Research Dossier: Effect of different feed supplementation on feed intake, milk yield...",
+        "title": "Final Research Dossier: Effect of different feed supplementation on feed intake, milk yield and milk com...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -10773,8 +10772,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 432921,
-    "budgetUtilizedETB": 432921,
+    "budgetAllocatedETB": 526738,
+    "budgetUtilizedETB": 526738,
     "objectives": [
       "Defining Camel Breeding Objectives and Practices Using Indigenous Knowledge in Borana Pastoral Communities, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10805,7 +10804,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-177-1",
-        "title": "Final Research Dossier: Defining Camel Breeding Objectives and Practices Using Indigenous K...",
+        "title": "Final Research Dossier: Defining Camel Breeding Objectives and Practices Using Indigenous Knowledge in B...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -10834,8 +10833,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2017",
     "startDate": "2016-01-01",
     "endDate": "2017-12-30",
-    "budgetAllocatedETB": 432994,
-    "budgetUtilizedETB": 432994,
+    "budgetAllocatedETB": 571962,
+    "budgetUtilizedETB": 571962,
     "objectives": [
       "Effect of supplementation with forage legumes on Growth Performance, Feed Utilization and Carcass quality of Yearling Borana lambs Fed Rhodes Grass Hay as a Basal Diet",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10866,7 +10865,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-178-1",
-        "title": "Final Research Dossier: Effect of supplementation with forage legumes on Growth Performance...",
+        "title": "Final Research Dossier: Effect of supplementation with forage legumes on Growth Performance, Feed Utiliz...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2017-10-15"
@@ -10895,8 +10894,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2012-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 433067,
-    "budgetUtilizedETB": 433067,
+    "budgetAllocatedETB": 591323,
+    "budgetUtilizedETB": 591323,
     "objectives": [
       "Effects of Weaning Age and Weight on Lamb Post Weaning Growth Rate and parturition interval of Black Head Breed Raised under Extensive Production System",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10927,7 +10926,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-179-1",
-        "title": "Final Research Dossier: Effects of Weaning Age and Weight on Lamb Post Weaning Growth Rate ...",
+        "title": "Final Research Dossier: Effects of Weaning Age and Weight on Lamb Post Weaning Growth Rate and parturiti...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -10956,8 +10955,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 433140,
-    "budgetUtilizedETB": 433140,
+    "budgetAllocatedETB": 571417,
+    "budgetUtilizedETB": 571417,
     "objectives": [
       "Serological and Participatory Epidemiological Study of Camel pox in Borana Zone, Southern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -10988,7 +10987,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-180-1",
-        "title": "Final Research Dossier: Serological and Participatory Epidemiological Study of Camel pox in...",
+        "title": "Final Research Dossier: Serological and Participatory Epidemiological Study of Camel pox in Borana Zone,...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11000,7 +10999,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-181",
     "code": "IQQO-COMP-YPDARC-2018-181",
-    "title": "The Assessment of Post drought Recovery and Restocking Mechanisms of Borana Pastoral communities� on Cattle population, Southern Oromia",
+    "title": "The Assessment of Post drought Recovery and Restocking Mechanisms of Borana Pastoral communities on Cattle population, Southern Oromia",
     "centerId": "yabalo-pastoral",
     "directorateId": "livestock-research",
     "teamId": "team-small-ruminants",
@@ -11017,10 +11016,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 433213,
-    "budgetUtilizedETB": 433213,
+    "budgetAllocatedETB": 480243,
+    "budgetUtilizedETB": 480243,
     "objectives": [
-      "The Assessment of Post drought Recovery and Restocking Mechanisms of Borana Pastoral communities� on Cattle population, Southern Oromia",
+      "The Assessment of Post drought Recovery and Restocking Mechanisms of Borana Pastoral communities on Cattle population, Southern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -11049,7 +11048,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-181-1",
-        "title": "Final Research Dossier: The Assessment of Post drought Recovery and Restocking Mechanisms o...",
+        "title": "Final Research Dossier: The Assessment of Post drought Recovery and Restocking Mechanisms of Borana Past...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11067,8 +11066,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "teamId": "team-apiculture-sericulture",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Weyama  Amano",
-    "initiators": "Weyama  Amano",
+    "principalInvestigator": "Weyama Amano",
+    "initiators": "Weyama Amano",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -11078,8 +11077,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 433286,
-    "budgetUtilizedETB": 433286,
+    "budgetAllocatedETB": 509912,
+    "budgetUtilizedETB": 509912,
     "objectives": [
       "Stingless bee species identification and nest characterization in the Southern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11111,7 +11110,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-182-1",
-        "title": "Final Research Dossier: Stingless bee species identification and nest characterization in t...",
+        "title": "Final Research Dossier: Stingless bee species identification and nest characterization in the Southern O...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11126,7 +11125,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Soil Test Crop Response Based P-Calibration Study in Bule Hora Distric of West Guji Zone, Southern Oromia, Ethiopia",
     "centerId": "yabalo-pastoral",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Fenan Tola and Feyissa Gurmu",
@@ -11140,8 +11139,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 433359,
-    "budgetUtilizedETB": 433359,
+    "budgetAllocatedETB": 403711,
+    "budgetUtilizedETB": 403711,
     "objectives": [
       "Soil Test Crop Response Based P-Calibration Study in Bule Hora Distric of West Guji Zone, Southern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11172,7 +11171,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-183-1",
-        "title": "Final Research Dossier: Soil Test Crop Response Based P-Calibration Study in Bule Hora Dist...",
+        "title": "Final Research Dossier: Soil Test Crop Response Based P-Calibration Study in Bule Hora Distric of West G...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11187,7 +11186,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of In-situ Mooisture Conservation Structures for Sorghum Productivity in Teltele District of Borana Zone, Southern Oromia, Ethiopia.",
     "centerId": "yabalo-pastoral",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Fenan Tola",
@@ -11201,8 +11200,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 433432,
-    "budgetUtilizedETB": 433432,
+    "budgetAllocatedETB": 361922,
+    "budgetUtilizedETB": 361922,
     "objectives": [
       "Evaluation of In-situ Mooisture Conservation Structures for Sorghum Productivity in Teltele District of Borana Zone, Southern Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11233,7 +11232,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-184-1",
-        "title": "Final Research Dossier: Evaluation of In-situ Mooisture Conservation Structures for Sorghum...",
+        "title": "Final Research Dossier: Evaluation of In-situ Mooisture Conservation Structures for Sorghum Productivity...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11248,7 +11247,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Teff adoption study in Yabello district of Borana Zone Southern Oromia.",
     "centerId": "yabalo-pastoral",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Belay Biru",
@@ -11262,8 +11261,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "218",
     "startDate": "2017-01-01",
     "endDate": "218-12-30",
-    "budgetAllocatedETB": 433505,
-    "budgetUtilizedETB": 433505,
+    "budgetAllocatedETB": 545030,
+    "budgetUtilizedETB": 545030,
     "objectives": [
       "Teff adoption study in Yabello district of Borana Zone Southern Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11294,7 +11293,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-185-1",
-        "title": "Final Research Dossier: Teff adoption study in Yabello district of Borana Zone Southern Oro...",
+        "title": "Final Research Dossier: Teff adoption study in Yabello district of Borana Zone Southern Oromia.",
         "type": "Technical Manual",
         "status": "Published",
         "date": "218-10-15"
@@ -11306,10 +11305,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-186",
     "code": "IQQO-COMP-YPDARC-2018-186",
-    "title": "Analysis of miaze   production efficiency in West Guji zone, Ethiopian",
+    "title": "Analysis of miaze production efficiency in West Guji zone, Ethiopian",
     "centerId": "yabalo-pastoral",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Belay Biru",
@@ -11323,10 +11322,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 433578,
-    "budgetUtilizedETB": 433578,
+    "budgetAllocatedETB": 490541,
+    "budgetUtilizedETB": 490541,
     "objectives": [
-      "Analysis of miaze   production efficiency in West Guji zone, Ethiopian",
+      "Analysis of miaze production efficiency in West Guji zone, Ethiopian",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -11355,7 +11354,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-186-1",
-        "title": "Final Research Dossier: Analysis of miaze   production efficiency in West Guji zone, Ethiopian",
+        "title": "Final Research Dossier: Analysis of miaze production efficiency in West Guji zone, Ethiopian",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11370,7 +11369,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment, Characterization and Mapping of Kadale Watershed in Yabello District, Borena zone, Southern Ethiopia",
     "centerId": "yabalo-pastoral",
     "directorateId": "natural-resources",
-    "teamId": "team-swc",
+    "teamId": "team-soil-water-conservation",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Fayisa Gurmu",
@@ -11382,10 +11381,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2023/24",
     "yearCompletionEC": "2025/26",
-    "startDate": "2023/24-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 433651,
-    "budgetUtilizedETB": 433651,
+    "startDate": "2023-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 486153,
+    "budgetUtilizedETB": 486153,
     "objectives": [
       "Assessment, Characterization and Mapping of Kadale Watershed in Yabello District, Borena zone, Southern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11399,27 +11398,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-187-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2023/24-06-30",
+        "dueDate": "2023-06-30",
         "completed": true,
-        "completedDate": "2023/24-06-25",
+        "completedDate": "2023-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-187-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-187-1",
-        "title": "Final Research Dossier: Assessment, Characterization and Mapping of Kadale Watershed in Yab...",
+        "title": "Final Research Dossier: Assessment, Characterization and Mapping of Kadale Watershed in Yabello District...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -11431,7 +11430,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration and Evaluation of Chickpea (CicerarietinumL.) Technology in West Guji Zone, Southern Oromia, Ethiopia",
     "centerId": "yabalo-pastoral",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Yonas Asefa",
@@ -11443,10 +11442,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/5",
     "yearCompletionEC": "2026",
-    "startDate": "2024/5-01-01",
+    "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 433724,
-    "budgetUtilizedETB": 433724,
+    "budgetAllocatedETB": 451052,
+    "budgetUtilizedETB": 451052,
     "objectives": [
       "Pre-extension Demonstration and Evaluation of Chickpea (CicerarietinumL.) Technology in West Guji Zone, Southern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11460,9 +11459,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-188-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/5-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/5-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
@@ -11477,7 +11476,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-188-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Chickpea (Cicerarieti...",
+        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Chickpea (CicerarietinumL.) Techno...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -11492,7 +11491,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension demonstration and Evaluation of Food Barley Technology in Bule Hora District, West Guji Zone, Oromia, Ethiopia",
     "centerId": "yabalo-pastoral",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Teshome Kassa",
@@ -11506,8 +11505,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2025-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 433797,
-    "budgetUtilizedETB": 433797,
+    "budgetAllocatedETB": 415890,
+    "budgetUtilizedETB": 415890,
     "objectives": [
       "Pre-extension demonstration and Evaluation of Food Barley Technology in Bule Hora District, West Guji Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11538,7 +11537,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-189-1",
-        "title": "Final Research Dossier: Pre-extension demonstration and Evaluation of Food Barley Technolog...",
+        "title": "Final Research Dossier: Pre-extension demonstration and Evaluation of Food Barley Technology in Bule Hor...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -11553,7 +11552,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration of Common Bean (Phaseolus vulgaris L.) Technology in Yabello District, Southern Oromia, Ethiopia",
     "centerId": "yabalo-pastoral",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Teshome Kassa",
@@ -11567,8 +11566,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2025-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 433870,
-    "budgetUtilizedETB": 433870,
+    "budgetAllocatedETB": 519437,
+    "budgetUtilizedETB": 519437,
     "objectives": [
       "Pre-extension Demonstration of Common Bean (Phaseolus vulgaris L.) Technology in Yabello District, Southern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11599,7 +11598,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-190-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration of Common Bean (Phaseolus vulgaris L.) ...",
+        "title": "Final Research Dossier: Pre-extension Demonstration of Common Bean (Phaseolus vulgaris L.) Technology in...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -11614,7 +11613,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of Maize technology in the Abaya district of West Guji Zone, Southern Oromia, Ethiopia",
     "centerId": "yabalo-pastoral",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Feyissa Desiso",
@@ -11628,8 +11627,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2025-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 433943,
-    "budgetUtilizedETB": 433943,
+    "budgetAllocatedETB": 432676,
+    "budgetUtilizedETB": 432676,
     "objectives": [
       "Pre-scaling up of Maize technology in the Abaya district of West Guji Zone, Southern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11660,7 +11659,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-191-1",
-        "title": "Final Research Dossier: Pre-scaling up of Maize technology in the Abaya district of West Gu...",
+        "title": "Final Research Dossier: Pre-scaling up of Maize technology in the Abaya district of West Guji Zone, Sout...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -11689,8 +11688,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2014-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434016,
-    "budgetUtilizedETB": 434016,
+    "budgetAllocatedETB": 559778,
+    "budgetUtilizedETB": 559778,
     "objectives": [
       "Characterization and heritability estimation of health and health related functional traits in Arsi cattle and its next generation crosses (Arsi x Holstein Friesian)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11721,7 +11720,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-192-1",
-        "title": "Final Research Dossier: Characterization and heritability estimation of health and health r...",
+        "title": "Final Research Dossier: Characterization and heritability estimation of health and health related functi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11750,8 +11749,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434089,
-    "budgetUtilizedETB": 434089,
+    "budgetAllocatedETB": 597222,
+    "budgetUtilizedETB": 597222,
     "objectives": [
       "Evaluation of hematological profile as prognostic indicators in calf diarrhea",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11782,7 +11781,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-193-1",
-        "title": "Final Research Dossier: Evaluation of hematological profile as prognostic indicators in cal...",
+        "title": "Final Research Dossier: Evaluation of hematological profile as prognostic indicators in calf diarrhea",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11811,8 +11810,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434162,
-    "budgetUtilizedETB": 434162,
+    "budgetAllocatedETB": 545373,
+    "budgetUtilizedETB": 545373,
     "objectives": [
       "Assessment of farm characteristics and dairy herd structure in urban and peri-urban dairy production systems in East Shewa and West Arsi Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11843,7 +11842,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-194-1",
-        "title": "Final Research Dossier: Assessment of farm characteristics and dairy herd structure in urba...",
+        "title": "Final Research Dossier: Assessment of farm characteristics and dairy herd structure in urban and peri-ur...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11872,8 +11871,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434235,
-    "budgetUtilizedETB": 434235,
+    "budgetAllocatedETB": 518363,
+    "budgetUtilizedETB": 518363,
     "objectives": [
       "Effect of replacement of wheat bran with maize bran on feed intake, milk yield and composition of lactating crossbred cows",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11904,7 +11903,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-195-1",
-        "title": "Final Research Dossier: Effect of replacement of wheat bran with maize bran on feed intake,...",
+        "title": "Final Research Dossier: Effect of replacement of wheat bran with maize bran on feed intake, milk yield a...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11933,8 +11932,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434308,
-    "budgetUtilizedETB": 434308,
+    "budgetAllocatedETB": 438027,
+    "budgetUtilizedETB": 438027,
     "objectives": [
       "Effect of feeding BioMAXX Treated Wheat and Teff Straw on feed intake and growth performance of Crossbred Dairy Heifers at Adami Tulu Agricultural Research Center",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -11965,7 +11964,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-196-1",
-        "title": "Final Research Dossier: Effect of feeding BioMAXX Treated Wheat and Teff Straw on feed inta...",
+        "title": "Final Research Dossier: Effect of feeding BioMAXX Treated Wheat and Teff Straw on feed intake and growth...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -11983,8 +11982,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "teamId": "team-small-ruminants",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Genet  Dadi and Birehanu Tessew",
-    "initiators": "Genet  Dadi and Birehanu Tessew",
+    "principalInvestigator": "Genet Dadi and Birehanu Tessew",
+    "initiators": "Genet Dadi and Birehanu Tessew",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -11994,8 +11993,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434381,
-    "budgetUtilizedETB": 434381,
+    "budgetAllocatedETB": 404123,
+    "budgetUtilizedETB": 404123,
     "objectives": [
       "Assessment of Urban and Peri-urban Small Ruminant Fattening Systems: The case of East Shewa and West Arsi Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12026,7 +12025,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-197-1",
-        "title": "Final Research Dossier: Assessment of Urban and Peri-urban Small Ruminant Fattening Systems...",
+        "title": "Final Research Dossier: Assessment of Urban and Peri-urban Small Ruminant Fattening Systems: The case of...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12038,7 +12037,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-198",
     "code": "IQQO-COMP-ATARC-2018-198",
-    "title": "Effect of Nutritional Flushing on Reproductive and Growth Performances of Arsi-Bale Goats�",
+    "title": "Effect of Nutritional Flushing on Reproductive and Growth Performances of Arsi-Bale Goats",
     "centerId": "adami-tulu",
     "directorateId": "livestock-research",
     "teamId": "team-small-ruminants",
@@ -12055,10 +12054,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434454,
-    "budgetUtilizedETB": 434454,
+    "budgetAllocatedETB": 356808,
+    "budgetUtilizedETB": 356808,
     "objectives": [
-      "Effect of Nutritional Flushing on Reproductive and Growth Performances of Arsi-Bale Goats�",
+      "Effect of Nutritional Flushing on Reproductive and Growth Performances of Arsi-Bale Goats",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -12087,7 +12086,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-198-1",
-        "title": "Final Research Dossier: Effect of Nutritional Flushing on Reproductive and Growth Performan...",
+        "title": "Final Research Dossier: Effect of Nutritional Flushing on Reproductive and Growth Performances of Arsi-B...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12116,8 +12115,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2017-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 434527,
-    "budgetUtilizedETB": 434527,
+    "budgetAllocatedETB": 560144,
+    "budgetUtilizedETB": 560144,
     "objectives": [
       "Evaluation of hydroponic fodder as a substitute of concentrate mix in the ration of growing Arsi Bulls (EIAR)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12148,7 +12147,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-199-1",
-        "title": "Final Research Dossier: Evaluation of hydroponic fodder as a substitute of concentrate mix ...",
+        "title": "Final Research Dossier: Evaluation of hydroponic fodder as a substitute of concentrate mix in the ration...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2019-10-15"
@@ -12177,8 +12176,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434600,
-    "budgetUtilizedETB": 434600,
+    "budgetAllocatedETB": 510882,
+    "budgetUtilizedETB": 510882,
     "objectives": [
       "Economic Empowerment of Women Through Pre-Extension Demonstration of Proven Cattle Fattening Technologies (EIAR+FSRP)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12209,7 +12208,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-200-1",
-        "title": "Final Research Dossier: Economic Empowerment of Women Through Pre-Extension Demonstration o...",
+        "title": "Final Research Dossier: Economic Empowerment of Women Through Pre-Extension Demonstration of Proven Catt...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12238,8 +12237,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434673,
-    "budgetUtilizedETB": 434673,
+    "budgetAllocatedETB": 433051,
+    "budgetUtilizedETB": 433051,
     "objectives": [
       "The effect of replacing commercial layer premixes with composite leaf meal on egg production and egg quality of exotic chicken under ATARC",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12270,7 +12269,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-201-1",
-        "title": "Final Research Dossier: The effect of replacing commercial layer premixes with composite le...",
+        "title": "Final Research Dossier: The effect of replacing commercial layer premixes with composite leaf meal on eg...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12299,8 +12298,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434746,
-    "budgetUtilizedETB": 434746,
+    "budgetAllocatedETB": 389085,
+    "budgetUtilizedETB": 389085,
     "objectives": [
       "Developing and evaluating starter chicks feed under Adami Tullu Agricultural Research Center",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12331,7 +12330,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-202-1",
-        "title": "Final Research Dossier: Developing and evaluating starter chicks feed under Adami Tullu Agr...",
+        "title": "Final Research Dossier: Developing and evaluating starter chicks feed under Adami Tullu Agricultural Res...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12360,8 +12359,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434819,
-    "budgetUtilizedETB": 434819,
+    "budgetAllocatedETB": 535454,
+    "budgetUtilizedETB": 535454,
     "objectives": [
       "Inclusion different levels of brewery spent grain in diet of laying sasso chickens breed at on-station",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12392,7 +12391,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-203-1",
-        "title": "Final Research Dossier: Inclusion different levels of brewery spent grain in diet of laying...",
+        "title": "Final Research Dossier: Inclusion different levels of brewery spent grain in diet of laying sasso chicke...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12421,8 +12420,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434892,
-    "budgetUtilizedETB": 434892,
+    "budgetAllocatedETB": 473755,
+    "budgetUtilizedETB": 473755,
     "objectives": [
       "Evaluation of different forage legumes for their agronomic and yield performances established under papaya fruit",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12453,7 +12452,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-204-1",
-        "title": "Final Research Dossier: Evaluation of different forage legumes for their agronomic and yiel...",
+        "title": "Final Research Dossier: Evaluation of different forage legumes for their agronomic and yield performance...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12482,8 +12481,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 434965,
-    "budgetUtilizedETB": 434965,
+    "budgetAllocatedETB": 376422,
+    "budgetUtilizedETB": 376422,
     "objectives": [
       "Adaptation trial of Cowpea of (Vigna unguiculata (L) varieties at lowland agro-ecology of East Shewa zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12514,7 +12513,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-205-1",
-        "title": "Final Research Dossier: Adaptation trial of Cowpea of (Vigna unguiculata (L) varieties at l...",
+        "title": "Final Research Dossier: Adaptation trial of Cowpea of (Vigna unguiculata (L) varieties at lowland agro-e...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12543,8 +12542,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435038,
-    "budgetUtilizedETB": 435038,
+    "budgetAllocatedETB": 555067,
+    "budgetUtilizedETB": 555067,
     "objectives": [
       "Effect of Additives (Urea and Molasses) at different ratios on the Silage of Fodder Oat (Avena Sativa) at West Arsi Zone, Oromia Regional State",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12575,7 +12574,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-206-1",
-        "title": "Final Research Dossier: Effect of Additives (Urea and Molasses) at different ratios on the ...",
+        "title": "Final Research Dossier: Effect of Additives (Urea and Molasses) at different ratios on the Silage of Fod...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12604,8 +12603,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435111,
-    "budgetUtilizedETB": 435111,
+    "budgetAllocatedETB": 430320,
+    "budgetUtilizedETB": 430320,
     "objectives": [
       "Evaluation of the efficacy of medicinal plants as fumigants against Varroa destructor",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12636,7 +12635,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-207-1",
-        "title": "Final Research Dossier: Evaluation of the efficacy of medicinal plants as fumigants against...",
+        "title": "Final Research Dossier: Evaluation of the efficacy of medicinal plants as fumigants against Varroa destr...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12648,7 +12647,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-208",
     "code": "IQQO-COMP-ATARC-2018-208",
-    "title": "Investigating effects of honey bee pollination on fruit yield and quality of papaya (Carica papaya L.)�",
+    "title": "Investigating effects of honey bee pollination on fruit yield and quality of papaya (Carica papaya L.)",
     "centerId": "adami-tulu",
     "directorateId": "livestock-research",
     "teamId": "team-apiculture-sericulture",
@@ -12665,10 +12664,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435184,
-    "budgetUtilizedETB": 435184,
+    "budgetAllocatedETB": 417444,
+    "budgetUtilizedETB": 417444,
     "objectives": [
-      "Investigating effects of honey bee pollination on fruit yield and quality of papaya (Carica papaya L.)�",
+      "Investigating effects of honey bee pollination on fruit yield and quality of papaya (Carica papaya L.)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -12697,7 +12696,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-208-1",
-        "title": "Final Research Dossier: Investigating effects of honey bee pollination on fruit yield and q...",
+        "title": "Final Research Dossier: Investigating effects of honey bee pollination on fruit yield and quality of pap...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12709,7 +12708,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-209",
     "code": "IQQO-COMP-ATARC-2018-209",
-    "title": "Assessment of  Honeybee Colony Carrying Capacity and Honey Production Potential  of Avocado Growing Farms from Selected Districts in East Shewa Zone of Oromia, Ethiopia",
+    "title": "Assessment of Honeybee Colony Carrying Capacity and Honey Production Potential of Avocado Growing Farms from Selected Districts in East Shewa Zone of Oromia, Ethiopia",
     "centerId": "adami-tulu",
     "directorateId": "livestock-research",
     "teamId": "team-apiculture-sericulture",
@@ -12726,10 +12725,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435257,
-    "budgetUtilizedETB": 435257,
+    "budgetAllocatedETB": 575817,
+    "budgetUtilizedETB": 575817,
     "objectives": [
-      "Assessment of  Honeybee Colony Carrying Capacity and Honey Production Potential  of Avocado Growing Farms from Selected Districts in East Shewa Zone of Oromia, Ethiopia",
+      "Assessment of Honeybee Colony Carrying Capacity and Honey Production Potential of Avocado Growing Farms from Selected Districts in East Shewa Zone of Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -12758,7 +12757,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-209-1",
-        "title": "Final Research Dossier: Assessment of  Honeybee Colony Carrying Capacity and Honey Producti...",
+        "title": "Final Research Dossier: Assessment of Honeybee Colony Carrying Capacity and Honey Production Potential o...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12770,7 +12769,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-210",
     "code": "IQQO-COMP-ATARC-2018-210",
-    "title": "�Assessment of factors affecting Beekeeping practices and honeys Production in East Shewa and West Arsi Zones, Oromia, Ethiopia",
+    "title": "Assessment of factors affecting Beekeeping practices and honeys Production in East Shewa and West Arsi Zones, Oromia, Ethiopia",
     "centerId": "adami-tulu",
     "directorateId": "livestock-research",
     "teamId": "team-apiculture-sericulture",
@@ -12787,10 +12786,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435330,
-    "budgetUtilizedETB": 435330,
+    "budgetAllocatedETB": 579463,
+    "budgetUtilizedETB": 579463,
     "objectives": [
-      "�Assessment of factors affecting Beekeeping practices and honeys Production in East Shewa and West Arsi Zones, Oromia, Ethiopia",
+      "Assessment of factors affecting Beekeeping practices and honeys Production in East Shewa and West Arsi Zones, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -12819,7 +12818,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-210-1",
-        "title": "Final Research Dossier: �Assessment of factors affecting Beekeeping practices and honeys Pr...",
+        "title": "Final Research Dossier: Assessment of factors affecting Beekeeping practices and honeys Production in Ea...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12848,8 +12847,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435403,
-    "budgetUtilizedETB": 435403,
+    "budgetAllocatedETB": 386367,
+    "budgetUtilizedETB": 386367,
     "objectives": [
       "Regional Variety Trial of Bread Wheat (Triticum aestivum L) Genotypes for low moisture areas (BWRVT-2024)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12880,7 +12879,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-211-1",
-        "title": "Final Research Dossier: Regional Variety Trial of Bread Wheat (Triticum aestivum L) Genotyp...",
+        "title": "Final Research Dossier: Regional Variety Trial of Bread Wheat (Triticum aestivum L) Genotypes for low mo...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12909,8 +12908,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435476,
-    "budgetUtilizedETB": 435476,
+    "budgetAllocatedETB": 402384,
+    "budgetUtilizedETB": 402384,
     "objectives": [
       "Regional Variety Trial of Durum Wheat (Triticum aestivum L) Genotypes for low moisture areas(DWRVT-2024)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -12941,7 +12940,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-212-1",
-        "title": "Final Research Dossier: Regional Variety Trial of Durum Wheat (Triticum aestivum L) Genotyp...",
+        "title": "Final Research Dossier: Regional Variety Trial of Durum Wheat (Triticum aestivum L) Genotypes for low mo...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -12953,7 +12952,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-213",
     "code": "IQQO-COMP-ATARC-2018-213",
-    "title": "Food Barley Regional Variety Trial  Genotypes for low moisture areas (FBRVT-2024)",
+    "title": "Food Barley Regional Variety Trial Genotypes for low moisture areas (FBRVT-2024)",
     "centerId": "adami-tulu",
     "directorateId": "crop-research",
     "teamId": "team-cereal-crops",
@@ -12970,10 +12969,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435549,
-    "budgetUtilizedETB": 435549,
+    "budgetAllocatedETB": 590873,
+    "budgetUtilizedETB": 590873,
     "objectives": [
-      "Food Barley Regional Variety Trial  Genotypes for low moisture areas (FBRVT-2024)",
+      "Food Barley Regional Variety Trial Genotypes for low moisture areas (FBRVT-2024)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -13002,7 +13001,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-213-1",
-        "title": "Final Research Dossier: Food Barley Regional Variety Trial  Genotypes for low moisture area...",
+        "title": "Final Research Dossier: Food Barley Regional Variety Trial Genotypes for low moisture areas (FBRVT-2024)",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -13031,8 +13030,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435622,
-    "budgetUtilizedETB": 435622,
+    "budgetAllocatedETB": 560623,
+    "budgetUtilizedETB": 560623,
     "objectives": [
       "Sesame adaptation trial",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13092,8 +13091,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435695,
-    "budgetUtilizedETB": 435695,
+    "budgetAllocatedETB": 376257,
+    "budgetUtilizedETB": 376257,
     "objectives": [
       "Dessi type Chickpea regional variety trial",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13153,8 +13152,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435768,
-    "budgetUtilizedETB": 435768,
+    "budgetAllocatedETB": 440840,
+    "budgetUtilizedETB": 440840,
     "objectives": [
       "Effect of Potassium fertilizer on growth and yields of Onion variety",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13214,8 +13213,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 435841,
-    "budgetUtilizedETB": 435841,
+    "budgetAllocatedETB": 394961,
+    "budgetUtilizedETB": 394961,
     "objectives": [
       "Effect of Potassium fertilizer on growth and yields of garlic variety",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13261,7 +13260,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Soil test based p-calibration study for Maize in Shalla district,West Arsi Zone",
     "centerId": "adami-tulu",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mekonnen W. and Kasahun K.",
@@ -13275,8 +13274,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2023-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 435914,
-    "budgetUtilizedETB": 435914,
+    "budgetAllocatedETB": 486615,
+    "budgetUtilizedETB": 486615,
     "objectives": [
       "Soil test based p-calibration study for Maize in Shalla district,West Arsi Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13307,7 +13306,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-218-1",
-        "title": "Final Research Dossier: Soil test based p-calibration study for Maize in Shalla district,We...",
+        "title": "Final Research Dossier: Soil test based p-calibration study for Maize in Shalla district,West Arsi Zone",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -13322,7 +13321,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "PED of detremined PC and Pf for bread wheat in Shashemene district, West Arsi Zone",
     "centerId": "adami-tulu",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Kasahun K. and Mekonnen W.",
@@ -13336,8 +13335,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 435987,
-    "budgetUtilizedETB": 435987,
+    "budgetAllocatedETB": 379393,
+    "budgetUtilizedETB": 379393,
     "objectives": [
       "PED of detremined PC and Pf for bread wheat in Shashemene district, West Arsi Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13368,7 +13367,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-219-1",
-        "title": "Final Research Dossier: PED of detremined PC and Pf for bread wheat in Shashemene district,...",
+        "title": "Final Research Dossier: PED of detremined PC and Pf for bread wheat in Shashemene district, West Arsi Zo...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -13383,7 +13382,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Characterization of nutrient contents of vermicompost made fromdifferent material at ATARC",
     "centerId": "adami-tulu",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Kasahun K. and Mekonnen W.",
@@ -13397,8 +13396,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2025-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 436060,
-    "budgetUtilizedETB": 436060,
+    "budgetAllocatedETB": 462043,
+    "budgetUtilizedETB": 462043,
     "objectives": [
       "Characterization of nutrient contents of vermicompost made fromdifferent material at ATARC",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13430,7 +13429,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-220-1",
-        "title": "Final Research Dossier: Characterization of nutrient contents of vermicompost made fromdiff...",
+        "title": "Final Research Dossier: Characterization of nutrient contents of vermicompost made fromdifferent materia...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -13459,8 +13458,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2022-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 436133,
-    "budgetUtilizedETB": 436133,
+    "budgetAllocatedETB": 565691,
+    "budgetUtilizedETB": 565691,
     "objectives": [
       "Growth Performance Evaluation of Indigenous multipurpose Trees In Major Agro-ecologies of East Shewa and West Arsi Zones Of oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13491,7 +13490,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-221-1",
-        "title": "Final Research Dossier: Growth Performance Evaluation of Indigenous multipurpose Trees In M...",
+        "title": "Final Research Dossier: Growth Performance Evaluation of Indigenous multipurpose Trees In Major Agro-eco...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -13520,8 +13519,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2022-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 436206,
-    "budgetUtilizedETB": 436206,
+    "budgetAllocatedETB": 429587,
+    "budgetUtilizedETB": 429587,
     "objectives": [
       "Establishment of Homestead Farms for Household Income Generation in East Shewa Zone, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13552,7 +13551,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-222-1",
-        "title": "Final Research Dossier: Establishment of Homestead Farms for Household Income Generation in...",
+        "title": "Final Research Dossier: Establishment of Homestead Farms for Household Income Generation in East Shewa Z...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -13564,7 +13563,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-223",
     "code": "IQQO-COMP-ATARC-2018-223",
-    "title": "Effect of growth media  on seed germination and  seedling growth performance of selected tree species.",
+    "title": "Effect of growth media on seed germination and seedling growth performance of selected tree species.",
     "centerId": "adami-tulu",
     "directorateId": "natural-resources",
     "teamId": "team-agroforestry",
@@ -13581,10 +13580,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 436279,
-    "budgetUtilizedETB": 436279,
+    "budgetAllocatedETB": 488851,
+    "budgetUtilizedETB": 488851,
     "objectives": [
-      "Effect of growth media  on seed germination and  seedling growth performance of selected tree species.",
+      "Effect of growth media on seed germination and seedling growth performance of selected tree species.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -13613,7 +13612,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-223-1",
-        "title": "Final Research Dossier: Effect of growth media  on seed germination and  seedling growth pe...",
+        "title": "Final Research Dossier: Effect of growth media on seed germination and seedling growth performance of se...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -13628,7 +13627,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration of AI Timing in selected districts of East Shewa zone Oromia, Ethiopia",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tesfaye Gemechu and Alemayehu Arega",
@@ -13642,8 +13641,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436352,
-    "budgetUtilizedETB": 436352,
+    "budgetAllocatedETB": 472810,
+    "budgetUtilizedETB": 472810,
     "objectives": [
       "Pre-Extension Demonstration of AI Timing in selected districts of East Shewa zone Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13674,7 +13673,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-224-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration of AI Timing in selected districts of E...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration of AI Timing in selected districts of East Shewa zon...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -13689,7 +13688,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension demonstration of substitution of Alfalfa hay to noug seed cake in concentrate-based feeding of yearling Arsi-Bale Sheep",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tesfaye Gemechu",
@@ -13703,8 +13702,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436425,
-    "budgetUtilizedETB": 436425,
+    "budgetAllocatedETB": 424511,
+    "budgetUtilizedETB": 424511,
     "objectives": [
       "Pre-extension demonstration of substitution of Alfalfa hay to noug seed cake in concentrate-based feeding of yearling Arsi-Bale Sheep",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13735,7 +13734,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-225-1",
-        "title": "Final Research Dossier: Pre-extension demonstration of substitution of Alfalfa hay to noug ...",
+        "title": "Final Research Dossier: Pre-extension demonstration of substitution of Alfalfa hay to noug seed cake in ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -13750,7 +13749,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension demonstration of Alfalfa-Rhodes mixture for smallholder farmers at selected districts of East Shewa Zone of Oromia",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tesfaye Gemechu",
@@ -13764,8 +13763,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436498,
-    "budgetUtilizedETB": 436498,
+    "budgetAllocatedETB": 501261,
+    "budgetUtilizedETB": 501261,
     "objectives": [
       "Pre-extension demonstration of Alfalfa-Rhodes mixture for smallholder farmers at selected districts of East Shewa Zone of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13796,7 +13795,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-226-1",
-        "title": "Final Research Dossier: Pre-extension demonstration of Alfalfa-Rhodes mixture for smallhold...",
+        "title": "Final Research Dossier: Pre-extension demonstration of Alfalfa-Rhodes mixture for smallholder farmers at...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -13811,7 +13810,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension demonstration and evaluation of soyabean varieties at Dugda and Lume districts of East Shewa Zone",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bultu Kusa",
@@ -13825,8 +13824,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436571,
-    "budgetUtilizedETB": 436571,
+    "budgetAllocatedETB": 498497,
+    "budgetUtilizedETB": 498497,
     "objectives": [
       "Pre-Extension demonstration and evaluation of soyabean varieties at Dugda and Lume districts of East Shewa Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13857,7 +13856,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-227-1",
-        "title": "Final Research Dossier: Pre-Extension demonstration and evaluation of soyabean varieties at...",
+        "title": "Final Research Dossier: Pre-Extension demonstration and evaluation of soyabean varieties at Dugda and Lu...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -13872,7 +13871,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension demonstration of Bread Wheat varieties at Adami Tulu districts of East Shewa Zone",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bultu Kusa",
@@ -13886,8 +13885,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436644,
-    "budgetUtilizedETB": 436644,
+    "budgetAllocatedETB": 538862,
+    "budgetUtilizedETB": 538862,
     "objectives": [
       "Pre-Extension demonstration of Bread Wheat varieties at Adami Tulu districts of East Shewa Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13918,7 +13917,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-228-1",
-        "title": "Final Research Dossier: Pre-Extension demonstration of Bread Wheat varieties at Adami Tulu ...",
+        "title": "Final Research Dossier: Pre-Extension demonstration of Bread Wheat varieties at Adami Tulu districts of ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -13933,7 +13932,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adoption of Improved Forages by Smallholder Farmers in East Shewa and West Arsi Zones, Oromia",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Beriso Bati",
@@ -13947,8 +13946,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436717,
-    "budgetUtilizedETB": 436717,
+    "budgetAllocatedETB": 392069,
+    "budgetUtilizedETB": 392069,
     "objectives": [
       "Adoption of Improved Forages by Smallholder Farmers in East Shewa and West Arsi Zones, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -13979,7 +13978,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-229-1",
-        "title": "Final Research Dossier: Adoption of Improved Forages by Smallholder Farmers in East Shewa a...",
+        "title": "Final Research Dossier: Adoption of Improved Forages by Smallholder Farmers in East Shewa and West Arsi ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -13991,10 +13990,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-230",
     "code": "IQQO-COMP-ATARC-2018-230",
-    "title": "Determinants of Smallholders� Durum Wheat Production and Market Orientation: An implication for restructuring producers� linkage with emerging Agro-Industries in West Arsi and East Shewa zones.",
+    "title": "Determinants of Smallholders Durum Wheat Production and Market Orientation: An implication for restructuring producers linkage with emerging Agro-Industries in West Arsi and East Shewa zones.",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Beriso Bati",
@@ -14008,10 +14007,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436790,
-    "budgetUtilizedETB": 436790,
+    "budgetAllocatedETB": 584089,
+    "budgetUtilizedETB": 584089,
     "objectives": [
-      "Determinants of Smallholders� Durum Wheat Production and Market Orientation: An implication for restructuring producers� linkage with emerging Agro-Industries in West Arsi and East Shewa zones.",
+      "Determinants of Smallholders Durum Wheat Production and Market Orientation: An implication for restructuring producers linkage with emerging Agro-Industries in West Arsi and East Shewa zones.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -14040,7 +14039,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-230-1",
-        "title": "Final Research Dossier: Determinants of Smallholders� Durum Wheat Production and Market Ori...",
+        "title": "Final Research Dossier: Determinants of Smallholders Durum Wheat Production and Market Orientation: An i...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14052,10 +14051,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-231",
     "code": "IQQO-COMP-ATARC-2018-231",
-    "title": "Determinants of Smallholders Farmers� Production of Processing OPV Tomato and Market Orientation: An Implication for Restructuring Producers� Linkage with Emerging Bulbula agro-Industry in East Shewa Zone",
+    "title": "Determinants of Smallholders Farmers Production of Processing OPV Tomato and Market Orientation: An Implication for Restructuring Producers Linkage with Emerging Bulbula agro-Industry in East Shewa Zone",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Beriso Bati",
@@ -14069,10 +14068,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436863,
-    "budgetUtilizedETB": 436863,
+    "budgetAllocatedETB": 586847,
+    "budgetUtilizedETB": 586847,
     "objectives": [
-      "Determinants of Smallholders Farmers� Production of Processing OPV Tomato and Market Orientation: An Implication for Restructuring Producers� Linkage with Emerging Bulbula agro-Industry in East Shewa Zone",
+      "Determinants of Smallholders Farmers Production of Processing OPV Tomato and Market Orientation: An Implication for Restructuring Producers Linkage with Emerging Bulbula agro-Industry in East Shewa Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -14101,7 +14100,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-231-1",
-        "title": "Final Research Dossier: Determinants of Smallholders Farmers� Production of Processing OPV ...",
+        "title": "Final Research Dossier: Determinants of Smallholders Farmers Production of Processing OPV Tomato and Mar...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14116,7 +14115,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Value Chain Analysis of Maize: The Case of Adami Tulu Jido Kombolcha and Dugda Districts in East Shewa Zone, Oromia Regional National State.",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Beriso Bati",
@@ -14130,8 +14129,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 436936,
-    "budgetUtilizedETB": 436936,
+    "budgetAllocatedETB": 573911,
+    "budgetUtilizedETB": 573911,
     "objectives": [
       "Value Chain Analysis of Maize: The Case of Adami Tulu Jido Kombolcha and Dugda Districts in East Shewa Zone, Oromia Regional National State.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14162,7 +14161,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-232-1",
-        "title": "Final Research Dossier: Value Chain Analysis of Maize: The Case of Adami Tulu Jido Kombolch...",
+        "title": "Final Research Dossier: Value Chain Analysis of Maize: The Case of Adami Tulu Jido Kombolcha and Dugda D...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14177,7 +14176,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Papaya Value Chain Analysis in Adami Tulu Jido Kombolcha and Dugda districts of East Shewa Zone, Oromia Region, Ethiopia.",
     "centerId": "adami-tulu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Asfaw Negasse",
@@ -14191,8 +14190,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 437009,
-    "budgetUtilizedETB": 437009,
+    "budgetAllocatedETB": 417998,
+    "budgetUtilizedETB": 417998,
     "objectives": [
       "Papaya Value Chain Analysis in Adami Tulu Jido Kombolcha and Dugda districts of East Shewa Zone, Oromia Region, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14223,7 +14222,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-233-1",
-        "title": "Final Research Dossier: Papaya Value Chain Analysis in Adami Tulu Jido Kombolcha and Dugda ...",
+        "title": "Final Research Dossier: Papaya Value Chain Analysis in Adami Tulu Jido Kombolcha and Dugda districts of ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14238,7 +14237,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of different fungicides for Downey mildew management on onion crop under irrigation condition in East Shewa,",
     "centerId": "adami-tulu",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "adisu L.",
@@ -14252,8 +14251,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 437082,
-    "budgetUtilizedETB": 437082,
+    "budgetAllocatedETB": 357348,
+    "budgetUtilizedETB": 357348,
     "objectives": [
       "Evaluation of different fungicides for Downey mildew management on onion crop under irrigation condition in East Shewa,",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14284,7 +14283,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-234-1",
-        "title": "Final Research Dossier: Evaluation of different fungicides for Downey mildew management on ...",
+        "title": "Final Research Dossier: Evaluation of different fungicides for Downey mildew management on onion crop un...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14299,7 +14298,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation Fungicides for Management of powdery mildew disease on tomato using irrigation in East Shewa Oromia",
     "centerId": "adami-tulu",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "adisu L.",
@@ -14313,8 +14312,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 437155,
-    "budgetUtilizedETB": 437155,
+    "budgetAllocatedETB": 370670,
+    "budgetUtilizedETB": 370670,
     "objectives": [
       "Evaluation Fungicides for Management of powdery mildew disease on tomato using irrigation in East Shewa Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14345,7 +14344,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-235-1",
-        "title": "Final Research Dossier: Evaluation Fungicides for Management of powdery mildew disease on t...",
+        "title": "Final Research Dossier: Evaluation Fungicides for Management of powdery mildew disease on tomato using i...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14360,7 +14359,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of seed treatments and Foliar fungicides growth stage of fungicides spray for management of Fusarium head blight for Durum wheat in west Arsi and East Shewa",
     "centerId": "adami-tulu",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "feyisa B.",
@@ -14374,8 +14373,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 437228,
-    "budgetUtilizedETB": 437228,
+    "budgetAllocatedETB": 558375,
+    "budgetUtilizedETB": 558375,
     "objectives": [
       "Evaluation of seed treatments and Foliar fungicides growth stage of fungicides spray for management of Fusarium head blight for Durum wheat in west Arsi and East Shewa",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14406,7 +14405,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-236-1",
-        "title": "Final Research Dossier: Evaluation of seed treatments and Foliar fungicides growth stage of...",
+        "title": "Final Research Dossier: Evaluation of seed treatments and Foliar fungicides growth stage of fungicides s...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14421,7 +14420,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effect of herbicide combination with different Weed Management on the Bread Wheat (Triticum aestivum L.) at) in West Arsi and East Shewa, Oromia Ethiopia",
     "centerId": "adami-tulu",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "gobana T",
@@ -14435,8 +14434,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 437301,
-    "budgetUtilizedETB": 437301,
+    "budgetAllocatedETB": 528935,
+    "budgetUtilizedETB": 528935,
     "objectives": [
       "Effect of herbicide combination with different Weed Management on the Bread Wheat (Triticum aestivum L.) at) in West Arsi and East Shewa, Oromia Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14467,7 +14466,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-237-1",
-        "title": "Final Research Dossier: Effect of herbicide combination with different Weed Management on t...",
+        "title": "Final Research Dossier: Effect of herbicide combination with different Weed Management on the Bread Whea...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14496,8 +14495,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 437374,
-    "budgetUtilizedETB": 437374,
+    "budgetAllocatedETB": 357367,
+    "budgetUtilizedETB": 357367,
     "objectives": [
       "Effects of raised bed width on yield and water productivity of wheat under furrow irrigation method in Lume district, East Shewa zone of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14528,7 +14527,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-238-1",
-        "title": "Final Research Dossier: Effects of raised bed width on yield and water productivity of whea...",
+        "title": "Final Research Dossier: Effects of raised bed width on yield and water productivity of wheat under furro...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14557,8 +14556,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 437447,
-    "budgetUtilizedETB": 437447,
+    "budgetAllocatedETB": 436101,
+    "budgetUtilizedETB": 436101,
     "objectives": [
       "On farm Evaluation and Demonstration of different furrow Irrigation methods on potato (Solanum tuberosum L.) yield and water productivity in Shashemene district, West Arsi zone of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14589,7 +14588,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-239-1",
-        "title": "Final Research Dossier: On farm Evaluation and Demonstration of different furrow Irrigation...",
+        "title": "Final Research Dossier: On farm Evaluation and Demonstration of different furrow Irrigation methods on p...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14618,8 +14617,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 437520,
-    "budgetUtilizedETB": 437520,
+    "budgetAllocatedETB": 499912,
+    "budgetUtilizedETB": 499912,
     "objectives": [
       "On farm Evaluation and Demonstration of Irrigation water management and Nitrogen fertilizer application on Yield and Water Productivity of onion in Adami Tulu Jido Kombolcha District",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14650,7 +14649,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-240-1",
-        "title": "Final Research Dossier: On farm Evaluation and Demonstration of Irrigation water management...",
+        "title": "Final Research Dossier: On farm Evaluation and Demonstration of Irrigation water management and Nitrogen...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -14668,8 +14667,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "teamId": "team-pulses-oilseeds",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Habte  B. &Awwal M.",
-    "initiators": "Habte  B. &Awwal M.",
+    "principalInvestigator": "Habte B. &Awwal M.",
+    "initiators": "Habte B. &Awwal M.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "Awwal M."
@@ -14677,10 +14676,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 437593,
-    "budgetUtilizedETB": 437593,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 462734,
+    "budgetUtilizedETB": 462734,
     "objectives": [
       "Faba bean (Vicia faba L.) Adaptation trial at East Hararghe",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14694,17 +14693,17 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-241-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-241-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
@@ -14714,7 +14713,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
         "title": "Final Research Dossier: Faba bean (Vicia faba L.) Adaptation trial at East Hararghe",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -14738,10 +14737,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 437666,
-    "budgetUtilizedETB": 437666,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 365285,
+    "budgetUtilizedETB": 365285,
     "objectives": [
       "Tomato Varieties Adaptation trial at East Hararghe Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14755,17 +14754,17 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-242-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-242-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
@@ -14775,7 +14774,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
         "title": "Final Research Dossier: Tomato Varieties Adaptation trial at East Hararghe Zone",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -14799,10 +14798,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 437739,
-    "budgetUtilizedETB": 437739,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 395498,
+    "budgetUtilizedETB": 395498,
     "objectives": [
       "Onion Varieties Adaptation Trial at East Hararghe Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14816,17 +14815,17 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-243-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-243-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
@@ -14836,7 +14835,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
         "title": "Final Research Dossier: Onion Varieties Adaptation Trial at East Hararghe Zone",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -14860,10 +14859,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 437812,
-    "budgetUtilizedETB": 437812,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 505497,
+    "budgetUtilizedETB": 505497,
     "objectives": [
       "Coriander (Coriandrum sativum) Varieties Adaptation Trial at East hararghe, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14877,27 +14876,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-244-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-244-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-244-1",
-        "title": "Final Research Dossier: Coriander (Coriandrum sativum) Varieties Adaptation Trial at East h...",
+        "title": "Final Research Dossier: Coriander (Coriandrum sativum) Varieties Adaptation Trial at East hararghe, Ethi...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -14921,10 +14920,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 437885,
-    "budgetUtilizedETB": 437885,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 412095,
+    "budgetUtilizedETB": 412095,
     "objectives": [
       "Pigeon Pea (Cajanus cajan) Adaptation Trial at lowland of East H/zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -14938,17 +14937,17 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-245-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-245-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
@@ -14958,7 +14957,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
         "title": "Final Research Dossier: Pigeon Pea (Cajanus cajan) Adaptation Trial at lowland of East H/zone",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -14984,8 +14983,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 437958,
-    "budgetUtilizedETB": 437958,
+    "budgetAllocatedETB": 445918,
+    "budgetUtilizedETB": 445918,
     "objectives": [
       "Coloured Guinea grass (Panicum coloratum) RVT at Lowlands of East H/zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15016,7 +15015,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-246-1",
-        "title": "Final Research Dossier: Coloured Guinea grass (Panicum coloratum) RVT at Lowlands of East H...",
+        "title": "Final Research Dossier: Coloured Guinea grass (Panicum coloratum) RVT at Lowlands of East H/zone",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -15045,8 +15044,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 438031,
-    "budgetUtilizedETB": 438031,
+    "budgetAllocatedETB": 467551,
+    "budgetUtilizedETB": 467551,
     "objectives": [
       "Assessing Stingless Bee production potentials and distribution in East Hararghe Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15077,7 +15076,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-247-1",
-        "title": "Final Research Dossier: Assessing Stingless Bee production potentials and distribution in E...",
+        "title": "Final Research Dossier: Assessing Stingless Bee production potentials and distribution in East Hararghe ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -15092,7 +15091,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of Socioeconomic and Biophysical Resources Characterization of Sakko Watershed in Gursum District, East Hararghe Zone, Ethiopia.",
     "centerId": "fadis-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-swc",
+    "teamId": "team-soil-water-conservation",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bira Ch.",
@@ -15104,10 +15103,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 438104,
-    "budgetUtilizedETB": 438104,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 370284,
+    "budgetUtilizedETB": 370284,
     "objectives": [
       "Assessment of Socioeconomic and Biophysical Resources Characterization of Sakko Watershed in Gursum District, East Hararghe Zone, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15121,27 +15120,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-248-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-248-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-248-1",
-        "title": "Final Research Dossier: Assessment of Socioeconomic and Biophysical Resources Characterizat...",
+        "title": "Final Research Dossier: Assessment of Socioeconomic and Biophysical Resources Characterization of Sakko ...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15165,10 +15164,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 438177,
-    "budgetUtilizedETB": 438177,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 580185,
+    "budgetUtilizedETB": 580185,
     "objectives": [
       "Adaptation and Growth Performance Evaluation of Nitrogen Fixing Tree/Shrub Species at Fedis and Meta Districts, East Hararge Zone, Oromia,Thiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15182,27 +15181,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-249-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-249-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-249-1",
-        "title": "Final Research Dossier: Adaptation and Growth Performance Evaluation of Nitrogen Fixing Tre...",
+        "title": "Final Research Dossier: Adaptation and Growth Performance Evaluation of Nitrogen Fixing Tree/Shrub Speci...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15226,10 +15225,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2014 EC",
     "yearCompletionEC": "2018 EC",
-    "startDate": "2014 EC-01-01",
-    "endDate": "2018 EC-12-30",
-    "budgetAllocatedETB": 438250,
-    "budgetUtilizedETB": 438250,
+    "startDate": "2014-01-01",
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 591980,
+    "budgetUtilizedETB": 591980,
     "objectives": [
       "Characterization of Tree and Shrub Species Diversity, Structure and Regeneration Status of Gurawa, Dadar and Jarso Natural Forests, East Hararghe Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15243,27 +15242,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-250-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2014 EC-06-30",
+        "dueDate": "2014-06-30",
         "completed": true,
-        "completedDate": "2014 EC-06-25",
+        "completedDate": "2014-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-250-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018 EC-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018 EC-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-250-1",
-        "title": "Final Research Dossier: Characterization of Tree and Shrub Species Diversity, Structure and...",
+        "title": "Final Research Dossier: Characterization of Tree and Shrub Species Diversity, Structure and Regeneration...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018 EC-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15287,10 +15286,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2020/21",
     "yearCompletionEC": "2024/25",
-    "startDate": "2020/21-01-01",
-    "endDate": "2024/25-12-30",
-    "budgetAllocatedETB": 438323,
-    "budgetUtilizedETB": 438323,
+    "startDate": "2020-01-01",
+    "endDate": "2024-12-30",
+    "budgetAllocatedETB": 581854,
+    "budgetUtilizedETB": 581854,
     "objectives": [
       "Effect of Different propagation Methods on Selected Lowland Bamboo Species at FARC, East Hararghe Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15304,27 +15303,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-251-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2020/21-06-30",
+        "dueDate": "2020-06-30",
         "completed": true,
-        "completedDate": "2020/21-06-25",
+        "completedDate": "2020-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-251-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2024/25-08-30",
+        "dueDate": "2024-08-30",
         "completed": true,
-        "completedDate": "2024/25-08-20",
+        "completedDate": "2024-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-251-1",
-        "title": "Final Research Dossier: Effect of Different propagation Methods on Selected Lowland Bamboo ...",
+        "title": "Final Research Dossier: Effect of Different propagation Methods on Selected Lowland Bamboo Species at FA...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2024/25-10-15"
+        "date": "2024-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15336,7 +15335,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On farm Evaluation of Briquette Processing Machine from Lanthana Camara",
     "centerId": "fadis-arc",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-renewable-energy",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdi E. & Gutu G.",
@@ -15348,10 +15347,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 438396,
-    "budgetUtilizedETB": 438396,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 389367,
+    "budgetUtilizedETB": 389367,
     "objectives": [
       "On farm Evaluation of Briquette Processing Machine from Lanthana Camara",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15366,27 +15365,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-252-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-252-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-252-1",
-        "title": "Final Research Dossier: On farm Evaluation of Briquette Processing Machine from Lanthana Ca...",
+        "title": "Final Research Dossier: On farm Evaluation of Briquette Processing Machine from Lanthana Camara",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15398,7 +15397,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and Evaluation of tractor drawn wheat planter",
     "centerId": "fadis-arc",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bedasa W.",
@@ -15412,8 +15411,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 438469,
-    "budgetUtilizedETB": 438469,
+    "budgetAllocatedETB": 460357,
+    "budgetUtilizedETB": 460357,
     "objectives": [
       "Adaptation and Evaluation of tractor drawn wheat planter",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15459,11 +15458,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Farm Evaluation and demonstration of engine driven multi-crop thresher in Eastern Hararge",
     "centerId": "fadis-arc",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "IQQO Research Team",
-    "initiators": "IQQO Research Team",
+    "principalInvestigator": "IQQO Principal Investigator",
+    "initiators": "",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -15471,10 +15470,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 438542,
-    "budgetUtilizedETB": 438542,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 496495,
+    "budgetUtilizedETB": 496495,
     "objectives": [
       "Farm Evaluation and demonstration of engine driven multi-crop thresher in Eastern Hararge",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15488,27 +15487,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-254-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-254-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-254-1",
-        "title": "Final Research Dossier: Farm Evaluation and demonstration of engine driven multi-crop thres...",
+        "title": "Final Research Dossier: Farm Evaluation and demonstration of engine driven multi-crop thresher in Easter...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15520,7 +15519,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Modification and evaluation of tractor drawn FARC furrow maker",
     "centerId": "fadis-arc",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bedasa W. Milkessa A",
@@ -15534,8 +15533,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 438615,
-    "budgetUtilizedETB": 438615,
+    "budgetAllocatedETB": 355394,
+    "budgetUtilizedETB": 355394,
     "objectives": [
       "Modification and evaluation of tractor drawn FARC furrow maker",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15578,10 +15577,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-256",
     "code": "IQQO-COMP-FdARC-2018-256",
-    "title": "Development of cultivating implement  to  motorized plough  for small scale farmers",
+    "title": "Development of cultivating implement to motorized plough for small scale farmers",
     "centerId": "fadis-arc",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tekalign B.",
@@ -15593,12 +15592,12 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 438688,
-    "budgetUtilizedETB": 438688,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 587444,
+    "budgetUtilizedETB": 587444,
     "objectives": [
-      "Development of cultivating implement  to  motorized plough  for small scale farmers",
+      "Development of cultivating implement to motorized plough for small scale farmers",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -15606,32 +15605,32 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "expectedOutputs": "Final verified scientific outputs, technical recommendation dossiers, and demonstration packages.",
     "targetAgroEcology": "Mandated Oromia agro-ecologies (FARC)",
     "presentationDecision": "Will not presented",
-    "nonPresentationReason": "Because of erratic rain fall,  the planted/ sawn was not emerged or faild to germination due lo lack of engough moisture at a time",
+    "nonPresentationReason": "Because of erratic rain fall, the planted/ sawn was not emerged or faild to germination due lo lack of engough moisture at a time",
     "milestones": [
       {
         "id": "m-comp-256-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-256-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-256-1",
-        "title": "Final Research Dossier: Development of cultivating implement  to  motorized plough  for sma...",
+        "title": "Final Research Dossier: Development of cultivating implement to motorized plough for small scale farmers",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15643,7 +15642,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and evaluation of portable coffee hole digger for other tree planter",
     "centerId": "fadis-arc",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Keneni K. Bedasa W.",
@@ -15657,8 +15656,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 438761,
-    "budgetUtilizedETB": 438761,
+    "budgetAllocatedETB": 453189,
+    "budgetUtilizedETB": 453189,
     "objectives": [
       "Adaptation and evaluation of portable coffee hole digger for other tree planter",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15689,7 +15688,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-257-1",
-        "title": "Final Research Dossier: Adaptation and evaluation of portable coffee hole digger for other ...",
+        "title": "Final Research Dossier: Adaptation and evaluation of portable coffee hole digger for other tree planter",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -15704,7 +15703,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On-Farm Evaluation of FARC model Composite drum Thresher for Wheat and Barley",
     "centerId": "fadis-arc",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Birhanu A.",
@@ -15716,10 +15715,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 438834,
-    "budgetUtilizedETB": 438834,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 587926,
+    "budgetUtilizedETB": 587926,
     "objectives": [
       "On-Farm Evaluation of FARC model Composite drum Thresher for Wheat and Barley",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15733,27 +15732,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-258-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-258-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-258-1",
-        "title": "Final Research Dossier: On-Farm Evaluation of FARC model Composite drum Thresher for Wheat ...",
+        "title": "Final Research Dossier: On-Farm Evaluation of FARC model Composite drum Thresher for Wheat and Barley",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15777,10 +15776,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 438907,
-    "budgetUtilizedETB": 438907,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 558131,
+    "budgetUtilizedETB": 558131,
     "objectives": [
       "Evaluation of different irrigation interval for rice production at Eastern Hararge Zone of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15794,27 +15793,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-259-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-259-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-259-1",
-        "title": "Final Research Dossier: Evaluation of different irrigation interval for rice production at ...",
+        "title": "Final Research Dossier: Evaluation of different irrigation interval for rice production at Eastern Harar...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15838,10 +15837,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 438980,
-    "budgetUtilizedETB": 438980,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 529645,
+    "budgetUtilizedETB": 529645,
     "objectives": [
       "Determination of optimum irrigation schedule for soya bean production at Eastern hararghe Zone of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15855,27 +15854,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-260-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-260-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-260-1",
-        "title": "Final Research Dossier: Determination of optimum irrigation schedule for soya bean producti...",
+        "title": "Final Research Dossier: Determination of optimum irrigation schedule for soya bean production at Eastern...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15899,10 +15898,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 439053,
-    "budgetUtilizedETB": 439053,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 439023,
+    "budgetUtilizedETB": 439023,
     "objectives": [
       "Evaluation of different irrigation regimes for Sesame production at Eastern hararghe Zone of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15916,27 +15915,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-261-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-261-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-261-1",
-        "title": "Final Research Dossier: Evaluation of different irrigation regimes for Sesame production at...",
+        "title": "Final Research Dossier: Evaluation of different irrigation regimes for Sesame production at Eastern hara...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -15960,10 +15959,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 439126,
-    "budgetUtilizedETB": 439126,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 479790,
+    "budgetUtilizedETB": 479790,
     "objectives": [
       "On farm participatory Evaluation of AAERC Low Cost Drip Irrigation System for Small Scale Farmers in EHZ",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -15977,27 +15976,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-262-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-262-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-262-1",
-        "title": "Final Research Dossier: On farm participatory Evaluation of AAERC Low Cost Drip Irrigation ...",
+        "title": "Final Research Dossier: On farm participatory Evaluation of AAERC Low Cost Drip Irrigation System for Sm...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -16009,7 +16008,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension demonstration and evaluation of electrical engine animal feed chopper technology in Haramaya and Meta districts of East Hararghe zone",
     "centerId": "fadis-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Oromia M.",
@@ -16021,10 +16020,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 439199,
-    "budgetUtilizedETB": 439199,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 548649,
+    "budgetUtilizedETB": 548649,
     "objectives": [
       "Pre-extension demonstration and evaluation of electrical engine animal feed chopper technology in Haramaya and Meta districts of East Hararghe zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16038,27 +16037,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-263-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-263-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-263-1",
-        "title": "Final Research Dossier: Pre-extension demonstration and evaluation of electrical engine ani...",
+        "title": "Final Research Dossier: Pre-extension demonstration and evaluation of electrical engine animal feed chop...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -16070,7 +16069,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration and evaluation of improved Soybean technology in the selected District of Eastern Hararghe zone",
     "centerId": "fadis-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mersha B.",
@@ -16082,10 +16081,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 439272,
-    "budgetUtilizedETB": 439272,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 592909,
+    "budgetUtilizedETB": 592909,
     "objectives": [
       "Pre-extension Demonstration and evaluation of improved Soybean technology in the selected District of Eastern Hararghe zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16099,27 +16098,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-264-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-264-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-264-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration and evaluation of improved Soybean tech...",
+        "title": "Final Research Dossier: Pre-extension Demonstration and evaluation of improved Soybean technology in the...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -16131,7 +16130,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling up of improved sorghum technology in the selected District of East Hararghe zone",
     "centerId": "fadis-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdulaziz X.",
@@ -16143,10 +16142,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 439345,
-    "budgetUtilizedETB": 439345,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 580247,
+    "budgetUtilizedETB": 580247,
     "objectives": [
       "Pre-Scaling up of improved sorghum technology in the selected District of East Hararghe zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16160,27 +16159,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-265-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-265-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-265-1",
-        "title": "Final Research Dossier: Pre-Scaling up of improved sorghum technology in the selected Distr...",
+        "title": "Final Research Dossier: Pre-Scaling up of improved sorghum technology in the selected District of East H...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -16192,7 +16191,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling up of improved Linseed Technologies in selected Districts of east Hararghe zone, Oromia National Regional state, Ethiopia",
     "centerId": "fadis-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bedhaso U.",
@@ -16204,10 +16203,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 439418,
-    "budgetUtilizedETB": 439418,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 484064,
+    "budgetUtilizedETB": 484064,
     "objectives": [
       "Pre-Scaling up of improved Linseed Technologies in selected Districts of east Hararghe zone, Oromia National Regional state, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16221,27 +16220,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-266-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-266-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-266-1",
-        "title": "Final Research Dossier: Pre-Scaling up of improved Linseed Technologies in selected Distric...",
+        "title": "Final Research Dossier: Pre-Scaling up of improved Linseed Technologies in selected Districts of east Ha...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -16253,7 +16252,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of improved highland food barley technologies in Jarso and Meta Districts of East Hararghe Zone",
     "centerId": "fadis-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Oromia M.",
@@ -16265,10 +16264,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 439491,
-    "budgetUtilizedETB": 439491,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 482720,
+    "budgetUtilizedETB": 482720,
     "objectives": [
       "Pre-scaling up of improved highland food barley technologies in Jarso and Meta Districts of East Hararghe Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16282,27 +16281,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-267-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-267-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-267-1",
-        "title": "Final Research Dossier: Pre-scaling up of improved highland food barley technologies in Jar...",
+        "title": "Final Research Dossier: Pre-scaling up of improved highland food barley technologies in Jarso and Meta D...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -16314,7 +16313,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of Improved Orange Fleshed Sweet Potato Technologies at Babile District, East Hararghe Zone",
     "centerId": "fadis-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Oromia M.",
@@ -16326,10 +16325,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2024/25",
     "yearCompletionEC": "2025/26",
-    "startDate": "2024/25-01-01",
-    "endDate": "2025/26-12-30",
-    "budgetAllocatedETB": 439564,
-    "budgetUtilizedETB": 439564,
+    "startDate": "2024-01-01",
+    "endDate": "2025-12-30",
+    "budgetAllocatedETB": 585492,
+    "budgetUtilizedETB": 585492,
     "objectives": [
       "Pre-scaling up of Improved Orange Fleshed Sweet Potato Technologies at Babile District, East Hararghe Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16343,27 +16342,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-268-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2024/25-06-30",
+        "dueDate": "2024-06-30",
         "completed": true,
-        "completedDate": "2024/25-06-25",
+        "completedDate": "2024-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
         "id": "m-comp-268-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2025/26-08-30",
+        "dueDate": "2025-08-30",
         "completed": true,
-        "completedDate": "2025/26-08-20",
+        "completedDate": "2025-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-268-1",
-        "title": "Final Research Dossier: Pre-scaling up of Improved Orange Fleshed Sweet Potato Technologies...",
+        "title": "Final Research Dossier: Pre-scaling up of Improved Orange Fleshed Sweet Potato Technologies at Babile Di...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2025/26-10-15"
+        "date": "2025-10-15"
       }
     ],
     "extensionHistory": [],
@@ -16375,7 +16374,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Design and Finite Element Analysis-Driven Optimization of A tractor Drawn Onion Hrvester for Enhanced Harvesting Efficiency(MSc. thessis)",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Girum Merga",
@@ -16389,8 +16388,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 439637,
-    "budgetUtilizedETB": 439637,
+    "budgetAllocatedETB": 423797,
+    "budgetUtilizedETB": 423797,
     "objectives": [
       "Design and Finite Element Analysis-Driven Optimization of A tractor Drawn Onion Hrvester for Enhanced Harvesting Efficiency(MSc. thessis)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16421,7 +16420,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-269-1",
-        "title": "Final Research Dossier: Design and Finite Element Analysis-Driven Optimization of A tractor...",
+        "title": "Final Research Dossier: Design and Finite Element Analysis-Driven Optimization of A tractor Drawn Onion ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -16436,7 +16435,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Development and Performance Evaluation of Sunflower Thresher",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abulasan Kabaradin",
@@ -16450,8 +16449,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 439710,
-    "budgetUtilizedETB": 439710,
+    "budgetAllocatedETB": 360405,
+    "budgetUtilizedETB": 360405,
     "objectives": [
       "Development and Performance Evaluation of Sunflower Thresher",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16497,7 +16496,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and Performance Evaluation of Tractor Mounted Moldboard Plow",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abulasan Kabaradin",
@@ -16511,8 +16510,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 439783,
-    "budgetUtilizedETB": 439783,
+    "budgetAllocatedETB": 584876,
+    "budgetUtilizedETB": 584876,
     "objectives": [
       "Adaptation and Performance Evaluation of Tractor Mounted Moldboard Plow",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16543,7 +16542,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-271-1",
-        "title": "Final Research Dossier: Adaptation and Performance Evaluation of Tractor Mounted Moldboard ...",
+        "title": "Final Research Dossier: Adaptation and Performance Evaluation of Tractor Mounted Moldboard Plow",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -16558,7 +16557,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and On Farm Evaluation of BAERC Animal Drawn Integrated Secondary Tillage Implements",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Wabi Tafa",
@@ -16572,8 +16571,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 439856,
-    "budgetUtilizedETB": 439856,
+    "budgetAllocatedETB": 558382,
+    "budgetUtilizedETB": 558382,
     "objectives": [
       "Adaptation and On Farm Evaluation of BAERC Animal Drawn Integrated Secondary Tillage Implements",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16604,7 +16603,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-272-1",
-        "title": "Final Research Dossier: Adaptation and On Farm Evaluation of BAERC Animal Drawn Integrated ...",
+        "title": "Final Research Dossier: Adaptation and On Farm Evaluation of BAERC Animal Drawn Integrated Secondary Til...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -16619,7 +16618,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On-farm Evaluation and Verification of Asella Tractor Drawn Potato Digger",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Degefa Woyessa",
@@ -16633,8 +16632,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 439929,
-    "budgetUtilizedETB": 439929,
+    "budgetAllocatedETB": 516271,
+    "budgetUtilizedETB": 516271,
     "objectives": [
       "On-farm Evaluation and Verification of Asella Tractor Drawn Potato Digger",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16665,7 +16664,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-273-1",
-        "title": "Final Research Dossier: On-farm Evaluation and Verification of Asella Tractor Drawn Potato ...",
+        "title": "Final Research Dossier: On-farm Evaluation and Verification of Asella Tractor Drawn Potato Digger",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -16680,7 +16679,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and on farm Evaluation of BAER Engine Operated Hole Digger for Fruit Planting",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Ashebir Tsegaye",
@@ -16694,8 +16693,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440002,
-    "budgetUtilizedETB": 440002,
+    "budgetAllocatedETB": 453498,
+    "budgetUtilizedETB": 453498,
     "objectives": [
       "Adaptation and on farm Evaluation of BAER Engine Operated Hole Digger for Fruit Planting",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16726,7 +16725,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-274-1",
-        "title": "Final Research Dossier: Adaptation and on farm Evaluation of BAER Engine Operated Hole Digg...",
+        "title": "Final Research Dossier: Adaptation and on farm Evaluation of BAER Engine Operated Hole Digger for Fruit ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -16741,7 +16740,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and performance evaluation of JAERC biomass cook stove at House Hold Level",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-renewable-energy",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Getachew Hailu",
@@ -16755,8 +16754,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440075,
-    "budgetUtilizedETB": 440075,
+    "budgetAllocatedETB": 556037,
+    "budgetUtilizedETB": 556037,
     "objectives": [
       "Adaptation and performance evaluation of JAERC biomass cook stove at House Hold Level",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16787,7 +16786,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-275-1",
-        "title": "Final Research Dossier: Adaptation and performance evaluation of JAERC biomass cook stove a...",
+        "title": "Final Research Dossier: Adaptation and performance evaluation of JAERC biomass cook stove at House Hold ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -16802,7 +16801,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and On Farm Performance Evaluation of Manually Operated JAERC Coffee Bean Demucilager",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abayineh A",
@@ -16816,8 +16815,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440148,
-    "budgetUtilizedETB": 440148,
+    "budgetAllocatedETB": 369252,
+    "budgetUtilizedETB": 369252,
     "objectives": [
       "Adaptation and On Farm Performance Evaluation of Manually Operated JAERC Coffee Bean Demucilager",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16848,7 +16847,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-276-1",
-        "title": "Final Research Dossier: Adaptation and On Farm Performance Evaluation of Manually Operated ...",
+        "title": "Final Research Dossier: Adaptation and On Farm Performance Evaluation of Manually Operated JAERC Coffee ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -16863,7 +16862,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and Performance Evaluation of JAERC Honey Extractor",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abbe T",
@@ -16877,8 +16876,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440221,
-    "budgetUtilizedETB": 440221,
+    "budgetAllocatedETB": 395341,
+    "budgetUtilizedETB": 395341,
     "objectives": [
       "Adaptation and Performance Evaluation of JAERC Honey Extractor",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16924,7 +16923,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Development and Performance Evaluation of Rice Grain Rubber Roll Dehuller",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abbe T",
@@ -16938,8 +16937,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440294,
-    "budgetUtilizedETB": 440294,
+    "budgetAllocatedETB": 357385,
+    "budgetUtilizedETB": 357385,
     "objectives": [
       "Development and Performance Evaluation of Rice Grain Rubber Roll Dehuller",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -16970,7 +16969,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-278-1",
-        "title": "Final Research Dossier: Development and Performance Evaluation of Rice Grain Rubber Roll De...",
+        "title": "Final Research Dossier: Development and Performance Evaluation of Rice Grain Rubber Roll Dehuller",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -16999,8 +16998,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440367,
-    "budgetUtilizedETB": 440367,
+    "budgetAllocatedETB": 466643,
+    "budgetUtilizedETB": 466643,
     "objectives": [
       "Effect of Biochar on water holding capacities of salt affected soil",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17060,8 +17059,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440440,
-    "budgetUtilizedETB": 440440,
+    "budgetAllocatedETB": 471534,
+    "budgetUtilizedETB": 471534,
     "objectives": [
       "Determination of Optimal Soil Moisture Depletion on Yield and Water Productivity of potato at chemeri irrigation scheme",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17092,7 +17091,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-280-1",
-        "title": "Final Research Dossier: Determination of Optimal Soil Moisture Depletion on Yield and Water...",
+        "title": "Final Research Dossier: Determination of Optimal Soil Moisture Depletion on Yield and Water Productivity...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17121,8 +17120,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440513,
-    "budgetUtilizedETB": 440513,
+    "budgetAllocatedETB": 384368,
+    "budgetUtilizedETB": 384368,
     "objectives": [
       "Adaptation and On-farm Evaluation of BAERC Flexible Gated Pipe System in the Case of Wheat Planted Furrow Irrigation",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17153,7 +17152,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-281-1",
-        "title": "Final Research Dossier: Adaptation and On-farm Evaluation of BAERC Flexible Gated Pipe Syst...",
+        "title": "Final Research Dossier: Adaptation and On-farm Evaluation of BAERC Flexible Gated Pipe System in the Cas...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17182,8 +17181,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440586,
-    "budgetUtilizedETB": 440586,
+    "budgetAllocatedETB": 440944,
+    "budgetUtilizedETB": 440944,
     "objectives": [
       "On-farm Evaluation of Selected Deficit Irrigation Method for Onion at Doddota Irrigation Scheme",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17214,7 +17213,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-282-1",
-        "title": "Final Research Dossier: On-farm Evaluation of Selected Deficit Irrigation Method for Onion ...",
+        "title": "Final Research Dossier: On-farm Evaluation of Selected Deficit Irrigation Method for Onion at Doddota Ir...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17226,7 +17225,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-283",
     "code": "IQQO-COMP-AAERC-2018-283",
-    "title": "On-farm evaluation of Siphon tube for field intake and irrigation water measurement at Ketar-genet  irrigation scheme",
+    "title": "On-farm evaluation of Siphon tube for field intake and irrigation water measurement at Ketar-genet irrigation scheme",
     "centerId": "asela-eng",
     "directorateId": "agricultural-engineering",
     "teamId": "team-irrigation-drainage",
@@ -17243,10 +17242,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440659,
-    "budgetUtilizedETB": 440659,
+    "budgetAllocatedETB": 491760,
+    "budgetUtilizedETB": 491760,
     "objectives": [
-      "On-farm evaluation of Siphon tube for field intake and irrigation water measurement at Ketar-genet  irrigation scheme",
+      "On-farm evaluation of Siphon tube for field intake and irrigation water measurement at Ketar-genet irrigation scheme",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -17275,7 +17274,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-283-1",
-        "title": "Final Research Dossier: On-farm evaluation of Siphon tube for field intake and irrigation w...",
+        "title": "Final Research Dossier: On-farm evaluation of Siphon tube for field intake and irrigation water measurem...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17304,8 +17303,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440732,
-    "budgetUtilizedETB": 440732,
+    "budgetAllocatedETB": 482032,
+    "budgetUtilizedETB": 482032,
     "objectives": [
       "Effect of Deficit irrigation on Water productivity of Onion under rain pipe irrigation in Tiyo Woreda of Arsi Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17336,7 +17335,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-284-1",
-        "title": "Final Research Dossier: Effect of Deficit irrigation on Water productivity of Onion under r...",
+        "title": "Final Research Dossier: Effect of Deficit irrigation on Water productivity of Onion under rain pipe irri...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17351,7 +17350,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adoption and Impact of Modern Beehives on Household Income in Arsi and West Arsi Zones",
     "centerId": "asela-eng",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Ibsa Dawid",
@@ -17365,8 +17364,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440805,
-    "budgetUtilizedETB": 440805,
+    "budgetAllocatedETB": 560485,
+    "budgetUtilizedETB": 560485,
     "objectives": [
       "Adoption and Impact of Modern Beehives on Household Income in Arsi and West Arsi Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17397,7 +17396,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-285-1",
-        "title": "Final Research Dossier: Adoption and Impact of Modern Beehives on Household Income in Arsi ...",
+        "title": "Final Research Dossier: Adoption and Impact of Modern Beehives on Household Income in Arsi and West Arsi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17412,7 +17411,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of Irrigation Facility in Central Oromia, Ethiopia",
     "centerId": "asela-eng",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Ephrem Boka",
@@ -17426,8 +17425,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440878,
-    "budgetUtilizedETB": 440878,
+    "budgetAllocatedETB": 549658,
+    "budgetUtilizedETB": 549658,
     "objectives": [
       "Assessment of Irrigation Facility in Central Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17473,7 +17472,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension demonstration and evaluation of Tractor drawn Faba Bean row planter in Selected Districts of Arsi Zone",
     "centerId": "asela-eng",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Getu Regassa",
@@ -17487,8 +17486,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 440951,
-    "budgetUtilizedETB": 440951,
+    "budgetAllocatedETB": 483550,
+    "budgetUtilizedETB": 483550,
     "objectives": [
       "Pre-extension demonstration and evaluation of Tractor drawn Faba Bean row planter in Selected Districts of Arsi Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17519,7 +17518,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-287-1",
-        "title": "Final Research Dossier: Pre-extension demonstration and evaluation of Tractor drawn Faba Be...",
+        "title": "Final Research Dossier: Pre-extension demonstration and evaluation of Tractor drawn Faba Bean row plante...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17531,10 +17530,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-288",
     "code": "IQQO-COMP-AAERC-2018-288",
-    "title": "Pre-extension demonstration and evaluation of multi  crop thresher in Selected Districts of Arsi  and East shoa Zones",
+    "title": "Pre-extension demonstration and evaluation of multi crop thresher in Selected Districts of Arsi and East shoa Zones",
     "centerId": "asela-eng",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Aman Nebo",
@@ -17548,10 +17547,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441024,
-    "budgetUtilizedETB": 441024,
+    "budgetAllocatedETB": 597509,
+    "budgetUtilizedETB": 597509,
     "objectives": [
-      "Pre-extension demonstration and evaluation of multi  crop thresher in Selected Districts of Arsi  and East shoa Zones",
+      "Pre-extension demonstration and evaluation of multi crop thresher in Selected Districts of Arsi and East shoa Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -17580,7 +17579,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-288-1",
-        "title": "Final Research Dossier: Pre-extension demonstration and evaluation of multi  crop thresher ...",
+        "title": "Final Research Dossier: Pre-extension demonstration and evaluation of multi crop thresher in Selected Di...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17592,27 +17591,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-289",
     "code": "IQQO-COMP-MARC-2018-289",
-    "title": "GEI and Stability of Groundnut (Arachis hypogaea.L.)\n Genotypes for Seed Yield in West Hararghe, Eastern Ethiopia",
+    "title": "GEI and Stability of Groundnut (Arachis hypogaea.L.) Genotypes for Seed Yield in West Hararghe, Eastern Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "crop-research",
     "teamId": "team-pulses-oilseeds",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Firaol A.Shenene H, and\nKedir",
-    "initiators": "Firaol A.Shenene H, and\nKedir",
+    "principalInvestigator": "Firaol A.Shenene H, and Kedir",
+    "initiators": "Firaol A.Shenene H, and Kedir",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "and Kedir"
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2016",
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441097,
-    "budgetUtilizedETB": 441097,
+    "budgetAllocatedETB": 500152,
+    "budgetUtilizedETB": 500152,
     "objectives": [
-      "GEI and Stability of Groundnut (Arachis hypogaea.L.)\n Genotypes for Seed Yield in West Hararghe, Eastern Ethiopia",
+      "GEI and Stability of Groundnut (Arachis hypogaea.L.) Genotypes for Seed Yield in West Hararghe, Eastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -17641,7 +17640,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-289-1",
-        "title": "Final Research Dossier: GEI and Stability of Groundnut (Arachis hypogaea.L.)\n Genotypes for...",
+        "title": "Final Research Dossier: GEI and Stability of Groundnut (Arachis hypogaea.L.) Genotypes for Seed Yield in...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17653,27 +17652,29 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-290",
     "code": "IQQO-COMP-MARC-2018-290",
-    "title": "Release and Registration of ��Haro carcar�� Orange fleshed Sweet Potato (Ipomoea batatas (L.) Lam) Variety",
+    "title": "Release and Registration of 'Haro carcar' Orange fleshed Sweet Potato (Ipomoea batatas (L.) Lam) Variety",
     "centerId": "mechara-arc",
     "directorateId": "crop-research",
     "teamId": "team-horticulture",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Dereje Deresa,\n Gezahegn Assefa, Dagne Assefa, and Sintayehu Girma",
-    "initiators": "Dereje Deresa,\n Gezahegn Assefa, Dagne Assefa, and Sintayehu Girma",
+    "principalInvestigator": "Dereje Deresa, Gezahegn Assefa, Dagne Assefa, and Sintayehu Girma",
+    "initiators": "Dereje Deresa, Gezahegn Assefa, Dagne Assefa, and Sintayehu Girma",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Gezahegn Assefa",
+      "Dagne Assefa",
+      "and Sintayehu Girma"
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2018",
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441170,
-    "budgetUtilizedETB": 441170,
+    "budgetAllocatedETB": 495884,
+    "budgetUtilizedETB": 495884,
     "objectives": [
-      "Release and Registration of ��Haro carcar�� Orange fleshed Sweet Potato (Ipomoea batatas (L.) Lam) Variety",
+      "Release and Registration of 'Haro carcar' Orange fleshed Sweet Potato (Ipomoea batatas (L.) Lam) Variety",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -17702,7 +17703,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-290-1",
-        "title": "Final Research Dossier: Release and Registration of ��Haro carcar�� Orange fleshed Sweet Po...",
+        "title": "Final Research Dossier: Release and Registration of 'Haro carcar' Orange fleshed Sweet Potato (Ipomoea b...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17714,27 +17715,29 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-291",
     "code": "IQQO-COMP-MARC-2018-291",
-    "title": "Release and Registration of ��Micata�� Orange fleshed Sweet Potato (Ipomoea batatas (L.) Lam) Variety",
+    "title": "Release and Registration of 'Micata' Orange fleshed Sweet Potato (Ipomoea batatas (L.) Lam) Variety",
     "centerId": "mechara-arc",
     "directorateId": "crop-research",
     "teamId": "team-horticulture",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Gezahegn Assefa, \nDereje Deresa, Dagne Assefa, and Sintayehu Girma",
-    "initiators": "Gezahegn Assefa, \nDereje Deresa, Dagne Assefa, and Sintayehu Girma",
+    "principalInvestigator": "Gezahegn Assefa, Dereje Deresa, Dagne Assefa, and Sintayehu Girma",
+    "initiators": "Gezahegn Assefa, Dereje Deresa, Dagne Assefa, and Sintayehu Girma",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Dereje Deresa",
+      "Dagne Assefa",
+      "and Sintayehu Girma"
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2018",
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441243,
-    "budgetUtilizedETB": 441243,
+    "budgetAllocatedETB": 471359,
+    "budgetUtilizedETB": 471359,
     "objectives": [
-      "Release and Registration of ��Micata�� Orange fleshed Sweet Potato (Ipomoea batatas (L.) Lam) Variety",
+      "Release and Registration of 'Micata' Orange fleshed Sweet Potato (Ipomoea batatas (L.) Lam) Variety",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -17763,7 +17766,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-291-1",
-        "title": "Final Research Dossier: Release and Registration of ��Micata�� Orange fleshed Sweet Potato ...",
+        "title": "Final Research Dossier: Release and Registration of 'Micata' Orange fleshed Sweet Potato (Ipomoea batata...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17775,27 +17778,27 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-292",
     "code": "IQQO-COMP-MARC-2018-292",
-    "title": "GEI and Stability of Black Cumin (Nigellasativa L.)\n Genotypes for Seed Yield in West Hararghe, Eastern Ethiopia",
+    "title": "GEI and Stability of Black Cumin (Nigellasativa L.) Genotypes for Seed Yield in West Hararghe, Eastern Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "crop-research",
     "teamId": "team-horticulture",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Dagne Assefa, Dereje \nDeresa and  Gezahegn Assefa",
-    "initiators": "Dagne Assefa, Dereje \nDeresa and  Gezahegn Assefa",
+    "principalInvestigator": "Dagne Assefa, Dereje Deresa and Gezahegn Assefa",
+    "initiators": "Dagne Assefa, Dereje Deresa and Gezahegn Assefa",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Dereje Deresa and Gezahegn Assefa"
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2017",
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441316,
-    "budgetUtilizedETB": 441316,
+    "budgetAllocatedETB": 388360,
+    "budgetUtilizedETB": 388360,
     "objectives": [
-      "GEI and Stability of Black Cumin (Nigellasativa L.)\n Genotypes for Seed Yield in West Hararghe, Eastern Ethiopia",
+      "GEI and Stability of Black Cumin (Nigellasativa L.) Genotypes for Seed Yield in West Hararghe, Eastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -17824,7 +17827,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-292-1",
-        "title": "Final Research Dossier: GEI and Stability of Black Cumin (Nigellasativa L.)\n Genotypes for ...",
+        "title": "Final Research Dossier: GEI and Stability of Black Cumin (Nigellasativa L.) Genotypes for Seed Yield in ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -17839,7 +17842,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screening of bread wheat genotypes (Triticum Spp.) resistance to major diseases in West Hararghe",
     "centerId": "mechara-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Daba Etafa",
@@ -17853,8 +17856,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2025-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 441389,
-    "budgetUtilizedETB": 441389,
+    "budgetAllocatedETB": 434335,
+    "budgetUtilizedETB": 434335,
     "objectives": [
       "Screening of bread wheat genotypes (Triticum Spp.) resistance to major diseases in West Hararghe",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17885,7 +17888,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-293-1",
-        "title": "Final Research Dossier: Screening of bread wheat genotypes (Triticum Spp.) resistance to ma...",
+        "title": "Final Research Dossier: Screening of bread wheat genotypes (Triticum Spp.) resistance to major diseases ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -17900,7 +17903,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effect of Weed Management Practices on Finger Millet (Eleusine Coracana L. Gaertn) Yields in the West Hararghe",
     "centerId": "mechara-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Daba Etafa",
@@ -17914,8 +17917,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2024-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 441462,
-    "budgetUtilizedETB": 441462,
+    "budgetAllocatedETB": 434206,
+    "budgetUtilizedETB": 434206,
     "objectives": [
       "Effect of Weed Management Practices on Finger Millet (Eleusine Coracana L. Gaertn) Yields in the West Hararghe",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -17946,7 +17949,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-294-1",
-        "title": "Final Research Dossier: Effect of Weed Management Practices on Finger Millet (Eleusine Cora...",
+        "title": "Final Research Dossier: Effect of Weed Management Practices on Finger Millet (Eleusine Coracana L. Gaert...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -17961,7 +17964,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screening of Food Barley Genotypes (Hordeum vulgare L.) Tolerant to Barley shoot fly (Delia flavibasis) in West Hararghe",
     "centerId": "mechara-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Daba Etafa",
@@ -17975,8 +17978,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2025",
     "startDate": "2025-01-01",
     "endDate": "2025-12-30",
-    "budgetAllocatedETB": 441535,
-    "budgetUtilizedETB": 441535,
+    "budgetAllocatedETB": 393162,
+    "budgetUtilizedETB": 393162,
     "objectives": [
       "Screening of Food Barley Genotypes (Hordeum vulgare L.) Tolerant to Barley shoot fly (Delia flavibasis) in West Hararghe",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18007,7 +18010,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-295-1",
-        "title": "Final Research Dossier: Screening of Food Barley Genotypes (Hordeum vulgare L.) Tolerant to...",
+        "title": "Final Research Dossier: Screening of Food Barley Genotypes (Hordeum vulgare L.) Tolerant to Barley shoot...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2025-10-15"
@@ -18022,7 +18025,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Hararghe Coffee landraces for Quality Traits",
     "centerId": "mechara-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Sintayehu Girma",
@@ -18036,8 +18039,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441608,
-    "budgetUtilizedETB": 441608,
+    "budgetAllocatedETB": 532969,
+    "budgetUtilizedETB": 532969,
     "objectives": [
       "Evaluation of Hararghe Coffee landraces for Quality Traits",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18083,7 +18086,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Arsi Coffee landrace for Quality Traits",
     "centerId": "mechara-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Sintayehu Girma",
@@ -18097,8 +18100,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441681,
-    "budgetUtilizedETB": 441681,
+    "budgetAllocatedETB": 426047,
+    "budgetUtilizedETB": 426047,
     "objectives": [
       "Evaluation of Arsi Coffee landrace for Quality Traits",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18144,7 +18147,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Determination of outturn Ratios of the berries of improved Hararghe coffee varieties under different Processing methods",
     "centerId": "mechara-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Sintayehu Girma",
@@ -18158,8 +18161,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441754,
-    "budgetUtilizedETB": 441754,
+    "budgetAllocatedETB": 488836,
+    "budgetUtilizedETB": 488836,
     "objectives": [
       "Determination of outturn Ratios of the berries of improved Hararghe coffee varieties under different Processing methods",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18190,7 +18193,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-298-1",
-        "title": "Final Research Dossier: Determination of outturn Ratios of the berries of improved Hararghe...",
+        "title": "Final Research Dossier: Determination of outturn Ratios of the berries of improved Hararghe coffee varie...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18205,7 +18208,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Hararghe Coffee Genotypes for Moisture Stress Tolerance at Mechara, West Hararghe, Oromia, Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abeba Chimdi",
@@ -18219,8 +18222,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441827,
-    "budgetUtilizedETB": 441827,
+    "budgetAllocatedETB": 557660,
+    "budgetUtilizedETB": 557660,
     "objectives": [
       "Evaluation of Hararghe Coffee Genotypes for Moisture Stress Tolerance at Mechara, West Hararghe, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18251,7 +18254,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-299-1",
-        "title": "Final Research Dossier: Evaluation of Hararghe Coffee Genotypes for Moisture Stress Toleran...",
+        "title": "Final Research Dossier: Evaluation of Hararghe Coffee Genotypes for Moisture Stress Tolerance at Mechara...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18266,7 +18269,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Arsi Coffee collections for drought tolerance at Mechara, eastern Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abeba Chimdi",
@@ -18280,8 +18283,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441900,
-    "budgetUtilizedETB": 441900,
+    "budgetAllocatedETB": 418299,
+    "budgetUtilizedETB": 418299,
     "objectives": [
       "Evaluation of Arsi Coffee collections for drought tolerance at Mechara, eastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18312,7 +18315,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-300-1",
-        "title": "Final Research Dossier: Evaluation of Arsi Coffee collections for drought tolerance at Mech...",
+        "title": "Final Research Dossier: Evaluation of Arsi Coffee collections for drought tolerance at Mechara, eastern ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18327,7 +18330,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Production and dissemination of coffee seedling for coffee growing areas",
     "centerId": "mechara-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abeba Chimdi",
@@ -18341,8 +18344,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 441973,
-    "budgetUtilizedETB": 441973,
+    "budgetAllocatedETB": 408153,
+    "budgetUtilizedETB": 408153,
     "objectives": [
       "Production and dissemination of coffee seedling for coffee growing areas",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18373,7 +18376,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-301-1",
-        "title": "Final Research Dossier: Production and dissemination of coffee seedling for coffee growing ...",
+        "title": "Final Research Dossier: Production and dissemination of coffee seedling for coffee growing areas",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18388,7 +18391,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pathogen Identification of Bacterial Blight of Coffee (Coffea arabica L.)",
     "centerId": "mechara-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adisu Wegari",
@@ -18402,8 +18405,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442046,
-    "budgetUtilizedETB": 442046,
+    "budgetAllocatedETB": 494431,
+    "budgetUtilizedETB": 494431,
     "objectives": [
       "Pathogen Identification of Bacterial Blight of Coffee (Coffea arabica L.)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18434,7 +18437,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-302-1",
-        "title": "Final Research Dossier: Pathogen Identification of Bacterial Blight of Coffee (Coffea arabi...",
+        "title": "Final Research Dossier: Pathogen Identification of Bacterial Blight of Coffee (Coffea arabica L.)",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18449,7 +18452,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Hararghe Coffee (Coffea arabica L. ) Genotypes to Coletotrichum Kahawae",
     "centerId": "mechara-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adisu Wegari",
@@ -18463,8 +18466,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442119,
-    "budgetUtilizedETB": 442119,
+    "budgetAllocatedETB": 582348,
+    "budgetUtilizedETB": 582348,
     "objectives": [
       "Evaluation of Hararghe Coffee (Coffea arabica L. ) Genotypes to Coletotrichum Kahawae",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18495,7 +18498,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-303-1",
-        "title": "Final Research Dossier: Evaluation of Hararghe Coffee (Coffea arabica L. ) Genotypes to Col...",
+        "title": "Final Research Dossier: Evaluation of Hararghe Coffee (Coffea arabica L. ) Genotypes to Coletotrichum Ka...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18507,7 +18510,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-304",
     "code": "IQQO-COMP-MARC-2018-304",
-    "title": "Nectar secretion dynamics and\nhoney production potentials of Citrus sinensis  plant in west Hararghe Zone,",
+    "title": "Nectar secretion dynamics and honey production potentials of Citrus sinensis plant in west Hararghe Zone,",
     "centerId": "mechara-arc",
     "directorateId": "livestock-research",
     "teamId": "team-apiculture-sericulture",
@@ -18524,10 +18527,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442192,
-    "budgetUtilizedETB": 442192,
+    "budgetAllocatedETB": 411189,
+    "budgetUtilizedETB": 411189,
     "objectives": [
-      "Nectar secretion dynamics and\nhoney production potentials of Citrus sinensis  plant in west Hararghe Zone,",
+      "Nectar secretion dynamics and honey production potentials of Citrus sinensis plant in west Hararghe Zone,",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -18556,7 +18559,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-304-1",
-        "title": "Final Research Dossier: Nectar secretion dynamics and\nhoney production potentials of Citrus...",
+        "title": "Final Research Dossier: Nectar secretion dynamics and honey production potentials of Citrus sinensis pla...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18585,8 +18588,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442265,
-    "budgetUtilizedETB": 442265,
+    "budgetAllocatedETB": 599582,
+    "budgetUtilizedETB": 599582,
     "objectives": [
       "Performance evaluation of herbaceous plant species for honeybee forage development in West Hararghe zone, Oromia Region, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18617,7 +18620,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-305-1",
-        "title": "Final Research Dossier: Performance evaluation of herbaceous plant species for honeybee for...",
+        "title": "Final Research Dossier: Performance evaluation of herbaceous plant species for honeybee forage developme...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18646,8 +18649,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442338,
-    "budgetUtilizedETB": 442338,
+    "budgetAllocatedETB": 390087,
+    "budgetUtilizedETB": 390087,
     "objectives": [
       "Characterization of Honeybees Colonies (Apismellifera J.) in West Hararghe Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18679,7 +18682,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-306-1",
-        "title": "Final Research Dossier: Characterization of Honeybees Colonies (Apismellifera J.) in West H...",
+        "title": "Final Research Dossier: Characterization of Honeybees Colonies (Apismellifera J.) in West Hararghe Zone,...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18691,7 +18694,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-307",
     "code": "IQQO-COMP-MARC-2018-307",
-    "title": "Evaluation and Adaptation on Growth\n Performance of Exotic highland bamboo, at Gemechis District, West Harerghe Zone, Ethiopia",
+    "title": "Evaluation and Adaptation on Growth Performance of Exotic highland bamboo, at Gemechis District, West Harerghe Zone, Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "natural-resources",
     "teamId": "team-agroforestry",
@@ -18708,10 +18711,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2014-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442411,
-    "budgetUtilizedETB": 442411,
+    "budgetAllocatedETB": 506152,
+    "budgetUtilizedETB": 506152,
     "objectives": [
-      "Evaluation and Adaptation on Growth\n Performance of Exotic highland bamboo, at Gemechis District, West Harerghe Zone, Ethiopia",
+      "Evaluation and Adaptation on Growth Performance of Exotic highland bamboo, at Gemechis District, West Harerghe Zone, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -18740,7 +18743,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-307-1",
-        "title": "Final Research Dossier: Evaluation and Adaptation on Growth\n Performance of Exotic highland...",
+        "title": "Final Research Dossier: Evaluation and Adaptation on Growth Performance of Exotic highland bamboo, at Ge...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18752,7 +18755,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-308",
     "code": "IQQO-COMP-MARC-2018-308",
-    "title": "Assessment, Characterization and \nMapping of Dindin, Jello Muktar and Hades Forest in West Hararghe Zone, East Oromia, Ethiopia",
+    "title": "Assessment, Characterization and Mapping of Dindin, Jello Muktar and Hades Forest in West Hararghe Zone, East Oromia, Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "natural-resources",
     "teamId": "team-agroforestry",
@@ -18769,10 +18772,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2014-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442484,
-    "budgetUtilizedETB": 442484,
+    "budgetAllocatedETB": 429875,
+    "budgetUtilizedETB": 429875,
     "objectives": [
-      "Assessment, Characterization and \nMapping of Dindin, Jello Muktar and Hades Forest in West Hararghe Zone, East Oromia, Ethiopia",
+      "Assessment, Characterization and Mapping of Dindin, Jello Muktar and Hades Forest in West Hararghe Zone, East Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -18801,7 +18804,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-308-1",
-        "title": "Final Research Dossier: Assessment, Characterization and \nMapping of Dindin, Jello Muktar a...",
+        "title": "Final Research Dossier: Assessment, Characterization and Mapping of Dindin, Jello Muktar and Hades Fores...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18813,7 +18816,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-309",
     "code": "IQQO-COMP-MARC-2018-309",
-    "title": "Determination of Optimal Allowable Soil Moisture Depletion Level on Yield,  and Water Productivity of Onion under Furrow Irrigation at Mechara onstation, Ethiopia",
+    "title": "Determination of Optimal Allowable Soil Moisture Depletion Level on Yield, and Water Productivity of Onion under Furrow Irrigation at Mechara onstation, Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "agricultural-engineering",
     "teamId": "team-irrigation-drainage",
@@ -18830,10 +18833,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442557,
-    "budgetUtilizedETB": 442557,
+    "budgetAllocatedETB": 436813,
+    "budgetUtilizedETB": 436813,
     "objectives": [
-      "Determination of Optimal Allowable Soil Moisture Depletion Level on Yield,  and Water Productivity of Onion under Furrow Irrigation at Mechara onstation, Ethiopia",
+      "Determination of Optimal Allowable Soil Moisture Depletion Level on Yield, and Water Productivity of Onion under Furrow Irrigation at Mechara onstation, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -18862,7 +18865,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-309-1",
-        "title": "Final Research Dossier: Determination of Optimal Allowable Soil Moisture Depletion Level on...",
+        "title": "Final Research Dossier: Determination of Optimal Allowable Soil Moisture Depletion Level on Yield, and W...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18891,8 +18894,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442630,
-    "budgetUtilizedETB": 442630,
+    "budgetAllocatedETB": 453267,
+    "budgetUtilizedETB": 453267,
     "objectives": [
       "Determination of Optimal Irrigation Scheduling for Sesame (Sesamum indicum L.) under convectional furrow irrigation in Oda Bultum District, West Hararghe Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18923,7 +18926,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-310-1",
-        "title": "Final Research Dossier: Determination of Optimal Irrigation Scheduling for Sesame (Sesamum ...",
+        "title": "Final Research Dossier: Determination of Optimal Irrigation Scheduling for Sesame (Sesamum indicum L.) u...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -18952,8 +18955,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442703,
-    "budgetUtilizedETB": 442703,
+    "budgetAllocatedETB": 371144,
+    "budgetUtilizedETB": 371144,
     "objectives": [
       "Evaluation of Convectional and Alternate Furrow Irrigation under Different Water Application Levels on Onion Water Use Efficiency in West Hararghe Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -18985,7 +18988,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-311-1",
-        "title": "Final Research Dossier: Evaluation of Convectional and Alternate Furrow Irrigation under Di...",
+        "title": "Final Research Dossier: Evaluation of Convectional and Alternate Furrow Irrigation under Different Water...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19000,7 +19003,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Commercialization of Groundnut Production in West Hararghe Zone, Oromia National Regional State, Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Birhanu A.",
@@ -19014,8 +19017,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442776,
-    "budgetUtilizedETB": 442776,
+    "budgetAllocatedETB": 572218,
+    "budgetUtilizedETB": 572218,
     "objectives": [
       "Commercialization of Groundnut Production in West Hararghe Zone, Oromia National Regional State, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19046,7 +19049,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-312-1",
-        "title": "Final Research Dossier: Commercialization of Groundnut Production in West Hararghe Zone, Or...",
+        "title": "Final Research Dossier: Commercialization of Groundnut Production in West Hararghe Zone, Oromia National...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19061,7 +19064,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adoption and Impact of Improved Sorghum Technology on Smallholder Farmers Income in West Hararghe Zone, Eastern Oromia, Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Birhanu A.",
@@ -19075,8 +19078,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442849,
-    "budgetUtilizedETB": 442849,
+    "budgetAllocatedETB": 566230,
+    "budgetUtilizedETB": 566230,
     "objectives": [
       "Adoption and Impact of Improved Sorghum Technology on Smallholder Farmers Income in West Hararghe Zone, Eastern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19107,7 +19110,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-313-1",
-        "title": "Final Research Dossier: Adoption and Impact of Improved Sorghum Technology on Smallholder F...",
+        "title": "Final Research Dossier: Adoption and Impact of Improved Sorghum Technology on Smallholder Farmers Income...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19122,7 +19125,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessments of Mung Bean Production and Marketing systems in West Hararghe Zone, Eastern Oromia, Ethiopia",
     "centerId": "mechara-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Birhanu A.",
@@ -19136,8 +19139,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442922,
-    "budgetUtilizedETB": 442922,
+    "budgetAllocatedETB": 411431,
+    "budgetUtilizedETB": 411431,
     "objectives": [
       "Assessments of Mung Bean Production and Marketing systems in West Hararghe Zone, Eastern Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19168,7 +19171,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-314-1",
-        "title": "Final Research Dossier: Assessments of Mung Bean Production and Marketing systems in West H...",
+        "title": "Final Research Dossier: Assessments of Mung Bean Production and Marketing systems in West Hararghe Zone,...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19183,7 +19186,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Soil Test Crop Response Based Phosphorus Calibration Study for Malt Barley in Dodola District of West Arsi Zone of Oromia, Ethiopia",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdurha H",
@@ -19197,8 +19200,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 442995,
-    "budgetUtilizedETB": 442995,
+    "budgetAllocatedETB": 542361,
+    "budgetUtilizedETB": 542361,
     "objectives": [
       "Soil Test Crop Response Based Phosphorus Calibration Study for Malt Barley in Dodola District of West Arsi Zone of Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19229,7 +19232,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-315-1",
-        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study for Malt...",
+        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study for Malt Barley in Do...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19244,7 +19247,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration of NP Fertilizers Based on Pc and Pf for Bread Wheat in Bora District, East Shewa Zone",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdurha H",
@@ -19258,8 +19261,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443068,
-    "budgetUtilizedETB": 443068,
+    "budgetAllocatedETB": 578454,
+    "budgetUtilizedETB": 578454,
     "objectives": [
       "Pre-extension Demonstration of NP Fertilizers Based on Pc and Pf for Bread Wheat in Bora District, East Shewa Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19290,7 +19293,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-316-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration of NP Fertilizers Based on Pc and Pf fo...",
+        "title": "Final Research Dossier: Pre-extension Demonstration of NP Fertilizers Based on Pc and Pf for Bread Wheat...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19305,7 +19308,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of Phosphorus Calibration Studies on Food Barley in Kofole District",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdurha H",
@@ -19319,8 +19322,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443141,
-    "budgetUtilizedETB": 443141,
+    "budgetAllocatedETB": 471063,
+    "budgetUtilizedETB": 471063,
     "objectives": [
       "Verification of Phosphorus Calibration Studies on Food Barley in Kofole District",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19351,7 +19354,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-317-1",
-        "title": "Final Research Dossier: Verification of Phosphorus Calibration Studies on Food Barley in Ko...",
+        "title": "Final Research Dossier: Verification of Phosphorus Calibration Studies on Food Barley in Kofole District",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19366,7 +19369,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effect of Bio-char and NP fertilizer on yield of Bread wheat and Soil Acidity reclamation in Kofole District, West Arsi Zone of Oromia, Ethiopia",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tilahun F",
@@ -19380,8 +19383,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2017-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 443214,
-    "budgetUtilizedETB": 443214,
+    "budgetAllocatedETB": 536476,
+    "budgetUtilizedETB": 536476,
     "objectives": [
       "Effect of Bio-char and NP fertilizer on yield of Bread wheat and Soil Acidity reclamation in Kofole District, West Arsi Zone of Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19412,7 +19415,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-318-1",
-        "title": "Final Research Dossier: Effect of Bio-char and NP fertilizer on yield of Bread wheat and So...",
+        "title": "Final Research Dossier: Effect of Bio-char and NP fertilizer on yield of Bread wheat and Soil Acidity re...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2019-10-15"
@@ -19427,7 +19430,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration of NP Fertilizers Based on Pc and Pf for Tef in Bora District, East Shewa Zone of Oromia, Ethiopi",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amante L",
@@ -19441,8 +19444,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443287,
-    "budgetUtilizedETB": 443287,
+    "budgetAllocatedETB": 578142,
+    "budgetUtilizedETB": 578142,
     "objectives": [
       "Pre-extension Demonstration of NP Fertilizers Based on Pc and Pf for Tef in Bora District, East Shewa Zone of Oromia, Ethiopi",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19473,7 +19476,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-319-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration of NP Fertilizers Based on Pc and Pf fo...",
+        "title": "Final Research Dossier: Pre-extension Demonstration of NP Fertilizers Based on Pc and Pf for Tef in Bora...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19488,7 +19491,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessing the Effects of Groundwater Salinity on Avocado growth and productivity in Lume District, East Shewa Zone, Oromia, E",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tilahun A",
@@ -19502,8 +19505,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2017-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 443360,
-    "budgetUtilizedETB": 443360,
+    "budgetAllocatedETB": 466148,
+    "budgetUtilizedETB": 466148,
     "objectives": [
       "Assessing the Effects of Groundwater Salinity on Avocado growth and productivity in Lume District, East Shewa Zone, Oromia, E",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19534,7 +19537,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-320-1",
-        "title": "Final Research Dossier: Assessing the Effects of Groundwater Salinity on Avocado growth and...",
+        "title": "Final Research Dossier: Assessing the Effects of Groundwater Salinity on Avocado growth and productivity...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2019-10-15"
@@ -19549,7 +19552,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers for bread wheat production in Lume District, East Shewa Oromia, Ethiopia",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tilahun A",
@@ -19563,8 +19566,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443433,
-    "budgetUtilizedETB": 443433,
+    "budgetAllocatedETB": 371830,
+    "budgetUtilizedETB": 371830,
     "objectives": [
       "Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers for bread wheat production in Lume District, East Shewa Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19595,7 +19598,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-321-1",
-        "title": "Final Research Dossier: Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liqui...",
+        "title": "Final Research Dossier: Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19610,7 +19613,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-verification of Nano Avocado Magic Organic Fertilizer on tef Yield and Soil properties in Lume district, East Shewa Zone, Oromia, Ethiopia",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tilahun A",
@@ -19624,8 +19627,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443506,
-    "budgetUtilizedETB": 443506,
+    "budgetAllocatedETB": 458064,
+    "budgetUtilizedETB": 458064,
     "objectives": [
       "Pre-verification of Nano Avocado Magic Organic Fertilizer on tef Yield and Soil properties in Lume district, East Shewa Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19656,7 +19659,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-322-1",
-        "title": "Final Research Dossier: Pre-verification of Nano Avocado Magic Organic Fertilizer on tef Yi...",
+        "title": "Final Research Dossier: Pre-verification of Nano Avocado Magic Organic Fertilizer on tef Yield and Soil ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19671,7 +19674,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers for tef production in Lume District, East Shewa Oromia, Ethiopia",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tilahun A",
@@ -19685,8 +19688,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443579,
-    "budgetUtilizedETB": 443579,
+    "budgetAllocatedETB": 415260,
+    "budgetUtilizedETB": 415260,
     "objectives": [
       "Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers for tef production in Lume District, East Shewa Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19717,7 +19720,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-323-1",
-        "title": "Final Research Dossier: Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liqui...",
+        "title": "Final Research Dossier: Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19732,7 +19735,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-verification of Nano Avocado Magic Organic Fertilizer on bread wheat Yield and Soil properties in Lume district, East Shewa Zone, Oromia, Ethiopia",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tilahun A",
@@ -19746,8 +19749,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443652,
-    "budgetUtilizedETB": 443652,
+    "budgetAllocatedETB": 551382,
+    "budgetUtilizedETB": 551382,
     "objectives": [
       "Pre-verification of Nano Avocado Magic Organic Fertilizer on bread wheat Yield and Soil properties in Lume district, East Shewa Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19778,7 +19781,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-324-1",
-        "title": "Final Research Dossier: Pre-verification of Nano Avocado Magic Organic Fertilizer on bread ...",
+        "title": "Final Research Dossier: Pre-verification of Nano Avocado Magic Organic Fertilizer on bread wheat Yield a...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19793,7 +19796,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Characterization, Classification and Mapping of Soil Resources in Sheshamane District , West Arsi Zone, Oromia Region.",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Hussein N",
@@ -19807,8 +19810,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443725,
-    "budgetUtilizedETB": 443725,
+    "budgetAllocatedETB": 361450,
+    "budgetUtilizedETB": 361450,
     "objectives": [
       "Characterization, Classification and Mapping of Soil Resources in Sheshamane District , West Arsi Zone, Oromia Region.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19839,7 +19842,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-325-1",
-        "title": "Final Research Dossier: Characterization, Classification and Mapping of Soil Resources in S...",
+        "title": "Final Research Dossier: Characterization, Classification and Mapping of Soil Resources in Sheshamane Dis...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19854,7 +19857,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Characterization, Classification and Mapping of Soil Resources in NegelleArsiDistrict , West Arsi Zone, Oromia Region.",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Hussein N",
@@ -19868,8 +19871,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443798,
-    "budgetUtilizedETB": 443798,
+    "budgetAllocatedETB": 388036,
+    "budgetUtilizedETB": 388036,
     "objectives": [
       "Characterization, Classification and Mapping of Soil Resources in NegelleArsiDistrict , West Arsi Zone, Oromia Region.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19900,7 +19903,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-326-1",
-        "title": "Final Research Dossier: Characterization, Classification and Mapping of Soil Resources in N...",
+        "title": "Final Research Dossier: Characterization, Classification and Mapping of Soil Resources in NegelleArsiDis...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19915,7 +19918,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Validation of Fertilizer Requirement Mapping For Bread Wheat At Sheshamane District, West Arsi Zone, Oromia Region, Ethiopia.",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Hussein N",
@@ -19929,8 +19932,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443871,
-    "budgetUtilizedETB": 443871,
+    "budgetAllocatedETB": 475471,
+    "budgetUtilizedETB": 475471,
     "objectives": [
       "Validation of Fertilizer Requirement Mapping For Bread Wheat At Sheshamane District, West Arsi Zone, Oromia Region, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -19961,7 +19964,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-327-1",
-        "title": "Final Research Dossier: Validation of Fertilizer Requirement Mapping For Bread Wheat At She...",
+        "title": "Final Research Dossier: Validation of Fertilizer Requirement Mapping For Bread Wheat At Sheshamane Distr...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -19976,7 +19979,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration of Validated Phosphorous Requirement Map for Bread Wheat in Dugdaa District, East Shewa",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bekele A",
@@ -19990,8 +19993,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 443944,
-    "budgetUtilizedETB": 443944,
+    "budgetAllocatedETB": 524306,
+    "budgetUtilizedETB": 524306,
     "objectives": [
       "Pre-extension Demonstration of Validated Phosphorous Requirement Map for Bread Wheat in Dugdaa District, East Shewa",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20022,7 +20025,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-328-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration of Validated Phosphorous Requirement Ma...",
+        "title": "Final Research Dossier: Pre-extension Demonstration of Validated Phosphorous Requirement Map for Bread W...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20037,7 +20040,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration of Validated Phosphorous Requirement Map For Tef In LibenChukala District, East Shewa",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bekele A",
@@ -20051,8 +20054,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444017,
-    "budgetUtilizedETB": 444017,
+    "budgetAllocatedETB": 553773,
+    "budgetUtilizedETB": 553773,
     "objectives": [
       "Pre-Extension Demonstration of Validated Phosphorous Requirement Map For Tef In LibenChukala District, East Shewa",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20083,7 +20086,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-329-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration of Validated Phosphorous Requirement Ma...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration of Validated Phosphorous Requirement Map For Tef In ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20098,7 +20101,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration of Validated Phosphorous Requirement Map For Bread Wheat Libanchukala District, East shewa Zone Of Oromia, Ethiopia.",
     "centerId": "batu-soil",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Retta W",
@@ -20112,8 +20115,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444090,
-    "budgetUtilizedETB": 444090,
+    "budgetAllocatedETB": 482655,
+    "budgetUtilizedETB": 482655,
     "objectives": [
       "Pre-Extension Demonstration of Validated Phosphorous Requirement Map For Bread Wheat Libanchukala District, East shewa Zone Of Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20144,7 +20147,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-330-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration of Validated Phosphorous Requirement Ma...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration of Validated Phosphorous Requirement Map For Bread W...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20173,8 +20176,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444163,
-    "budgetUtilizedETB": 444163,
+    "budgetAllocatedETB": 513854,
+    "budgetUtilizedETB": 513854,
     "objectives": [
       "Multi-location Evaluation of Grain Yield and Yield Components of White Seeded Tef Genotypes in Kellem Wollega Zone, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20205,7 +20208,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-331-1",
-        "title": "Final Research Dossier: Multi-location Evaluation of Grain Yield and Yield Components of Wh...",
+        "title": "Final Research Dossier: Multi-location Evaluation of Grain Yield and Yield Components of White Seeded Te...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20234,8 +20237,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444236,
-    "budgetUtilizedETB": 444236,
+    "budgetAllocatedETB": 495237,
+    "budgetUtilizedETB": 495237,
     "objectives": [
       "Multi-location Evaluation of Grain Yield and Yield Components of Brown Seeded Tef Genotypes in Kellem Wollega Zone, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20266,7 +20269,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-332-1",
-        "title": "Final Research Dossier: Multi-location Evaluation of Grain Yield and Yield Components of Br...",
+        "title": "Final Research Dossier: Multi-location Evaluation of Grain Yield and Yield Components of Brown Seeded Te...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20295,8 +20298,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444309,
-    "budgetUtilizedETB": 444309,
+    "budgetAllocatedETB": 421782,
+    "budgetUtilizedETB": 421782,
     "objectives": [
       "Multi-location Evaluation of Grain Yield and Yield Components of Late Maturing Sorghum Genotypes in Kellem Wollega Zone, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20327,7 +20330,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-333-1",
-        "title": "Final Research Dossier: Multi-location Evaluation of Grain Yield and Yield Components of La...",
+        "title": "Final Research Dossier: Multi-location Evaluation of Grain Yield and Yield Components of Late Maturing S...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20339,7 +20342,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-334",
     "code": "IQQO-COMP-HSARC-2018-334",
-    "title": "Effect of Seed Rate  and Row Spacing on Yield and Yield Components of Upland Rice (Oryza sativa L.) at Kellem Wollega Zone, Western Oromia",
+    "title": "Effect of Seed Rate and Row Spacing on Yield and Yield Components of Upland Rice (Oryza sativa L.) at Kellem Wollega Zone, Western Oromia",
     "centerId": "haro-sabu",
     "directorateId": "crop-research",
     "teamId": "team-cereal-crops",
@@ -20356,10 +20359,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444382,
-    "budgetUtilizedETB": 444382,
+    "budgetAllocatedETB": 403526,
+    "budgetUtilizedETB": 403526,
     "objectives": [
-      "Effect of Seed Rate  and Row Spacing on Yield and Yield Components of Upland Rice (Oryza sativa L.) at Kellem Wollega Zone, Western Oromia",
+      "Effect of Seed Rate and Row Spacing on Yield and Yield Components of Upland Rice (Oryza sativa L.) at Kellem Wollega Zone, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -20388,7 +20391,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-334-1",
-        "title": "Final Research Dossier: Effect of Seed Rate  and Row Spacing on Yield and Yield Components ...",
+        "title": "Final Research Dossier: Effect of Seed Rate and Row Spacing on Yield and Yield Components of Upland Rice...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20417,8 +20420,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444455,
-    "budgetUtilizedETB": 444455,
+    "budgetAllocatedETB": 460079,
+    "budgetUtilizedETB": 460079,
     "objectives": [
       "Adaptation and Yield Performance of Improved Cotton (Gossypium hirsutum L.) Varieties under Rainfed Conditions in Kellem Wollega Zone, Western Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20449,7 +20452,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-335-1",
-        "title": "Final Research Dossier: Adaptation and Yield Performance of Improved Cotton (Gossypium hirs...",
+        "title": "Final Research Dossier: Adaptation and Yield Performance of Improved Cotton (Gossypium hirsutum L.) Vari...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20478,8 +20481,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444528,
-    "budgetUtilizedETB": 444528,
+    "budgetAllocatedETB": 395491,
+    "budgetUtilizedETB": 395491,
     "objectives": [
       "Effect of Inter and Intra-Row Spacing on Yield and Yield components of Field pea varieties in Kellem Wollega Zone, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20510,7 +20513,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-336-1",
-        "title": "Final Research Dossier: Effect of Inter and Intra-Row Spacing on Yield and Yield components...",
+        "title": "Final Research Dossier: Effect of Inter and Intra-Row Spacing on Yield and Yield components of Field pea...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20539,8 +20542,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444601,
-    "budgetUtilizedETB": 444601,
+    "budgetAllocatedETB": 443863,
+    "budgetUtilizedETB": 443863,
     "objectives": [
       "Registration of Baaroo (Acc#47) Anchote (Coccinia abyssinica)Variety for Kelem Welega and West Welega Zones, Western Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20571,7 +20574,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-337-1",
-        "title": "Final Research Dossier: Registration of Baaroo (Acc#47) Anchote (Coccinia abyssinica)Variet...",
+        "title": "Final Research Dossier: Registration of Baaroo (Acc#47) Anchote (Coccinia abyssinica)Variety for Kelem W...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20600,8 +20603,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444674,
-    "budgetUtilizedETB": 444674,
+    "budgetAllocatedETB": 400214,
+    "budgetUtilizedETB": 400214,
     "objectives": [
       "Effects of Inter and Intra Row Spacing on Yield and Yield components of head cabbage (Brassica oleracea var. capitata L.) Production in Kelem and West Wolega zones of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20632,7 +20635,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-338-1",
-        "title": "Final Research Dossier: Effects of Inter and Intra Row Spacing on Yield and Yield component...",
+        "title": "Final Research Dossier: Effects of Inter and Intra Row Spacing on Yield and Yield components of head cab...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20644,7 +20647,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-339",
     "code": "IQQO-COMP-HSARC-2018-339",
-    "title": "Effect of Plant Population and Varieties on Yield and Yield components of Sweet Potato (Ipomea batatas)        in Kellem and West Wollega zones of Oromia",
+    "title": "Effect of Plant Population and Varieties on Yield and Yield components of Sweet Potato (Ipomea batatas) in Kellem and West Wollega zones of Oromia",
     "centerId": "haro-sabu",
     "directorateId": "crop-research",
     "teamId": "team-horticulture",
@@ -20661,10 +20664,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444747,
-    "budgetUtilizedETB": 444747,
+    "budgetAllocatedETB": 407972,
+    "budgetUtilizedETB": 407972,
     "objectives": [
-      "Effect of Plant Population and Varieties on Yield and Yield components of Sweet Potato (Ipomea batatas)        in Kellem and West Wollega zones of Oromia",
+      "Effect of Plant Population and Varieties on Yield and Yield components of Sweet Potato (Ipomea batatas) in Kellem and West Wollega zones of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -20693,7 +20696,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-339-1",
-        "title": "Final Research Dossier: Effect of Plant Population and Varieties on Yield and Yield compone...",
+        "title": "Final Research Dossier: Effect of Plant Population and Varieties on Yield and Yield components of Sweet ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20708,7 +20711,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and participatory variety selection of improve coffee varieties in West and Kellem Wollega zones",
     "centerId": "haro-sabu",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Admasu Raga",
@@ -20722,8 +20725,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2012-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444820,
-    "budgetUtilizedETB": 444820,
+    "budgetAllocatedETB": 412223,
+    "budgetUtilizedETB": 412223,
     "objectives": [
       "Adaptation and participatory variety selection of improve coffee varieties in West and Kellem Wollega zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20754,7 +20757,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-340-1",
-        "title": "Final Research Dossier: Adaptation and participatory variety selection of improve coffee va...",
+        "title": "Final Research Dossier: Adaptation and participatory variety selection of improve coffee varieties in We...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20769,7 +20772,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of 2017/18 West and Kellem Wollega coffee collections for quality traits",
     "centerId": "haro-sabu",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Zewude",
@@ -20783,8 +20786,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444893,
-    "budgetUtilizedETB": 444893,
+    "budgetAllocatedETB": 478436,
+    "budgetUtilizedETB": 478436,
     "objectives": [
       "Evaluation of 2017/18 West and Kellem Wollega coffee collections for quality traits",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20815,7 +20818,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-341-1",
-        "title": "Final Research Dossier: Evaluation of 2017/18 West and Kellem Wollega coffee collections fo...",
+        "title": "Final Research Dossier: Evaluation of 2017/18 West and Kellem Wollega coffee collections for quality tra...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20830,7 +20833,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of pre and postharvest management practices affecting Arabica coffee quality in West and Kellem Wollega Zones",
     "centerId": "haro-sabu",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Amanuel Zewude",
@@ -20844,8 +20847,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 444966,
-    "budgetUtilizedETB": 444966,
+    "budgetAllocatedETB": 379655,
+    "budgetUtilizedETB": 379655,
     "objectives": [
       "Assessment of pre and postharvest management practices affecting Arabica coffee quality in West and Kellem Wollega Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20876,7 +20879,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-342-1",
-        "title": "Final Research Dossier: Assessment of pre and postharvest management practices affecting Ar...",
+        "title": "Final Research Dossier: Assessment of pre and postharvest management practices affecting Arabica coffee ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20891,7 +20894,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation Fungicides for the managements of Fuzarium Head Blight of bread wheat in West Wollega and KellemWollega Zones",
     "centerId": "haro-sabu",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Firaol Fikadu",
@@ -20905,8 +20908,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445039,
-    "budgetUtilizedETB": 445039,
+    "budgetAllocatedETB": 419393,
+    "budgetUtilizedETB": 419393,
     "objectives": [
       "Evaluation Fungicides for the managements of Fuzarium Head Blight of bread wheat in West Wollega and KellemWollega Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20937,7 +20940,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-343-1",
-        "title": "Final Research Dossier: Evaluation Fungicides for the managements of Fuzarium Head Blight o...",
+        "title": "Final Research Dossier: Evaluation Fungicides for the managements of Fuzarium Head Blight of bread wheat...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -20952,7 +20955,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screening of Bread Wheat Genotypes resistance to major diseases in Kellem Wollega Zone",
     "centerId": "haro-sabu",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Firaol Fikadu",
@@ -20966,8 +20969,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445112,
-    "budgetUtilizedETB": 445112,
+    "budgetAllocatedETB": 448102,
+    "budgetUtilizedETB": 448102,
     "objectives": [
       "Screening of Bread Wheat Genotypes resistance to major diseases in Kellem Wollega Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -20998,7 +21001,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-344-1",
-        "title": "Final Research Dossier: Screening of Bread Wheat Genotypes resistance to major diseases in ...",
+        "title": "Final Research Dossier: Screening of Bread Wheat Genotypes resistance to major diseases in Kellem Wolleg...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21013,7 +21016,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Integrated Hand Weeding with pre and post emergency herbicide in Sorghum (sorghum bicolor) in KellemWollega Zone",
     "centerId": "haro-sabu",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Firaol Fikadu",
@@ -21027,8 +21030,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445185,
-    "budgetUtilizedETB": 445185,
+    "budgetAllocatedETB": 598023,
+    "budgetUtilizedETB": 598023,
     "objectives": [
       "Integrated Hand Weeding with pre and post emergency herbicide in Sorghum (sorghum bicolor) in KellemWollega Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21059,7 +21062,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-345-1",
-        "title": "Final Research Dossier: Integrated Hand Weeding with pre and post emergency herbicide in So...",
+        "title": "Final Research Dossier: Integrated Hand Weeding with pre and post emergency herbicide in Sorghum (sorghu...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21074,7 +21077,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Sweet Potato (IpomeabatatasL) Varieties to Sweet Potato Weevils (Cylaspuncticollis (boheman) in West Wollega and KellemWollega zones",
     "centerId": "haro-sabu",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Firaol Fikadu",
@@ -21088,8 +21091,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445258,
-    "budgetUtilizedETB": 445258,
+    "budgetAllocatedETB": 515413,
+    "budgetUtilizedETB": 515413,
     "objectives": [
       "Evaluation of Sweet Potato (IpomeabatatasL) Varieties to Sweet Potato Weevils (Cylaspuncticollis (boheman) in West Wollega and KellemWollega zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21120,7 +21123,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-346-1",
-        "title": "Final Research Dossier: Evaluation of Sweet Potato (IpomeabatatasL) Varieties to Sweet Pota...",
+        "title": "Final Research Dossier: Evaluation of Sweet Potato (IpomeabatatasL) Varieties to Sweet Potato Weevils (C...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21149,8 +21152,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445331,
-    "budgetUtilizedETB": 445331,
+    "budgetAllocatedETB": 520037,
+    "budgetUtilizedETB": 520037,
     "objectives": [
       "Sweet Lupine (Lupinus angustifolius) adaptation trial in West and Kellam Wollega zones of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21181,7 +21184,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-347-1",
-        "title": "Final Research Dossier: Sweet Lupine (Lupinus angustifolius) adaptation trial in West and K...",
+        "title": "Final Research Dossier: Sweet Lupine (Lupinus angustifolius) adaptation trial in West and Kellam Wollega...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21210,8 +21213,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445404,
-    "budgetUtilizedETB": 445404,
+    "budgetAllocatedETB": 411866,
+    "budgetUtilizedETB": 411866,
     "objectives": [
       "Sesbania macrantha Regional Variety Trial",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21254,7 +21257,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-349",
     "code": "IQQO-COMP-HSARC-2018-349",
-    "title": "Effect of seed pretreatment  on germination of specific  bee plants (Entada abyssinica)",
+    "title": "Effect of seed pretreatment on germination of specific bee plants (Entada abyssinica)",
     "centerId": "haro-sabu",
     "directorateId": "livestock-research",
     "teamId": "team-apiculture-sericulture",
@@ -21271,10 +21274,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 445477,
-    "budgetUtilizedETB": 445477,
+    "budgetAllocatedETB": 430503,
+    "budgetUtilizedETB": 430503,
     "objectives": [
-      "Effect of seed pretreatment  on germination of specific  bee plants (Entada abyssinica)",
+      "Effect of seed pretreatment on germination of specific bee plants (Entada abyssinica)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -21303,7 +21306,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-349-1",
-        "title": "Final Research Dossier: Effect of seed pretreatment  on germination of specific  bee plants...",
+        "title": "Final Research Dossier: Effect of seed pretreatment on germination of specific bee plants (Entada abyssi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -21318,7 +21321,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of Small Pod Hot Pepper Technologies in West and Kellem Wollega Zones",
     "centerId": "haro-sabu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dammeksa Umer",
@@ -21332,8 +21335,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445550,
-    "budgetUtilizedETB": 445550,
+    "budgetAllocatedETB": 590875,
+    "budgetUtilizedETB": 590875,
     "objectives": [
       "Pre-scaling up of Small Pod Hot Pepper Technologies in West and Kellem Wollega Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21364,7 +21367,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-350-1",
-        "title": "Final Research Dossier: Pre-scaling up of Small Pod Hot Pepper Technologies in West and Kel...",
+        "title": "Final Research Dossier: Pre-scaling up of Small Pod Hot Pepper Technologies in West and Kellem Wollega Z...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21379,7 +21382,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "PED of Nitrogen and NPS Fertilizer Application Rates for Small Pod Hot Pepper Production in Kellem and West Wollega zones",
     "centerId": "haro-sabu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Hika Tesfa",
@@ -21393,8 +21396,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445623,
-    "budgetUtilizedETB": 445623,
+    "budgetAllocatedETB": 537115,
+    "budgetUtilizedETB": 537115,
     "objectives": [
       "PED of Nitrogen and NPS Fertilizer Application Rates for Small Pod Hot Pepper Production in Kellem and West Wollega zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21425,7 +21428,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-351-1",
-        "title": "Final Research Dossier: PED of Nitrogen and NPS Fertilizer Application Rates for Small Pod ...",
+        "title": "Final Research Dossier: PED of Nitrogen and NPS Fertilizer Application Rates for Small Pod Hot Pepper Pr...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21440,7 +21443,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of Commercial Head Cabbage (Brassica Oleracea) Technology in Selected Districts of West and Kellem Wollega Zones",
     "centerId": "haro-sabu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayisa Tamiru",
@@ -21454,8 +21457,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445696,
-    "budgetUtilizedETB": 445696,
+    "budgetAllocatedETB": 497910,
+    "budgetUtilizedETB": 497910,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of Commercial Head Cabbage (Brassica Oleracea) Technology in Selected Districts of West and Kellem Wollega Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21486,7 +21489,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-352-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Commercial Head Cabba...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Commercial Head Cabbage (Brassica ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21501,7 +21504,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of Sorghum Technology in Selected Districts of West and Kellem Wollega Zones",
     "centerId": "haro-sabu",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Hika Tesfa",
@@ -21515,8 +21518,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445769,
-    "budgetUtilizedETB": 445769,
+    "budgetAllocatedETB": 580367,
+    "budgetUtilizedETB": 580367,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of Sorghum Technology in Selected Districts of West and Kellem Wollega Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21547,7 +21550,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-353-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Sorghum Technology in...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Sorghum Technology in Selected Dis...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21576,8 +21579,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445842,
-    "budgetUtilizedETB": 445842,
+    "budgetAllocatedETB": 392448,
+    "budgetUtilizedETB": 392448,
     "objectives": [
       "Bread Wheat Regional Variety Trial for Optimum Areas of South Eastern Oromia -2023 (BWRVT-OA-23)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21609,7 +21612,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-354-1",
-        "title": "Final Research Dossier: Bread Wheat Regional Variety Trial for Optimum Areas of South Easte...",
+        "title": "Final Research Dossier: Bread Wheat Regional Variety Trial for Optimum Areas of South Eastern Oromia -20...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21638,8 +21641,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445915,
-    "budgetUtilizedETB": 445915,
+    "budgetAllocatedETB": 556249,
+    "budgetUtilizedETB": 556249,
     "objectives": [
       "Bread Wheat Regional Variety Trial for Low Moisture Areas of South Eastern Oromia -2023 (BWRVT-LMA-23)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21670,7 +21673,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-355-1",
-        "title": "Final Research Dossier: Bread Wheat Regional Variety Trial for Low Moisture Areas of South ...",
+        "title": "Final Research Dossier: Bread Wheat Regional Variety Trial for Low Moisture Areas of South Eastern Oromi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -21699,8 +21702,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 445988,
-    "budgetUtilizedETB": 445988,
+    "budgetAllocatedETB": 579388,
+    "budgetUtilizedETB": 579388,
     "objectives": [
       "Food Barley National Variety Trial -2024 (FBNVT-24)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21760,8 +21763,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446061,
-    "budgetUtilizedETB": 446061,
+    "budgetAllocatedETB": 583122,
+    "budgetUtilizedETB": 583122,
     "objectives": [
       "Semi Hulled Barley National Variety Trial-24",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21821,8 +21824,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446134,
-    "budgetUtilizedETB": 446134,
+    "budgetAllocatedETB": 448889,
+    "budgetUtilizedETB": 448889,
     "objectives": [
       "Semi Hulled Barley Regional Variety Verification Trial-25",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21882,8 +21885,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446207,
-    "budgetUtilizedETB": 446207,
+    "budgetAllocatedETB": 496196,
+    "budgetUtilizedETB": 496196,
     "objectives": [
       "Malty Barley National Variety Trial -2024 (MBNVT-24)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21943,8 +21946,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446280,
-    "budgetUtilizedETB": 446280,
+    "budgetAllocatedETB": 482888,
+    "budgetUtilizedETB": 482888,
     "objectives": [
       "Durum Wheat Regional Variety Trial for Optimum Areas of South Eastern Oromia -2023 (DWRVT-23)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -21976,7 +21979,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-360-1",
-        "title": "Final Research Dossier: Durum Wheat Regional Variety Trial for Optimum Areas of South Easte...",
+        "title": "Final Research Dossier: Durum Wheat Regional Variety Trial for Optimum Areas of South Eastern Oromia -20...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -22005,8 +22008,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446353,
-    "budgetUtilizedETB": 446353,
+    "budgetAllocatedETB": 354508,
+    "budgetUtilizedETB": 354508,
     "objectives": [
       "Durum Wheat National Performance Trial -2024 (DWNPT-24)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22067,8 +22070,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446426,
-    "budgetUtilizedETB": 446426,
+    "budgetAllocatedETB": 387923,
+    "budgetUtilizedETB": 387923,
     "objectives": [
       "Food Barley Regional Variety Trial for low moisture stress areas-22 (FBRVT-LMA-22)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22099,7 +22102,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-362-1",
-        "title": "Final Research Dossier: Food Barley Regional Variety Trial for low moisture stress areas-22...",
+        "title": "Final Research Dossier: Food Barley Regional Variety Trial for low moisture stress areas-22 (FBRVT-LMA-2...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -22128,8 +22131,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446499,
-    "budgetUtilizedETB": 446499,
+    "budgetAllocatedETB": 484649,
+    "budgetUtilizedETB": 484649,
     "objectives": [
       "Food Barley National Performance Trial -2024 (MBNPT-24)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22190,8 +22193,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446572,
-    "budgetUtilizedETB": 446572,
+    "budgetAllocatedETB": 514002,
+    "budgetUtilizedETB": 514002,
     "objectives": [
       "Food Barley National Performance Trial -2024 (FBNPT-24)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22252,8 +22255,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446645,
-    "budgetUtilizedETB": 446645,
+    "budgetAllocatedETB": 368045,
+    "budgetUtilizedETB": 368045,
     "objectives": [
       "Faba bean Variety Verification Trial 2024",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22313,8 +22316,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446718,
-    "budgetUtilizedETB": 446718,
+    "budgetAllocatedETB": 532114,
+    "budgetUtilizedETB": 532114,
     "objectives": [
       "Field pea Variety Verification Trial 2025",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22374,8 +22377,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446791,
-    "budgetUtilizedETB": 446791,
+    "budgetAllocatedETB": 364951,
+    "budgetUtilizedETB": 364951,
     "objectives": [
       "Field pea Regional Variety Trial 2022",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22435,8 +22438,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446864,
-    "budgetUtilizedETB": 446864,
+    "budgetAllocatedETB": 393082,
+    "budgetUtilizedETB": 393082,
     "objectives": [
       "Lentil Variety Verification Trial 2025",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22496,8 +22499,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 446937,
-    "budgetUtilizedETB": 446937,
+    "budgetAllocatedETB": 565127,
+    "budgetUtilizedETB": 565127,
     "objectives": [
       "Mung bean Variety Verification Trial 2025",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22557,8 +22560,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447010,
-    "budgetUtilizedETB": 447010,
+    "budgetAllocatedETB": 590056,
+    "budgetUtilizedETB": 590056,
     "objectives": [
       "Performance of Linseed (Linum ustitatissimum L.) to Nitrogen Application Timing in the highlands of Bale, Southeaster Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22589,7 +22592,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-370-1",
-        "title": "Final Research Dossier: Performance of Linseed (Linum ustitatissimum L.) to Nitrogen Applic...",
+        "title": "Final Research Dossier: Performance of Linseed (Linum ustitatissimum L.) to Nitrogen Application Timing ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -22618,8 +22621,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447083,
-    "budgetUtilizedETB": 447083,
+    "budgetAllocatedETB": 420475,
+    "budgetUtilizedETB": 420475,
     "objectives": [
       "Gomenzer Regional Variety Trial 2023",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22679,8 +22682,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447156,
-    "budgetUtilizedETB": 447156,
+    "budgetAllocatedETB": 598796,
+    "budgetUtilizedETB": 598796,
     "objectives": [
       "Soybean Adaptation Trial 2024",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22740,8 +22743,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447229,
-    "budgetUtilizedETB": 447229,
+    "budgetAllocatedETB": 411003,
+    "budgetUtilizedETB": 411003,
     "objectives": [
       "Ground Nut Adaptation Trial 2024",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22801,8 +22804,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447302,
-    "budgetUtilizedETB": 447302,
+    "budgetAllocatedETB": 409703,
+    "budgetUtilizedETB": 409703,
     "objectives": [
       "Adaptation trial of hot pepper",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22862,8 +22865,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447375,
-    "budgetUtilizedETB": 447375,
+    "budgetAllocatedETB": 468768,
+    "budgetUtilizedETB": 468768,
     "objectives": [
       "Fenugreek Regional Veriety Trial 2023",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22923,8 +22926,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447448,
-    "budgetUtilizedETB": 447448,
+    "budgetAllocatedETB": 404288,
+    "budgetUtilizedETB": 404288,
     "objectives": [
       "Black cumin RVT 2023",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -22970,22 +22973,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Advanced Screening of Breeding lines against major Barley Diseases",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Zerihun I, Dange K",
     "initiators": "Zerihun I, Dange K",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Dange K"
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2017",
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447521,
-    "budgetUtilizedETB": 447521,
+    "budgetAllocatedETB": 372978,
+    "budgetUtilizedETB": 372978,
     "objectives": [
       "Advanced Screening of Breeding lines against major Barley Diseases",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23031,22 +23034,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Advanced screening of FB genotypes against Chocolate spot and root rot",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Zerihun I, Dange K",
     "initiators": "Zerihun I, Dange K",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Dange K"
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2017",
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447594,
-    "budgetUtilizedETB": 447594,
+    "budgetAllocatedETB": 429308,
+    "budgetUtilizedETB": 429308,
     "objectives": [
       "Advanced screening of FB genotypes against Chocolate spot and root rot",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23092,22 +23095,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Bread wheat and Durum Wheat elites to a Single Stem Rust Race TTKTT in Sinana and Debrezeit Agricultural Research center, Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Zerihun I, Dange K",
     "initiators": "Zerihun I, Dange K",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Dange K"
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2016",
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447667,
-    "budgetUtilizedETB": 447667,
+    "budgetAllocatedETB": 533656,
+    "budgetUtilizedETB": 533656,
     "objectives": [
       "Evaluation of Bread wheat and Durum Wheat elites to a Single Stem Rust Race TTKTT in Sinana and Debrezeit Agricultural Research center, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23138,7 +23141,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-379-1",
-        "title": "Final Research Dossier: Evaluation of Bread wheat and Durum Wheat elites to a Single Stem R...",
+        "title": "Final Research Dossier: Evaluation of Bread wheat and Durum Wheat elites to a Single Stem Rust Race TTKT...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23153,7 +23156,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Fungicides Efficacy for the Management of Scald (Rhynchosporium secalis) Disease of Barley, South-eastern Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dagne K",
@@ -23167,8 +23170,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447740,
-    "budgetUtilizedETB": 447740,
+    "budgetAllocatedETB": 468603,
+    "budgetUtilizedETB": 468603,
     "objectives": [
       "Evaluation of Fungicides Efficacy for the Management of Scald (Rhynchosporium secalis) Disease of Barley, South-eastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23199,7 +23202,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-380-1",
-        "title": "Final Research Dossier: Evaluation of Fungicides Efficacy for the Management of Scald (Rhyn...",
+        "title": "Final Research Dossier: Evaluation of Fungicides Efficacy for the Management of Scald (Rhynchosporium se...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23214,7 +23217,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Pre and post emergence herbicide option in controlling major weeds in Faba bean (vici faba L.) in Bale Highlands, South Eastern Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tesfaye Y",
@@ -23228,8 +23231,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447813,
-    "budgetUtilizedETB": 447813,
+    "budgetAllocatedETB": 574023,
+    "budgetUtilizedETB": 574023,
     "objectives": [
       "Evaluation of Pre and post emergence herbicide option in controlling major weeds in Faba bean (vici faba L.) in Bale Highlands, South Eastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23260,7 +23263,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-381-1",
-        "title": "Final Research Dossier: Evaluation of Pre and post emergence herbicide option in controllin...",
+        "title": "Final Research Dossier: Evaluation of Pre and post emergence herbicide option in controlling major weeds...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23275,7 +23278,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Weed population Assessment in Wheat Irrigated area at Bale high land of Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tesfaye Y",
@@ -23289,8 +23292,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447886,
-    "budgetUtilizedETB": 447886,
+    "budgetAllocatedETB": 413750,
+    "budgetUtilizedETB": 413750,
     "objectives": [
       "Weed population Assessment in Wheat Irrigated area at Bale high land of Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23322,7 +23325,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-382-1",
-        "title": "Final Research Dossier: Weed population Assessment in Wheat Irrigated area at Bale high lan...",
+        "title": "Final Research Dossier: Weed population Assessment in Wheat Irrigated area at Bale high land of Ethiopia",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23337,11 +23340,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Survey and Identification of major field insect pests of lowland pulse crops in Bale zone, south eastern Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Megersa  A.",
-    "initiators": "Megersa  A.",
+    "principalInvestigator": "Megersa A.",
+    "initiators": "Megersa A.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -23351,8 +23354,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 447959,
-    "budgetUtilizedETB": 447959,
+    "budgetAllocatedETB": 424933,
+    "budgetUtilizedETB": 424933,
     "objectives": [
       "Survey and Identification of major field insect pests of lowland pulse crops in Bale zone, south eastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23383,7 +23386,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-383-1",
-        "title": "Final Research Dossier: Survey and Identification of major field insect pests of lowland pu...",
+        "title": "Final Research Dossier: Survey and Identification of major field insect pests of lowland pulse crops in ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23398,11 +23401,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Survey and identification of major field insect pests of wheat under rain feed and irrigation wheat production in Bale zone, south eastern Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Megersa  A.",
-    "initiators": "Megersa  A.",
+    "principalInvestigator": "Megersa A.",
+    "initiators": "Megersa A.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -23412,8 +23415,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448032,
-    "budgetUtilizedETB": 448032,
+    "budgetAllocatedETB": 572686,
+    "budgetUtilizedETB": 572686,
     "objectives": [
       "Survey and identification of major field insect pests of wheat under rain feed and irrigation wheat production in Bale zone, south eastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23444,7 +23447,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-384-1",
-        "title": "Final Research Dossier: Survey and identification of major field insect pests of wheat unde...",
+        "title": "Final Research Dossier: Survey and identification of major field insect pests of wheat under rain feed a...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23459,11 +23462,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screening of introduced food barley genotypes for their resistant/tolerant to barley shoot fly (Delia flavibasis stein), in bale highlands",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Megersa  A.",
-    "initiators": "Megersa  A.",
+    "principalInvestigator": "Megersa A.",
+    "initiators": "Megersa A.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -23473,8 +23476,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448105,
-    "budgetUtilizedETB": 448105,
+    "budgetAllocatedETB": 464777,
+    "budgetUtilizedETB": 464777,
     "objectives": [
       "Screening of introduced food barley genotypes for their resistant/tolerant to barley shoot fly (Delia flavibasis stein), in bale highlands",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23505,7 +23508,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-385-1",
-        "title": "Final Research Dossier: Screening of introduced food barley genotypes for their resistant/t...",
+        "title": "Final Research Dossier: Screening of introduced food barley genotypes for their resistant/tolerant to ba...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23520,11 +23523,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Screening of introduced malt barley genotypes for their resistant/tolerant to barley shoot fly (Delia flavibasis stein), in bale highlands",
     "centerId": "sinana-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Megersa  A.",
-    "initiators": "Megersa  A.",
+    "principalInvestigator": "Megersa A.",
+    "initiators": "Megersa A.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -23534,8 +23537,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448178,
-    "budgetUtilizedETB": 448178,
+    "budgetAllocatedETB": 466759,
+    "budgetUtilizedETB": 466759,
     "objectives": [
       "Screening of introduced malt barley genotypes for their resistant/tolerant to barley shoot fly (Delia flavibasis stein), in bale highlands",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23566,7 +23569,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-386-1",
-        "title": "Final Research Dossier: Screening of introduced malt barley genotypes for their resistant/t...",
+        "title": "Final Research Dossier: Screening of introduced malt barley genotypes for their resistant/tolerant to ba...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23581,7 +23584,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Collection of Coffee Landraces in major coffee growing areas of West Arsi zone",
     "centerId": "sinana-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Getachew A.",
@@ -23595,8 +23598,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448251,
-    "budgetUtilizedETB": 448251,
+    "budgetAllocatedETB": 451814,
+    "budgetUtilizedETB": 451814,
     "objectives": [
       "Collection of Coffee Landraces in major coffee growing areas of West Arsi zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23627,7 +23630,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-387-1",
-        "title": "Final Research Dossier: Collection of Coffee Landraces in major coffee growing areas of Wes...",
+        "title": "Final Research Dossier: Collection of Coffee Landraces in major coffee growing areas of West Arsi zone",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23642,7 +23645,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation and PVS of improved Coffee Varieties: the Case of Harana, Barbare and Gololcha Districts of Bale, Southeastern Oromia",
     "centerId": "sinana-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Getachew A.",
@@ -23656,8 +23659,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2017-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 448324,
-    "budgetUtilizedETB": 448324,
+    "budgetAllocatedETB": 578225,
+    "budgetUtilizedETB": 578225,
     "objectives": [
       "Evaluation and PVS of improved Coffee Varieties: the Case of Harana, Barbare and Gololcha Districts of Bale, Southeastern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23688,7 +23691,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-388-1",
-        "title": "Final Research Dossier: Evaluation and PVS of improved Coffee Varieties: the Case of Harana...",
+        "title": "Final Research Dossier: Evaluation and PVS of improved Coffee Varieties: the Case of Harana, Barbare and...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2019-10-15"
@@ -23703,22 +23706,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessment of (Coffea arabica L.) weed flora composition in Bale, East Bale and West Ars",
     "centerId": "sinana-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Wagi T., Bikila A.",
     "initiators": "Wagi T., Bikila A.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Bikila A."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2016",
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448397,
-    "budgetUtilizedETB": 448397,
+    "budgetAllocatedETB": 435124,
+    "budgetUtilizedETB": 435124,
     "objectives": [
       "Assessment of (Coffea arabica L.) weed flora composition in Bale, East Bale and West Ars",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23749,7 +23752,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-389-1",
-        "title": "Final Research Dossier: Assessment of (Coffea arabica L.) weed flora composition in Bale, E...",
+        "title": "Final Research Dossier: Assessment of (Coffea arabica L.) weed flora composition in Bale, East Bale and ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23764,22 +23767,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Field screening of Bale coffee collections against Coffee Leaf Rust",
     "centerId": "sinana-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Wagi T., Bikila A.",
     "initiators": "Wagi T., Bikila A.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Bikila A."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2016",
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448470,
-    "budgetUtilizedETB": 448470,
+    "budgetAllocatedETB": 446353,
+    "budgetUtilizedETB": 446353,
     "objectives": [
       "Field screening of Bale coffee collections against Coffee Leaf Rust",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23825,22 +23828,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Field screening of Arabica coffee accessions against major coffee insect pests",
     "centerId": "sinana-arc",
     "directorateId": "coffee-tea",
-    "teamId": "team-tea-production",
+    "teamId": "team-coffee-improvement",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Wagi T., Bikila A.",
     "initiators": "Wagi T., Bikila A.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Bikila A."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2016",
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448543,
-    "budgetUtilizedETB": 448543,
+    "budgetAllocatedETB": 509986,
+    "budgetUtilizedETB": 509986,
     "objectives": [
       "Field screening of Arabica coffee accessions against major coffee insect pests",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23871,7 +23874,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-391-1",
-        "title": "Final Research Dossier: Field screening of Arabica coffee accessions against major coffee i...",
+        "title": "Final Research Dossier: Field screening of Arabica coffee accessions against major coffee insect pests",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23900,8 +23903,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448616,
-    "budgetUtilizedETB": 448616,
+    "budgetAllocatedETB": 560094,
+    "budgetUtilizedETB": 560094,
     "objectives": [
       "Assessment of Essential mineral Composition of locally used mineral supplements in West Arsi, East Bale and Bale Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -23932,7 +23935,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-392-1",
-        "title": "Final Research Dossier: Assessment of Essential mineral Composition of locally used mineral...",
+        "title": "Final Research Dossier: Assessment of Essential mineral Composition of locally used mineral supplements ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -23944,7 +23947,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-393",
     "code": "IQQO-COMP-SARC-2018-393",
-    "title": "Collection and characterization of Barrel medics  ( Medicago polymorpha L) and  trefolium in the Bale and  West Arsi Zone",
+    "title": "Collection and characterization of Barrel medics ( Medicago polymorpha L) and trefolium in the Bale and West Arsi Zone",
     "centerId": "sinana-arc",
     "directorateId": "livestock-research",
     "teamId": "team-animal-feeds",
@@ -23961,10 +23964,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448689,
-    "budgetUtilizedETB": 448689,
+    "budgetAllocatedETB": 429884,
+    "budgetUtilizedETB": 429884,
     "objectives": [
-      "Collection and characterization of Barrel medics  ( Medicago polymorpha L) and  trefolium in the Bale and  West Arsi Zone",
+      "Collection and characterization of Barrel medics ( Medicago polymorpha L) and trefolium in the Bale and West Arsi Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -23994,7 +23997,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-393-1",
-        "title": "Final Research Dossier: Collection and characterization of Barrel medics  ( Medicago polymo...",
+        "title": "Final Research Dossier: Collection and characterization of Barrel medics ( Medicago polymorpha L) and tr...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24006,7 +24009,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-394",
     "code": "IQQO-COMP-SARC-2018-394",
-    "title": "Determination of nectar secretion dynamics and honey  production potential of selected major bee forage species in Bale zone",
+    "title": "Determination of nectar secretion dynamics and honey production potential of selected major bee forage species in Bale zone",
     "centerId": "sinana-arc",
     "directorateId": "livestock-research",
     "teamId": "team-apiculture-sericulture",
@@ -24023,10 +24026,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448762,
-    "budgetUtilizedETB": 448762,
+    "budgetAllocatedETB": 549348,
+    "budgetUtilizedETB": 549348,
     "objectives": [
-      "Determination of nectar secretion dynamics and honey  production potential of selected major bee forage species in Bale zone",
+      "Determination of nectar secretion dynamics and honey production potential of selected major bee forage species in Bale zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -24055,7 +24058,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-394-1",
-        "title": "Final Research Dossier: Determination of nectar secretion dynamics and honey  production po...",
+        "title": "Final Research Dossier: Determination of nectar secretion dynamics and honey production potential of sel...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24070,7 +24073,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of soil test crop response based Calibrated phosphorous for Bread Wheat production in Agarfa District of Bale Zone, Oromia Region, Southeastern Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Temaro G.",
@@ -24084,8 +24087,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448835,
-    "budgetUtilizedETB": 448835,
+    "budgetAllocatedETB": 455198,
+    "budgetUtilizedETB": 455198,
     "objectives": [
       "Verification of soil test crop response based Calibrated phosphorous for Bread Wheat production in Agarfa District of Bale Zone, Oromia Region, Southeastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24116,7 +24119,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-395-1",
-        "title": "Final Research Dossier: Verification of soil test crop response based Calibrated phosphorou...",
+        "title": "Final Research Dossier: Verification of soil test crop response based Calibrated phosphorous for Bread W...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24131,7 +24134,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of Soil Test Crop Response Based Calibrated Phosphorous for Food Barley Production in Agarfa District of Bale Zone, Oromia Region, Southeastern Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Regassa Gosa",
@@ -24145,8 +24148,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448908,
-    "budgetUtilizedETB": 448908,
+    "budgetAllocatedETB": 488610,
+    "budgetUtilizedETB": 488610,
     "objectives": [
       "Verification of Soil Test Crop Response Based Calibrated Phosphorous for Food Barley Production in Agarfa District of Bale Zone, Oromia Region, Southeastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24177,7 +24180,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-396-1",
-        "title": "Final Research Dossier: Verification of Soil Test Crop Response Based Calibrated Phosphorou...",
+        "title": "Final Research Dossier: Verification of Soil Test Crop Response Based Calibrated Phosphorous for Food Ba...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24192,7 +24195,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers for Bread wheat production in Bale highlands Oromia, Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Regassa Gosa",
@@ -24206,8 +24209,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 448981,
-    "budgetUtilizedETB": 448981,
+    "budgetAllocatedETB": 544652,
+    "budgetUtilizedETB": 544652,
     "objectives": [
       "Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers for Bread wheat production in Bale highlands Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24239,7 +24242,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-397-1",
-        "title": "Final Research Dossier: Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liqui...",
+        "title": "Final Research Dossier: Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24254,22 +24257,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-verification of Nano Avocado Magic Organic Fertilizer on Bread wheat Yield and Soil properties in Agarfa District of Bale Zone, Oromia Region, Southeastern Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mulugeta E., Girma G.",
     "initiators": "Mulugeta E., Girma G.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Girma G."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2018",
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449054,
-    "budgetUtilizedETB": 449054,
+    "budgetAllocatedETB": 446610,
+    "budgetUtilizedETB": 446610,
     "objectives": [
       "Pre-verification of Nano Avocado Magic Organic Fertilizer on Bread wheat Yield and Soil properties in Agarfa District of Bale Zone, Oromia Region, Southeastern Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24301,7 +24304,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-398-1",
-        "title": "Final Research Dossier: Pre-verification of Nano Avocado Magic Organic Fertilizer on Bread ...",
+        "title": "Final Research Dossier: Pre-verification of Nano Avocado Magic Organic Fertilizer on Bread wheat Yield a...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24316,22 +24319,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Characterization of nutrient content of vermicompost made from different materials at Sinana Agricultural Research center of Bale Highland, Oromia, Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mulugeta E., Girma G.",
     "initiators": "Mulugeta E., Girma G.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Girma G."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2018",
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449127,
-    "budgetUtilizedETB": 449127,
+    "budgetAllocatedETB": 540465,
+    "budgetUtilizedETB": 540465,
     "objectives": [
       "Characterization of nutrient content of vermicompost made from different materials at Sinana Agricultural Research center of Bale Highland, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24362,7 +24365,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-399-1",
-        "title": "Final Research Dossier: Characterization of nutrient content of vermicompost made from diff...",
+        "title": "Final Research Dossier: Characterization of nutrient content of vermicompost made from different materia...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24377,22 +24380,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers for Maize production in Dallo mana District, Bale Oromia, Ethiopia",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mulugeta E., Girma G.",
     "initiators": "Mulugeta E., Girma G.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Girma G."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2018",
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449200,
-    "budgetUtilizedETB": 449200,
+    "budgetAllocatedETB": 428156,
+    "budgetUtilizedETB": 428156,
     "objectives": [
       "Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers for Maize production in Dallo mana District, Bale Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24424,7 +24427,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-400-1",
-        "title": "Final Research Dossier: Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liqui...",
+        "title": "Final Research Dossier: Verification of the effectiveness of Bio.soilZ and Bio.plantZ Liquid Fertilizers...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24439,22 +24442,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extensions demonstration of tied ridge with mulching as in-situ moisture conservation practices on maize (Zea mays L.) Production and productivity in Delomena Districts of Bale Lowland.",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-swc",
+    "teamId": "team-soil-water-conservation",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mulugeta E., Girma G.",
     "initiators": "Mulugeta E., Girma G.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Girma G."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2016",
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449273,
-    "budgetUtilizedETB": 449273,
+    "budgetAllocatedETB": 458213,
+    "budgetUtilizedETB": 458213,
     "objectives": [
       "Pre-extensions demonstration of tied ridge with mulching as in-situ moisture conservation practices on maize (Zea mays L.) Production and productivity in Delomena Districts of Bale Lowland.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24485,7 +24488,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-401-1",
-        "title": "Final Research Dossier: Pre-extensions demonstration of tied ridge with mulching as in-situ...",
+        "title": "Final Research Dossier: Pre-extensions demonstration of tied ridge with mulching as in-situ moisture con...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24500,7 +24503,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration of Soil and Water Conservation Measures under Barley Production at Homa Sub-Watershed of the Dinsho District, Bale Zone, Oromia.",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-swc",
+    "teamId": "team-soil-water-conservation",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dani'el A.",
@@ -24514,8 +24517,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449346,
-    "budgetUtilizedETB": 449346,
+    "budgetAllocatedETB": 599130,
+    "budgetUtilizedETB": 599130,
     "objectives": [
       "Pre-Extension Demonstration of Soil and Water Conservation Measures under Barley Production at Homa Sub-Watershed of the Dinsho District, Bale Zone, Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24546,7 +24549,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-402-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration of Soil and Water Conservation Measures...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration of Soil and Water Conservation Measures under Barley...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24561,7 +24564,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Gully erosion morphology assessment and evaluation of locally available materials for gully rehabilitation at Galema Hebano Watershed of Agarfa district, Bale Highland.",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-swc",
+    "teamId": "team-soil-water-conservation",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dani'el A.",
@@ -24574,9 +24577,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearStartEC": "2016",
     "yearCompletionEC": "2018/19",
     "startDate": "2016-01-01",
-    "endDate": "2018/19-12-30",
-    "budgetAllocatedETB": 449419,
-    "budgetUtilizedETB": 449419,
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 567310,
+    "budgetUtilizedETB": 567310,
     "objectives": [
       "Gully erosion morphology assessment and evaluation of locally available materials for gully rehabilitation at Galema Hebano Watershed of Agarfa district, Bale Highland.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24598,19 +24601,19 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-403-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018/19-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018/19-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-403-1",
-        "title": "Final Research Dossier: Gully erosion morphology assessment and evaluation of locally avail...",
+        "title": "Final Research Dossier: Gully erosion morphology assessment and evaluation of locally available material...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018/19-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -24622,7 +24625,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Soil Erosion Risk Assessment Using Socio-Economic and Biophysical Factors in Abakera Sub-Watershed, Dinsho District.",
     "centerId": "sinana-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-swc",
+    "teamId": "team-soil-water-conservation",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dani'el A.",
@@ -24636,8 +24639,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2017-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 449492,
-    "budgetUtilizedETB": 449492,
+    "budgetAllocatedETB": 368943,
+    "budgetUtilizedETB": 368943,
     "objectives": [
       "Soil Erosion Risk Assessment Using Socio-Economic and Biophysical Factors in Abakera Sub-Watershed, Dinsho District.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24668,7 +24671,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-404-1",
-        "title": "Final Research Dossier: Soil Erosion Risk Assessment Using Socio-Economic and Biophysical F...",
+        "title": "Final Research Dossier: Soil Erosion Risk Assessment Using Socio-Economic and Biophysical Factors in Aba...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2019-10-15"
@@ -24697,8 +24700,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449565,
-    "budgetUtilizedETB": 449565,
+    "budgetAllocatedETB": 525289,
+    "budgetUtilizedETB": 525289,
     "objectives": [
       "Evaluatioin of contour based strip planting agroforestry practice in Bale",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24729,7 +24732,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-405-1",
-        "title": "Final Research Dossier: Evaluatioin of contour based strip planting agroforestry practice i...",
+        "title": "Final Research Dossier: Evaluatioin of contour based strip planting agroforestry practice in Bale",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24758,8 +24761,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449638,
-    "budgetUtilizedETB": 449638,
+    "budgetAllocatedETB": 524641,
+    "budgetUtilizedETB": 524641,
     "objectives": [
       "Evaluation and Development of Bamboo Vegetative Propagation",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24818,9 +24821,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearStartEC": "2017",
     "yearCompletionEC": "2018/19",
     "startDate": "2017-01-01",
-    "endDate": "2018/19-12-30",
-    "budgetAllocatedETB": 449711,
-    "budgetUtilizedETB": 449711,
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 434962,
+    "budgetUtilizedETB": 434962,
     "objectives": [
       "Influence of Irrigation Scheduling on Yield and Water use efficiency of Mung bean under furrow irrigation at low land of Bale zone southeast of Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24842,19 +24845,19 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-407-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018/19-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018/19-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-407-1",
-        "title": "Final Research Dossier: Influence of Irrigation Scheduling on Yield and Water use efficienc...",
+        "title": "Final Research Dossier: Influence of Irrigation Scheduling on Yield and Water use efficiency of Mung bea...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018/19-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -24879,9 +24882,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearStartEC": "2017",
     "yearCompletionEC": "2018/19",
     "startDate": "2017-01-01",
-    "endDate": "2018/19-12-30",
-    "budgetAllocatedETB": 449784,
-    "budgetUtilizedETB": 449784,
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 357984,
+    "budgetUtilizedETB": 357984,
     "objectives": [
       "Evaluation of Irrigation frequency on yield and yield component of watermelon under furrow irrigation system at Dalo-manna districts of Bale Zone Southeastern Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24903,19 +24906,19 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-408-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018/19-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018/19-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-408-1",
-        "title": "Final Research Dossier: Evaluation of Irrigation frequency on yield and yield component of ...",
+        "title": "Final Research Dossier: Evaluation of Irrigation frequency on yield and yield component of watermelon un...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018/19-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -24927,7 +24930,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration and Evaluation of Improved Food Barley Technologies in Bale and West Arsi Zones",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayeta Gadissa and Ayalew Sida",
@@ -24941,8 +24944,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449857,
-    "budgetUtilizedETB": 449857,
+    "budgetAllocatedETB": 428462,
+    "budgetUtilizedETB": 428462,
     "objectives": [
       "Pre-extension Demonstration and Evaluation of Improved Food Barley Technologies in Bale and West Arsi Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -24973,7 +24976,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-409-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Improved Food Barley ...",
+        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Improved Food Barley Technologies ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -24988,7 +24991,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration and Evaluation of Improved Two Row Malt Barley Technologies in Bale and West Arsi Zones",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Ayalew Sida",
@@ -25002,8 +25005,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 449930,
-    "budgetUtilizedETB": 449930,
+    "budgetAllocatedETB": 557542,
+    "budgetUtilizedETB": 557542,
     "objectives": [
       "Pre-extension Demonstration and Evaluation of Improved Two Row Malt Barley Technologies in Bale and West Arsi Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25034,7 +25037,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-410-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Improved Two Row Malt...",
+        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Improved Two Row Malt Barley Techn...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -25049,7 +25052,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration and Evaluation of Improved Six Row Malt Barley Technologies in Bale and West Arsi Zones",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Ayalew Sida",
@@ -25063,8 +25066,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 450003,
-    "budgetUtilizedETB": 450003,
+    "budgetAllocatedETB": 511664,
+    "budgetUtilizedETB": 511664,
     "objectives": [
       "Pre-extension Demonstration and Evaluation of Improved Six Row Malt Barley Technologies in Bale and West Arsi Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25095,7 +25098,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-411-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Improved Six Row Malt...",
+        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Improved Six Row Malt Barley Techn...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -25110,7 +25113,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of Improved Black cumin Technologies in Goro district of Bale Zone",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayeta Gadissa",
@@ -25124,8 +25127,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 450076,
-    "budgetUtilizedETB": 450076,
+    "budgetAllocatedETB": 535026,
+    "budgetUtilizedETB": 535026,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of Improved Black cumin Technologies in Goro district of Bale Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25156,7 +25159,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-412-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Improved Black cumin ...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Improved Black cumin Technologies ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -25171,7 +25174,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of Improved Coriander Technologies in Bale Zone",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayeta Gadissa",
@@ -25185,8 +25188,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 450149,
-    "budgetUtilizedETB": 450149,
+    "budgetAllocatedETB": 354202,
+    "budgetUtilizedETB": 354202,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of Improved Coriander Technologies in Bale Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25217,7 +25220,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-413-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Improved Coriander Te...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Improved Coriander Technologies in...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -25232,7 +25235,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and Evaluation of Improved White Common Bean Technologies in Bale Zone",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Toluma Dereje",
@@ -25246,8 +25249,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 450222,
-    "budgetUtilizedETB": 450222,
+    "budgetAllocatedETB": 492947,
+    "budgetUtilizedETB": 492947,
     "objectives": [
       "Pre-Extension Demonstration and Evaluation of Improved White Common Bean Technologies in Bale Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25278,7 +25281,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-414-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Improved White Common...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and Evaluation of Improved White Common Bean Technol...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -25293,7 +25296,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling Up of Improved Faba Bean Technologies in Bale",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayeta Gadissa and Ayalew Sida",
@@ -25307,8 +25310,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2019",
     "startDate": "2018-01-01",
     "endDate": "2019-12-30",
-    "budgetAllocatedETB": 450295,
-    "budgetUtilizedETB": 450295,
+    "budgetAllocatedETB": 441732,
+    "budgetUtilizedETB": 441732,
     "objectives": [
       "Pre-Scaling Up of Improved Faba Bean Technologies in Bale",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25354,7 +25357,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling Up of Improved Linseed Technologies in Bale Zone",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Ayalew Sida and Bayeta Gadissa",
@@ -25368,8 +25371,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 450368,
-    "budgetUtilizedETB": 450368,
+    "budgetAllocatedETB": 510420,
+    "budgetUtilizedETB": 510420,
     "objectives": [
       "Pre-Scaling Up of Improved Linseed Technologies in Bale Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25415,7 +25418,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling Up of Improved Food Barley Technologies in Bale and West Arsi Zones",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayeta Gadissa and Ayalew Sida",
@@ -25429,8 +25432,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 450441,
-    "budgetUtilizedETB": 450441,
+    "budgetAllocatedETB": 523649,
+    "budgetUtilizedETB": 523649,
     "objectives": [
       "Pre-Scaling Up of Improved Food Barley Technologies in Bale and West Arsi Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25461,7 +25464,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-417-1",
-        "title": "Final Research Dossier: Pre-Scaling Up of Improved Food Barley Technologies in Bale and Wes...",
+        "title": "Final Research Dossier: Pre-Scaling Up of Improved Food Barley Technologies in Bale and West Arsi Zones",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -25476,7 +25479,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling Up of Improved Coriander Technologies in Bale Zone",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayeta Gadissa and Ayalew Sida",
@@ -25490,8 +25493,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 450514,
-    "budgetUtilizedETB": 450514,
+    "budgetAllocatedETB": 516013,
+    "budgetUtilizedETB": 516013,
     "objectives": [
       "Pre-Scaling Up of Improved Coriander Technologies in Bale Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25537,7 +25540,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Scaling Up of Improved Desho Grass Technologies in Bale Zone",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Ayalew Sida and Bayeta Gadissa",
@@ -25551,8 +25554,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 450587,
-    "budgetUtilizedETB": 450587,
+    "budgetAllocatedETB": 446271,
+    "budgetUtilizedETB": 446271,
     "objectives": [
       "Pre-Scaling Up of Improved Desho Grass Technologies in Bale Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25598,7 +25601,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration and Evaluation of Improved Potato Technologies in Bale and West Arsi Zones",
     "centerId": "sinana-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bayata G.",
@@ -25611,9 +25614,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearStartEC": "2018",
     "yearCompletionEC": "2018/19",
     "startDate": "2018-01-01",
-    "endDate": "2018/19-12-30",
-    "budgetAllocatedETB": 450660,
-    "budgetUtilizedETB": 450660,
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 441902,
+    "budgetUtilizedETB": 441902,
     "objectives": [
       "Pre-extension Demonstration and Evaluation of Improved Potato Technologies in Bale and West Arsi Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25636,19 +25639,19 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-420-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018/19-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018/19-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-420-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Improved Potato Techn...",
+        "title": "Final Research Dossier: Pre-extension Demonstration and Evaluation of Improved Potato Technologies in Ba...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018/19-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -25674,8 +25677,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 450733,
-    "budgetUtilizedETB": 450733,
+    "budgetAllocatedETB": 374296,
+    "budgetUtilizedETB": 374296,
     "objectives": [
       "Tomato (Solanum lycopersicum Mill.) Adaptation Trial under Irrigation at the highlands of North Shewa Zone; Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25706,7 +25709,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-421-1",
-        "title": "Final Research Dossier: Tomato (Solanum lycopersicum Mill.) Adaptation Trial under Irrigati...",
+        "title": "Final Research Dossier: Tomato (Solanum lycopersicum Mill.) Adaptation Trial under Irrigation at the hig...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -25735,8 +25738,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 450806,
-    "budgetUtilizedETB": 450806,
+    "budgetAllocatedETB": 438638,
+    "budgetUtilizedETB": 438638,
     "objectives": [
       "Potato (Solanum tubersum L.) Adaptation Trial under Irrigation at the highlands of North Shewa Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25767,7 +25770,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-422-1",
-        "title": "Final Research Dossier: Potato (Solanum tubersum L.) Adaptation Trial under Irrigation at t...",
+        "title": "Final Research Dossier: Potato (Solanum tubersum L.) Adaptation Trial under Irrigation at the highlands ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -25796,8 +25799,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 450879,
-    "budgetUtilizedETB": 450879,
+    "budgetAllocatedETB": 426168,
+    "budgetUtilizedETB": 426168,
     "objectives": [
       "Garlic (Allium sativum L.) Adaptation Trial under Irrigation at the highlands of North Shewa Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25828,7 +25831,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-423-1",
-        "title": "Final Research Dossier: Garlic (Allium sativum L.) Adaptation Trial under Irrigation at the...",
+        "title": "Final Research Dossier: Garlic (Allium sativum L.) Adaptation Trial under Irrigation at the highlands of...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -25857,8 +25860,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 450952,
-    "budgetUtilizedETB": 450952,
+    "budgetAllocatedETB": 531734,
+    "budgetUtilizedETB": 531734,
     "objectives": [
       "Evaluation of Head Cabbage (Brassica oleracea L.) Adaptation trial in the highlands of North Shewa Zone, of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25889,7 +25892,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-424-1",
-        "title": "Final Research Dossier: Evaluation of Head Cabbage (Brassica oleracea L.) Adaptation trial ...",
+        "title": "Final Research Dossier: Evaluation of Head Cabbage (Brassica oleracea L.) Adaptation trial in the highla...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -25918,8 +25921,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2026",
     "startDate": "2024-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 451025,
-    "budgetUtilizedETB": 451025,
+    "budgetAllocatedETB": 494396,
+    "budgetUtilizedETB": 494396,
     "objectives": [
       "Shallot (Allium cepa var.) Adaptation Trial under Irrigation at the highlands of North Shewa Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -25950,7 +25953,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-425-1",
-        "title": "Final Research Dossier: Shallot (Allium cepa var.) Adaptation Trial under Irrigation at the...",
+        "title": "Final Research Dossier: Shallot (Allium cepa var.) Adaptation Trial under Irrigation at the highlands of...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -25965,7 +25968,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Verification of Soil Test Based Crop response Phosphorus fertilizer Recommendations on Food Barely in Degem District of North Shewa Zone, Oromia",
     "centerId": "fitche-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dereje Girma & Meron Tolosa",
@@ -25979,8 +25982,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451098,
-    "budgetUtilizedETB": 451098,
+    "budgetAllocatedETB": 383068,
+    "budgetUtilizedETB": 383068,
     "objectives": [
       "Verification of Soil Test Based Crop response Phosphorus fertilizer Recommendations on Food Barely in Degem District of North Shewa Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26011,7 +26014,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-426-1",
-        "title": "Final Research Dossier: Verification of Soil Test Based Crop response Phosphorus fertilizer...",
+        "title": "Final Research Dossier: Verification of Soil Test Based Crop response Phosphorus fertilizer Recommendati...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26026,7 +26029,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Soil Test Crop Response Based Phosphorus Calibration Study on Bread Wheat in Jida District of North Shewa Zone, Oromia",
     "centerId": "fitche-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-sfi",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Dereje Girma",
@@ -26040,8 +26043,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451171,
-    "budgetUtilizedETB": 451171,
+    "budgetAllocatedETB": 542477,
+    "budgetUtilizedETB": 542477,
     "objectives": [
       "Soil Test Crop Response Based Phosphorus Calibration Study on Bread Wheat in Jida District of North Shewa Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26072,7 +26075,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-427-1",
-        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study on Bread...",
+        "title": "Final Research Dossier: Soil Test Crop Response Based Phosphorus Calibration Study on Bread Wheat in Jid...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26087,22 +26090,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Validation of Fertilizer Requirement Map for bread wheat at Wachale District, North Shewa Zone, Oromia, Ethiopia",
     "centerId": "fitche-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abera D., Endale B. and Meseret M.",
     "initiators": "Abera D., Endale B. and Meseret M.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Endale B. and Meseret M."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2022",
     "yearCompletionEC": "2026",
     "startDate": "2022-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 451244,
-    "budgetUtilizedETB": 451244,
+    "budgetAllocatedETB": 402794,
+    "budgetUtilizedETB": 402794,
     "objectives": [
       "Validation of Fertilizer Requirement Map for bread wheat at Wachale District, North Shewa Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26133,7 +26136,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-428-1",
-        "title": "Final Research Dossier: Validation of Fertilizer Requirement Map for bread wheat at Wachale...",
+        "title": "Final Research Dossier: Validation of Fertilizer Requirement Map for bread wheat at Wachale District, No...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -26148,22 +26151,22 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Validation of Fertilizer Requirement Map for Teff at Girar Jarso District, North Shewa Zone, Oromia, Ethiopia",
     "centerId": "fitche-arc",
     "directorateId": "natural-resources",
-    "teamId": "team-srs",
+    "teamId": "team-soil-fertility",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abera D., Ajema L. and Meseret M.",
     "initiators": "Abera D., Ajema L. and Meseret M.",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
-      "IQQO Center Technical Team"
+      "Ajema L. and Meseret M."
     ],
     "fiscalYear": 2018,
     "yearStartEC": "2023",
     "yearCompletionEC": "2026",
     "startDate": "2023-01-01",
     "endDate": "2026-12-30",
-    "budgetAllocatedETB": 451317,
-    "budgetUtilizedETB": 451317,
+    "budgetAllocatedETB": 528995,
+    "budgetUtilizedETB": 528995,
     "objectives": [
       "Validation of Fertilizer Requirement Map for Teff at Girar Jarso District, North Shewa Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26194,7 +26197,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-429-1",
-        "title": "Final Research Dossier: Validation of Fertilizer Requirement Map for Teff at Girar Jarso Di...",
+        "title": "Final Research Dossier: Validation of Fertilizer Requirement Map for Teff at Girar Jarso District, North...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2026-10-15"
@@ -26223,8 +26226,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451390,
-    "budgetUtilizedETB": 451390,
+    "budgetAllocatedETB": 477169,
+    "budgetUtilizedETB": 477169,
     "objectives": [
       "Assessment of Agroforestry Practices and Farmers' Perceptions in Selected Districts Of North Shewa Zone, Ethiopi",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26255,7 +26258,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-430-1",
-        "title": "Final Research Dossier: Assessment of Agroforestry Practices and Farmers' Perceptions in Se...",
+        "title": "Final Research Dossier: Assessment of Agroforestry Practices and Farmers' Perceptions in Selected Distri...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26284,8 +26287,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451463,
-    "budgetUtilizedETB": 451463,
+    "budgetAllocatedETB": 529611,
+    "budgetUtilizedETB": 529611,
     "objectives": [
       "Adaptation and growth performance Evaluation of selection Acacia Species in North Shewa Zone of Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26316,7 +26319,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-431-1",
-        "title": "Final Research Dossier: Adaptation and growth performance Evaluation of selection Acacia Sp...",
+        "title": "Final Research Dossier: Adaptation and growth performance Evaluation of selection Acacia Species in Nort...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26345,8 +26348,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451536,
-    "budgetUtilizedETB": 451536,
+    "budgetAllocatedETB": 417802,
+    "budgetUtilizedETB": 417802,
     "objectives": [
       "Sweet Lupin(Lupinus spp.L)Fodder varieties adaptation trial at highland area of North Shewa Zone , Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26377,7 +26380,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-432-1",
-        "title": "Final Research Dossier: Sweet Lupin(Lupinus spp.L)Fodder varieties adaptation trial at high...",
+        "title": "Final Research Dossier: Sweet Lupin(Lupinus spp.L)Fodder varieties adaptation trial at highland area of ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26392,7 +26395,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of fungicides Spraying Frequency for the Management of Garlic Rust at North Shewa Zone, Oromia",
     "centerId": "fitche-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Magarsa Terefa",
@@ -26406,8 +26409,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451609,
-    "budgetUtilizedETB": 451609,
+    "budgetAllocatedETB": 374484,
+    "budgetUtilizedETB": 374484,
     "objectives": [
       "Evaluation of fungicides Spraying Frequency for the Management of Garlic Rust at North Shewa Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26438,7 +26441,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-433-1",
-        "title": "Final Research Dossier: Evaluation of fungicides Spraying Frequency for the Management of G...",
+        "title": "Final Research Dossier: Evaluation of fungicides Spraying Frequency for the Management of Garlic Rust at...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26453,7 +26456,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Integrated disease Management of SeptoriaTritici Blotch (Septoriatritici) and yellow rust of Bread Wheat (Triticumaestivum L.) in the Highlands of North Shewa, Oromia",
     "centerId": "fitche-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-plant-pathology",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Magarsa Terefa",
@@ -26467,8 +26470,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451682,
-    "budgetUtilizedETB": 451682,
+    "budgetAllocatedETB": 377058,
+    "budgetUtilizedETB": 377058,
     "objectives": [
       "Integrated disease Management of SeptoriaTritici Blotch (Septoriatritici) and yellow rust of Bread Wheat (Triticumaestivum L.) in the Highlands of North Shewa, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26499,7 +26502,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-434-1",
-        "title": "Final Research Dossier: Integrated disease Management of SeptoriaTritici Blotch (Septoriatr...",
+        "title": "Final Research Dossier: Integrated disease Management of SeptoriaTritici Blotch (Septoriatritici) and ye...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26514,7 +26517,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of Seed dressing Insecticide against barley shoot fly at North shewa zone of Oromia, Ethiopia",
     "centerId": "fitche-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adisu Regassa",
@@ -26528,8 +26531,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451755,
-    "budgetUtilizedETB": 451755,
+    "budgetAllocatedETB": 582502,
+    "budgetUtilizedETB": 582502,
     "objectives": [
       "Evaluation of Seed dressing Insecticide against barley shoot fly at North shewa zone of Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26560,7 +26563,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-435-1",
-        "title": "Final Research Dossier: Evaluation of Seed dressing Insecticide against barley shoot fly at...",
+        "title": "Final Research Dossier: Evaluation of Seed dressing Insecticide against barley shoot fly at North shewa ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26575,7 +26578,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Efficacy of selective insecticides against wheat aphids on irrigated wheat in North Shewa Zone of Oromia, Ethiopia.",
     "centerId": "fitche-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-pathology-entomology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adisu Regassa",
@@ -26589,8 +26592,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451828,
-    "budgetUtilizedETB": 451828,
+    "budgetAllocatedETB": 544193,
+    "budgetUtilizedETB": 544193,
     "objectives": [
       "Efficacy of selective insecticides against wheat aphids on irrigated wheat in North Shewa Zone of Oromia, Ethiopia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26621,7 +26624,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-436-1",
-        "title": "Final Research Dossier: Efficacy of selective insecticides against wheat aphids on irrigate...",
+        "title": "Final Research Dossier: Efficacy of selective insecticides against wheat aphids on irrigated wheat in No...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26636,7 +26639,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Integrated Weed management of weeds in Tef (Eragrostis tef (Zucc.) fields at North shoa Zone, Oromia.",
     "centerId": "fitche-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Shalama Fayisa",
@@ -26650,8 +26653,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451901,
-    "budgetUtilizedETB": 451901,
+    "budgetAllocatedETB": 545729,
+    "budgetUtilizedETB": 545729,
     "objectives": [
       "Integrated Weed management of weeds in Tef (Eragrostis tef (Zucc.) fields at North shoa Zone, Oromia.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26682,7 +26685,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-437-1",
-        "title": "Final Research Dossier: Integrated Weed management of weeds in Tef (Eragrostis tef (Zucc.) ...",
+        "title": "Final Research Dossier: Integrated Weed management of weeds in Tef (Eragrostis tef (Zucc.) fields at Nor...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26697,7 +26700,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Integrated weed management in Chickpea (Cicer arietinum L.) in North shoa zone, Oromia",
     "centerId": "fitche-arc",
     "directorateId": "crop-protection",
-    "teamId": "team-entomology-weeds",
+    "teamId": "team-weed-science",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Shalama Fayisa",
@@ -26711,8 +26714,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 451974,
-    "budgetUtilizedETB": 451974,
+    "budgetAllocatedETB": 549165,
+    "budgetUtilizedETB": 549165,
     "objectives": [
       "Integrated weed management in Chickpea (Cicer arietinum L.) in North shoa zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26743,7 +26746,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-438-1",
-        "title": "Final Research Dossier: Integrated weed management in Chickpea (Cicer arietinum L.) in Nort...",
+        "title": "Final Research Dossier: Integrated weed management in Chickpea (Cicer arietinum L.) in North shoa zone, ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26755,7 +26758,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-439",
     "code": "IQQO-COMP-FtARC-2018-439",
-    "title": "Performance Evaluation of Alternative And Conventional Furrow Irrigation method on yield of Potato at Debre Libanos  and wechale District North Showa Zone Oromia .",
+    "title": "Performance Evaluation of Alternative And Conventional Furrow Irrigation method on yield of Potato at Debre Libanos and wechale District North Showa Zone Oromia .",
     "centerId": "fitche-arc",
     "directorateId": "agricultural-engineering",
     "teamId": "team-irrigation-drainage",
@@ -26772,10 +26775,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452047,
-    "budgetUtilizedETB": 452047,
+    "budgetAllocatedETB": 419222,
+    "budgetUtilizedETB": 419222,
     "objectives": [
-      "Performance Evaluation of Alternative And Conventional Furrow Irrigation method on yield of Potato at Debre Libanos  and wechale District North Showa Zone Oromia .",
+      "Performance Evaluation of Alternative And Conventional Furrow Irrigation method on yield of Potato at Debre Libanos and wechale District North Showa Zone Oromia .",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -26804,7 +26807,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-439-1",
-        "title": "Final Research Dossier: Performance Evaluation of Alternative And Conventional Furrow Irrig...",
+        "title": "Final Research Dossier: Performance Evaluation of Alternative And Conventional Furrow Irrigation method ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26816,7 +26819,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-440",
     "code": "IQQO-COMP-FtARC-2018-440",
-    "title": "Determination of Optimal Irrigation Schedule of Onion under furrow irrigation method at D/libanos and wechale  District ,North Shoa zone of Oromia",
+    "title": "Determination of Optimal Irrigation Schedule of Onion under furrow irrigation method at D/libanos and wechale District ,North Shoa zone of Oromia",
     "centerId": "fitche-arc",
     "directorateId": "agricultural-engineering",
     "teamId": "team-irrigation-drainage",
@@ -26833,10 +26836,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452120,
-    "budgetUtilizedETB": 452120,
+    "budgetAllocatedETB": 486797,
+    "budgetUtilizedETB": 486797,
     "objectives": [
-      "Determination of Optimal Irrigation Schedule of Onion under furrow irrigation method at D/libanos and wechale  District ,North Shoa zone of Oromia",
+      "Determination of Optimal Irrigation Schedule of Onion under furrow irrigation method at D/libanos and wechale District ,North Shoa zone of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -26865,7 +26868,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-440-1",
-        "title": "Final Research Dossier: Determination of Optimal Irrigation Schedule of Onion under furrow ...",
+        "title": "Final Research Dossier: Determination of Optimal Irrigation Schedule of Onion under furrow irrigation me...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26880,7 +26883,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Analysis of input supply system in case of north shewa zone; Oromia region",
     "centerId": "fitche-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mengistu jifara",
@@ -26892,10 +26895,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2016 EC",
     "yearCompletionEC": "2018",
-    "startDate": "2016 EC-01-01",
+    "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452193,
-    "budgetUtilizedETB": 452193,
+    "budgetAllocatedETB": 446048,
+    "budgetUtilizedETB": 446048,
     "objectives": [
       "Analysis of input supply system in case of north shewa zone; Oromia region",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26909,9 +26912,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-441-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2016 EC-06-30",
+        "dueDate": "2016-06-30",
         "completed": true,
-        "completedDate": "2016 EC-06-25",
+        "completedDate": "2016-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
@@ -26926,7 +26929,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-441-1",
-        "title": "Final Research Dossier: Analysis of input supply system in case of north shewa zone; Oromia...",
+        "title": "Final Research Dossier: Analysis of input supply system in case of north shewa zone; Oromia region",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26941,7 +26944,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Sheep Value Chain analysis in Case of Jidda and Abbichuf-Gnea Districts in North Shewa Zone of Oromia Region",
     "centerId": "fitche-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Bedo Hora",
@@ -26953,10 +26956,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "fiscalYear": 2018,
     "yearStartEC": "2018EC",
     "yearCompletionEC": "2018",
-    "startDate": "2018EC-01-01",
+    "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452266,
-    "budgetUtilizedETB": 452266,
+    "budgetAllocatedETB": 370093,
+    "budgetUtilizedETB": 370093,
     "objectives": [
       "Sheep Value Chain analysis in Case of Jidda and Abbichuf-Gnea Districts in North Shewa Zone of Oromia Region",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -26970,9 +26973,9 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-442-1",
         "title": "Trial setup, seasonal experimental execution, and multi-location field observations",
-        "dueDate": "2018EC-06-30",
+        "dueDate": "2018-06-30",
         "completed": true,
-        "completedDate": "2018EC-06-25",
+        "completedDate": "2018-06-25",
         "deliverableSummary": "Experimental execution finalized."
       },
       {
@@ -26987,7 +26990,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-442-1",
-        "title": "Final Research Dossier: Sheep Value Chain analysis in Case of Jidda and Abbichuf-Gnea Distr...",
+        "title": "Final Research Dossier: Sheep Value Chain analysis in Case of Jidda and Abbichuf-Gnea Districts in North...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -26999,10 +27002,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-443",
     "code": "IQQO-COMP-FtARC-2018-443",
-    "title": "chicken value  chain analysis  in selected districts of North Shewa Zone;ormia region",
+    "title": "chicken value chain analysis in selected districts of North Shewa Zone;ormia region",
     "centerId": "fitche-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mengistu jifara",
@@ -27015,11 +27018,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearStartEC": "2018",
     "yearCompletionEC": "2018EC",
     "startDate": "2018-01-01",
-    "endDate": "2018EC-12-30",
-    "budgetAllocatedETB": 452339,
-    "budgetUtilizedETB": 452339,
+    "endDate": "2018-12-30",
+    "budgetAllocatedETB": 361911,
+    "budgetUtilizedETB": 361911,
     "objectives": [
-      "chicken value  chain analysis  in selected districts of North Shewa Zone;ormia region",
+      "chicken value chain analysis in selected districts of North Shewa Zone;ormia region",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -27039,19 +27042,19 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
       {
         "id": "m-comp-443-2",
         "title": "Final statistical analysis, synthesis report, and center technical committee review",
-        "dueDate": "2018EC-08-30",
+        "dueDate": "2018-08-30",
         "completed": true,
-        "completedDate": "2018EC-08-20",
+        "completedDate": "2018-08-20",
         "deliverableSummary": "Technical report cleared by center leadership."
       }
     ],
     "deliverables": [
       {
         "id": "d-comp-443-1",
-        "title": "Final Research Dossier: chicken value  chain analysis  in selected districts of North Shewa...",
+        "title": "Final Research Dossier: chicken value chain analysis in selected districts of North Shewa Zone;ormia reg...",
         "type": "Technical Manual",
         "status": "Published",
-        "date": "2018EC-10-15"
+        "date": "2018-10-15"
       }
     ],
     "extensionHistory": [],
@@ -27063,7 +27066,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-Extension Demonstration and evaluation of Improved Malt Barley Technologies in North Shewa Zone, Oromia",
     "centerId": "fitche-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mengistu jifara",
@@ -27077,8 +27080,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452412,
-    "budgetUtilizedETB": 452412,
+    "budgetAllocatedETB": 378728,
+    "budgetUtilizedETB": 378728,
     "objectives": [
       "Pre-Extension Demonstration and evaluation of Improved Malt Barley Technologies in North Shewa Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27109,7 +27112,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-444-1",
-        "title": "Final Research Dossier: Pre-Extension Demonstration and evaluation of Improved Malt Barley ...",
+        "title": "Final Research Dossier: Pre-Extension Demonstration and evaluation of Improved Malt Barley Technologies ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27124,7 +27127,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-extension Demonstration and evaluation of Soil Test Based NPS-fertilizer rate on Teff (Eragrostistef) in Kuyu District of North Shewa Zone, Oromia",
     "centerId": "fitche-arc",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mengistu jifara",
@@ -27138,8 +27141,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452485,
-    "budgetUtilizedETB": 452485,
+    "budgetAllocatedETB": 451609,
+    "budgetUtilizedETB": 451609,
     "objectives": [
       "Pre-extension Demonstration and evaluation of Soil Test Based NPS-fertilizer rate on Teff (Eragrostistef) in Kuyu District of North Shewa Zone, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27170,7 +27173,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-445-1",
-        "title": "Final Research Dossier: Pre-extension Demonstration and evaluation of Soil Test Based NPS-f...",
+        "title": "Final Research Dossier: Pre-extension Demonstration and evaluation of Soil Test Based NPS-fertilizer rat...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27199,8 +27202,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452558,
-    "budgetUtilizedETB": 452558,
+    "budgetAllocatedETB": 499381,
+    "budgetUtilizedETB": 499381,
     "objectives": [
       "Assessing swarm catching and colony maintenance practices in Yayo Biosphere",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27231,7 +27234,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-446-1",
-        "title": "Final Research Dossier: Assessing swarm catching and colony maintenance practices in Yayo B...",
+        "title": "Final Research Dossier: Assessing swarm catching and colony maintenance practices in Yayo Biosphere",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27260,8 +27263,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452631,
-    "budgetUtilizedETB": 452631,
+    "budgetAllocatedETB": 573346,
+    "budgetUtilizedETB": 573346,
     "objectives": [
       "Determining honey production potential and honeybee colonies carrying capacity of Yayu Forest biosphere",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27292,7 +27295,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-447-1",
-        "title": "Final Research Dossier: Determining honey production potential and honeybee colonies carryi...",
+        "title": "Final Research Dossier: Determining honey production potential and honeybee colonies carrying capacity o...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27321,8 +27324,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452704,
-    "budgetUtilizedETB": 452704,
+    "budgetAllocatedETB": 533474,
+    "budgetUtilizedETB": 533474,
     "objectives": [
       "Assessing Bee flora diversity and establishing flowering calendars for seasonal colony management in Yayu Forest Biosphere",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27353,7 +27356,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-448-1",
-        "title": "Final Research Dossier: Assessing Bee flora diversity and establishing flowering calendars ...",
+        "title": "Final Research Dossier: Assessing Bee flora diversity and establishing flowering calendars for seasonal ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27382,8 +27385,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452777,
-    "budgetUtilizedETB": 452777,
+    "budgetAllocatedETB": 358519,
+    "budgetUtilizedETB": 358519,
     "objectives": [
       "Preliminary variety trial of Alfa alfa (Medicago sativa) accessions for animal feed and bee forage development",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27414,7 +27417,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-449-1",
-        "title": "Final Research Dossier: Preliminary variety trial of Alfa alfa (Medicago sativa) accessions...",
+        "title": "Final Research Dossier: Preliminary variety trial of Alfa alfa (Medicago sativa) accessions for animal f...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27443,8 +27446,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452850,
-    "budgetUtilizedETB": 452850,
+    "budgetAllocatedETB": 535172,
+    "budgetUtilizedETB": 535172,
     "objectives": [
       "Evaluating the potential of Karl jenter kit for the Royal Jelly production",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27476,7 +27479,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-450-1",
-        "title": "Final Research Dossier: Evaluating the potential of Karl jenter kit for the Royal Jelly pro...",
+        "title": "Final Research Dossier: Evaluating the potential of Karl jenter kit for the Royal Jelly production",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27505,8 +27508,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452923,
-    "budgetUtilizedETB": 452923,
+    "budgetAllocatedETB": 517766,
+    "budgetUtilizedETB": 517766,
     "objectives": [
       "Physico-chemical characterization of propolis of the honey bee colony (Apis mellifera L.) in West shoa Zones",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27537,7 +27540,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-451-1",
-        "title": "Final Research Dossier: Physico-chemical characterization of propolis of the honey bee colo...",
+        "title": "Final Research Dossier: Physico-chemical characterization of propolis of the honey bee colony (Apis mell...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27566,8 +27569,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 452996,
-    "budgetUtilizedETB": 452996,
+    "budgetAllocatedETB": 398020,
+    "budgetUtilizedETB": 398020,
     "objectives": [
       "Characterization of honey in six selected honey producing potentials zone of Oromia Regional State(OSTA)",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27598,7 +27601,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-452-1",
-        "title": "Final Research Dossier: Characterization of honey in six selected honey producing potential...",
+        "title": "Final Research Dossier: Characterization of honey in six selected honey producing potentials zone of Oro...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27627,8 +27630,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453069,
-    "budgetUtilizedETB": 453069,
+    "budgetAllocatedETB": 451015,
+    "budgetUtilizedETB": 451015,
     "objectives": [
       "Evaluation of different smoking materials for the control of Wax moth (Galleria mellonella), a pest of honeybees",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27659,7 +27662,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-453-1",
-        "title": "Final Research Dossier: Evaluation of different smoking materials for the control of Wax mo...",
+        "title": "Final Research Dossier: Evaluation of different smoking materials for the control of Wax moth (Galleria ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27674,7 +27677,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Modification and Performance Evaluation of the Imported Beeswax Foundation Sheet Casting Mould",
     "centerId": "holeta-bee",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Mesay S.",
@@ -27688,8 +27691,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453142,
-    "budgetUtilizedETB": 453142,
+    "budgetAllocatedETB": 477102,
+    "budgetUtilizedETB": 477102,
     "objectives": [
       "Modification and Performance Evaluation of the Imported Beeswax Foundation Sheet Casting Mould",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27720,7 +27723,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-454-1",
-        "title": "Final Research Dossier: Modification and Performance Evaluation of the Imported Beeswax Fou...",
+        "title": "Final Research Dossier: Modification and Performance Evaluation of the Imported Beeswax Foundation Sheet...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27735,7 +27738,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Development and Performance Evaluation of a Radial Honey Extractor",
     "centerId": "holeta-bee",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Gelana F.",
@@ -27749,8 +27752,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453215,
-    "budgetUtilizedETB": 453215,
+    "budgetAllocatedETB": 502192,
+    "budgetUtilizedETB": 502192,
     "objectives": [
       "Development and Performance Evaluation of a Radial Honey Extractor",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27796,7 +27799,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Technical efficiency analysis of honey production in selected Zone of Oromia Region, Ethiopia",
     "centerId": "holeta-bee",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Deriba M",
@@ -27810,8 +27813,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453288,
-    "budgetUtilizedETB": 453288,
+    "budgetAllocatedETB": 489712,
+    "budgetUtilizedETB": 489712,
     "objectives": [
       "Technical efficiency analysis of honey production in selected Zone of Oromia Region, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27842,7 +27845,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-456-1",
-        "title": "Final Research Dossier: Technical efficiency analysis of honey production in selected Zone ...",
+        "title": "Final Research Dossier: Technical efficiency analysis of honey production in selected Zone of Oromia Reg...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27857,7 +27860,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessments of production and marketing system of stingless bee products in west Shewa, Oromia Regional State",
     "centerId": "holeta-bee",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Deriba M",
@@ -27871,8 +27874,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453361,
-    "budgetUtilizedETB": 453361,
+    "budgetAllocatedETB": 567105,
+    "budgetUtilizedETB": 567105,
     "objectives": [
       "Assessments of production and marketing system of stingless bee products in west Shewa, Oromia Regional State",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27904,7 +27907,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-457-1",
-        "title": "Final Research Dossier: Assessments of production and marketing system of stingless bee pro...",
+        "title": "Final Research Dossier: Assessments of production and marketing system of stingless bee products in west...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27919,7 +27922,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Promotion of Beekeeping technologies for water shade rehabilitation and as source of income in Ejere Woreda, Oromia",
     "centerId": "holeta-bee",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Wangelu E.",
@@ -27933,8 +27936,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2015-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453434,
-    "budgetUtilizedETB": 453434,
+    "budgetAllocatedETB": 384784,
+    "budgetUtilizedETB": 384784,
     "objectives": [
       "Promotion of Beekeeping technologies for water shade rehabilitation and as source of income in Ejere Woreda, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -27965,7 +27968,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-458-1",
-        "title": "Final Research Dossier: Promotion of Beekeeping technologies for water shade rehabilitation...",
+        "title": "Final Research Dossier: Promotion of Beekeeping technologies for water shade rehabilitation and as sourc...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -27980,7 +27983,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre scaling up of top feeder honeybee feeding technology in West Shoa, Oromia Region",
     "centerId": "holeta-bee",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Wangelu E.",
@@ -27994,8 +27997,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453507,
-    "budgetUtilizedETB": 453507,
+    "budgetAllocatedETB": 410597,
+    "budgetUtilizedETB": 410597,
     "objectives": [
       "Pre scaling up of top feeder honeybee feeding technology in West Shoa, Oromia Region",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28026,7 +28029,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-459-1",
-        "title": "Final Research Dossier: Pre scaling up of top feeder honeybee feeding technology in West Sh...",
+        "title": "Final Research Dossier: Pre scaling up of top feeder honeybee feeding technology in West Shoa, Oromia Re...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28038,10 +28041,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-460",
     "code": "IQQO-COMP-HBRC-2018-460",
-    "title": "Pre-scaling up of beekeeping technology for income generation: Peri-urban jobless youth in Ada�a, East Shoa Zone",
+    "title": "Pre-scaling up of beekeeping technology for income generation: Peri-urban jobless youth in Ada a, East Shoa Zone",
     "centerId": "holeta-bee",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Lelisa W.",
@@ -28055,10 +28058,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453580,
-    "budgetUtilizedETB": 453580,
+    "budgetAllocatedETB": 466312,
+    "budgetUtilizedETB": 466312,
     "objectives": [
-      "Pre-scaling up of beekeeping technology for income generation: Peri-urban jobless youth in Ada�a, East Shoa Zone",
+      "Pre-scaling up of beekeeping technology for income generation: Peri-urban jobless youth in Ada a, East Shoa Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -28087,7 +28090,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-460-1",
-        "title": "Final Research Dossier: Pre-scaling up of beekeeping technology for income generation: Peri...",
+        "title": "Final Research Dossier: Pre-scaling up of beekeeping technology for income generation: Peri-urban jobles...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28102,7 +28105,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of Beeswax Extraction Method in T/kutaye & Chaliya District, W/Shewa Zone",
     "centerId": "holeta-bee",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Lelisa W.",
@@ -28116,8 +28119,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453653,
-    "budgetUtilizedETB": 453653,
+    "budgetAllocatedETB": 553628,
+    "budgetUtilizedETB": 553628,
     "objectives": [
       "Pre-scaling up of Beeswax Extraction Method in T/kutaye & Chaliya District, W/Shewa Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28148,7 +28151,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-461-1",
-        "title": "Final Research Dossier: Pre-scaling up of Beeswax Extraction Method in T/kutaye & Chaliya D...",
+        "title": "Final Research Dossier: Pre-scaling up of Beeswax Extraction Method in T/kutaye & Chaliya District, W/Sh...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28163,7 +28166,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling up of beekeeping technology for income for Peri-urban & urban women beekeepers in Wolmera & Ejere Woredas",
     "centerId": "holeta-bee",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Buzunesh D.",
@@ -28177,8 +28180,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453726,
-    "budgetUtilizedETB": 453726,
+    "budgetAllocatedETB": 452211,
+    "budgetUtilizedETB": 452211,
     "objectives": [
       "Pre-scaling up of beekeeping technology for income for Peri-urban & urban women beekeepers in Wolmera & Ejere Woredas",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28209,7 +28212,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-462-1",
-        "title": "Final Research Dossier: Pre-scaling up of beekeeping technology for income for Peri-urban &...",
+        "title": "Final Research Dossier: Pre-scaling up of beekeeping technology for income for Peri-urban & urban women ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28224,7 +28227,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and on Farm Evaluation of BAERC Soya Bean Thresher to PTO operated",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdurehman S.",
@@ -28238,8 +28241,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453799,
-    "budgetUtilizedETB": 453799,
+    "budgetAllocatedETB": 534372,
+    "budgetUtilizedETB": 534372,
     "objectives": [
       "Adaptation and on Farm Evaluation of BAERC Soya Bean Thresher to PTO operated",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28270,7 +28273,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-463-1",
-        "title": "Final Research Dossier: Adaptation and on Farm Evaluation of BAERC Soya Bean Thresher to PT...",
+        "title": "Final Research Dossier: Adaptation and on Farm Evaluation of BAERC Soya Bean Thresher to PTO operated",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28285,7 +28288,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and performance Evaluation of Tractor Drawn Ridger.",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdurehman S.",
@@ -28299,8 +28302,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453872,
-    "budgetUtilizedETB": 453872,
+    "budgetAllocatedETB": 469875,
+    "budgetUtilizedETB": 469875,
     "objectives": [
       "Adaptation and performance Evaluation of Tractor Drawn Ridger.",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28346,7 +28349,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On farm performance Evaluation of PTO driven Wheat and fertilizer drilling Machine",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdurehman S.",
@@ -28360,8 +28363,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 453945,
-    "budgetUtilizedETB": 453945,
+    "budgetAllocatedETB": 472081,
+    "budgetUtilizedETB": 472081,
     "objectives": [
       "On farm performance Evaluation of PTO driven Wheat and fertilizer drilling Machine",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28392,7 +28395,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-465-1",
-        "title": "Final Research Dossier: On farm performance Evaluation of PTO driven Wheat and fertilizer d...",
+        "title": "Final Research Dossier: On farm performance Evaluation of PTO driven Wheat and fertilizer drilling Machi...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28404,10 +28407,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-466",
     "code": "IQQO-COMP-BAERC-2018-466",
-    "title": "Adaptation and Performance Evaluation of Tractor Drawn  Potato Planter",
+    "title": "Adaptation and Performance Evaluation of Tractor Drawn Potato Planter",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Teressa D.",
@@ -28421,10 +28424,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454018,
-    "budgetUtilizedETB": 454018,
+    "budgetAllocatedETB": 451785,
+    "budgetUtilizedETB": 451785,
     "objectives": [
-      "Adaptation and Performance Evaluation of Tractor Drawn  Potato Planter",
+      "Adaptation and Performance Evaluation of Tractor Drawn Potato Planter",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -28453,7 +28456,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-466-1",
-        "title": "Final Research Dossier: Adaptation and Performance Evaluation of Tractor Drawn  Potato Planter",
+        "title": "Final Research Dossier: Adaptation and Performance Evaluation of Tractor Drawn Potato Planter",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28468,7 +28471,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Modification and performance Evaluation of Mini Harvester",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Seyfedin A.",
@@ -28482,8 +28485,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454091,
-    "budgetUtilizedETB": 454091,
+    "budgetAllocatedETB": 596927,
+    "budgetUtilizedETB": 596927,
     "objectives": [
       "Modification and performance Evaluation of Mini Harvester",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28529,7 +28532,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and on farm Evaluation of Metal Silo for Grain Storage",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdo Husen",
@@ -28543,8 +28546,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454164,
-    "budgetUtilizedETB": 454164,
+    "budgetAllocatedETB": 405333,
+    "budgetUtilizedETB": 405333,
     "objectives": [
       "Adaptation and on farm Evaluation of Metal Silo for Grain Storage",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28590,7 +28593,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and performance evaluation of Soybean Grinding Machine",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdo Husen",
@@ -28604,8 +28607,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454237,
-    "budgetUtilizedETB": 454237,
+    "budgetAllocatedETB": 465021,
+    "budgetUtilizedETB": 465021,
     "objectives": [
       "Adaptation and performance evaluation of Soybean Grinding Machine",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28651,7 +28654,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On farm Performance Evaluation of PTO Operated Animal feed Chopper and Miller",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Abdo Husen",
@@ -28665,8 +28668,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454310,
-    "budgetUtilizedETB": 454310,
+    "budgetAllocatedETB": 458246,
+    "budgetUtilizedETB": 458246,
     "objectives": [
       "On farm Performance Evaluation of PTO Operated Animal feed Chopper and Miller",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28697,7 +28700,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-470-1",
-        "title": "Final Research Dossier: On farm Performance Evaluation of PTO Operated Animal feed Chopper ...",
+        "title": "Final Research Dossier: On farm Performance Evaluation of PTO Operated Animal feed Chopper and Miller",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28712,11 +28715,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and performance evaluation of manual Operated Honey Extractor",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Mekbib  Alamayo",
-    "initiators": "Mekbib  Alamayo",
+    "principalInvestigator": "Mekbib Alamayo",
+    "initiators": "Mekbib Alamayo",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -28726,8 +28729,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454383,
-    "budgetUtilizedETB": 454383,
+    "budgetAllocatedETB": 419502,
+    "budgetUtilizedETB": 419502,
     "objectives": [
       "Adaptation and performance evaluation of manual Operated Honey Extractor",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28758,7 +28761,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-471-1",
-        "title": "Final Research Dossier: Adaptation and performance evaluation of manual Operated Honey Extr...",
+        "title": "Final Research Dossier: Adaptation and performance evaluation of manual Operated Honey Extractor",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28787,8 +28790,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454456,
-    "budgetUtilizedETB": 454456,
+    "budgetAllocatedETB": 427497,
+    "budgetUtilizedETB": 427497,
     "objectives": [
       "On-Farm Evaluation and Verification of water application level and N- Fertilizer rate on yield and water productivity of wheat at Taltale Irrigation Scheme",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28819,7 +28822,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-472-1",
-        "title": "Final Research Dossier: On-Farm Evaluation and Verification of water application level and ...",
+        "title": "Final Research Dossier: On-Farm Evaluation and Verification of water application level and N- Fertilizer...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28848,8 +28851,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454529,
-    "budgetUtilizedETB": 454529,
+    "budgetAllocatedETB": 508815,
+    "budgetUtilizedETB": 508815,
     "objectives": [
       "Optimal Irrigation Scheduling for Hot Pepper (Capsicum annuum L.) at Sibu Sire District",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28880,7 +28883,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-473-1",
-        "title": "Final Research Dossier: Optimal Irrigation Scheduling for Hot Pepper (Capsicum annuum L.) a...",
+        "title": "Final Research Dossier: Optimal Irrigation Scheduling for Hot Pepper (Capsicum annuum L.) at Sibu Sire D...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28909,8 +28912,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454602,
-    "budgetUtilizedETB": 454602,
+    "budgetAllocatedETB": 405552,
+    "budgetUtilizedETB": 405552,
     "objectives": [
       "Determination of Optimal Irrigation Scheduling for Groundnut at East Welega Zone",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -28941,7 +28944,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-474-1",
-        "title": "Final Research Dossier: Determination of Optimal Irrigation Scheduling for Groundnut at Eas...",
+        "title": "Final Research Dossier: Determination of Optimal Irrigation Scheduling for Groundnut at East Welega Zone",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -28970,8 +28973,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454675,
-    "budgetUtilizedETB": 454675,
+    "budgetAllocatedETB": 424612,
+    "budgetUtilizedETB": 424612,
     "objectives": [
       "Adaptation of Low-Cost Sprinkler Irrigation for Onion Production in West Shewa, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29002,7 +29005,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-475-1",
-        "title": "Final Research Dossier: Adaptation of Low-Cost Sprinkler Irrigation for Onion Production in...",
+        "title": "Final Research Dossier: Adaptation of Low-Cost Sprinkler Irrigation for Onion Production in West Shewa, ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29017,7 +29020,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and Performance Evaluation of husk biomass cooking stove at Household Level",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-renewable-energy",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Duresa Tesfaye",
@@ -29031,8 +29034,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454748,
-    "budgetUtilizedETB": 454748,
+    "budgetAllocatedETB": 364771,
+    "budgetUtilizedETB": 364771,
     "objectives": [
       "Adaptation and Performance Evaluation of husk biomass cooking stove at Household Level",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29063,7 +29066,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-476-1",
-        "title": "Final Research Dossier: Adaptation and Performance Evaluation of husk biomass cooking stove...",
+        "title": "Final Research Dossier: Adaptation and Performance Evaluation of husk biomass cooking stove at Household...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29078,7 +29081,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Development and Evaluation of improved Pyrolysis reactor for Syngas & Biochar production",
     "centerId": "bako-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-renewable-energy",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Duresa Tesfaye",
@@ -29092,8 +29095,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2017",
     "startDate": "2016-01-01",
     "endDate": "2017-12-30",
-    "budgetAllocatedETB": 454821,
-    "budgetUtilizedETB": 454821,
+    "budgetAllocatedETB": 530088,
+    "budgetUtilizedETB": 530088,
     "objectives": [
       "Development and Evaluation of improved Pyrolysis reactor for Syngas & Biochar production",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29124,7 +29127,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-477-1",
-        "title": "Final Research Dossier: Development and Evaluation of improved Pyrolysis reactor for Syngas...",
+        "title": "Final Research Dossier: Development and Evaluation of improved Pyrolysis reactor for Syngas & Biochar pr...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2017-10-15"
@@ -29139,7 +29142,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Effects of Agricultural mechanization utilization on commercialization of cluster and Individual teff producers: the Case of south west Shewa Zone, Oromia Region, Ethiopia",
     "centerId": "bako-eng",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Gemachisa Yadeta",
@@ -29153,8 +29156,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454894,
-    "budgetUtilizedETB": 454894,
+    "budgetAllocatedETB": 400400,
+    "budgetUtilizedETB": 400400,
     "objectives": [
       "Effects of Agricultural mechanization utilization on commercialization of cluster and Individual teff producers: the Case of south west Shewa Zone, Oromia Region, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29185,7 +29188,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-478-1",
-        "title": "Final Research Dossier: Effects of Agricultural mechanization utilization on commercializat...",
+        "title": "Final Research Dossier: Effects of Agricultural mechanization utilization on commercialization of cluste...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29200,7 +29203,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On-farm Evaluation of an Integrated Coffee Pulper and Washing Machine",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Husen Bona",
@@ -29214,8 +29217,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 454967,
-    "budgetUtilizedETB": 454967,
+    "budgetAllocatedETB": 571712,
+    "budgetUtilizedETB": 571712,
     "objectives": [
       "On-farm Evaluation of an Integrated Coffee Pulper and Washing Machine",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29261,7 +29264,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and Evaluation of Rice Parboiling Machine",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tolasa Berhanu",
@@ -29275,8 +29278,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455040,
-    "budgetUtilizedETB": 455040,
+    "budgetAllocatedETB": 485852,
+    "budgetUtilizedETB": 485852,
     "objectives": [
       "Adaptation and Evaluation of Rice Parboiling Machine",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29322,7 +29325,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On-farm Evaluation of Groundnut Decorticator",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tashome Wakeyo",
@@ -29336,8 +29339,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455113,
-    "budgetUtilizedETB": 455113,
+    "budgetAllocatedETB": 456170,
+    "budgetUtilizedETB": 456170,
     "objectives": [
       "On-farm Evaluation of Groundnut Decorticator",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29383,7 +29386,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Improvement and Evaluation of Grain De-huller for Rice De-hulling Purpose",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-postharvest-processing",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Husen Bona & Tolasa Berhanu",
@@ -29397,8 +29400,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2017",
     "startDate": "2016-01-01",
     "endDate": "2017-12-30",
-    "budgetAllocatedETB": 455186,
-    "budgetUtilizedETB": 455186,
+    "budgetAllocatedETB": 453376,
+    "budgetUtilizedETB": 453376,
     "objectives": [
       "Improvement and Evaluation of Grain De-huller for Rice De-hulling Purpose",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29429,7 +29432,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-482-1",
-        "title": "Final Research Dossier: Improvement and Evaluation of Grain De-huller for Rice De-hulling P...",
+        "title": "Final Research Dossier: Improvement and Evaluation of Grain De-huller for Rice De-hulling Purpose",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2017-10-15"
@@ -29458,8 +29461,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455259,
-    "budgetUtilizedETB": 455259,
+    "budgetAllocatedETB": 594412,
+    "budgetUtilizedETB": 594412,
     "objectives": [
       "Adaptation and Evaluation of gated pipe on potato production under furrow irrigation in South Western Conditions",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29490,7 +29493,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-483-1",
-        "title": "Final Research Dossier: Adaptation and Evaluation of gated pipe on potato production under ...",
+        "title": "Final Research Dossier: Adaptation and Evaluation of gated pipe on potato production under furrow irriga...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29519,8 +29522,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455332,
-    "budgetUtilizedETB": 455332,
+    "budgetAllocatedETB": 527595,
+    "budgetUtilizedETB": 527595,
     "objectives": [
       "Assessment and Technical Constraint Identification of Smallholder Irrigation Pumps in Jimma Zone, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29551,7 +29554,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-484-1",
-        "title": "Final Research Dossier: Assessment and Technical Constraint Identification of Smallholder I...",
+        "title": "Final Research Dossier: Assessment and Technical Constraint Identification of Smallholder Irrigation Pum...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29566,7 +29569,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Modification and participatory evaluation of household husk biomass cook stove for institutional level",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-renewable-energy",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adem",
@@ -29580,8 +29583,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455405,
-    "budgetUtilizedETB": 455405,
+    "budgetAllocatedETB": 387104,
+    "budgetUtilizedETB": 387104,
     "objectives": [
       "Modification and participatory evaluation of household husk biomass cook stove for institutional level",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29612,7 +29615,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-485-1",
-        "title": "Final Research Dossier: Modification and participatory evaluation of household husk biomass...",
+        "title": "Final Research Dossier: Modification and participatory evaluation of household husk biomass cook stove f...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29627,7 +29630,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Modification and Participatory evaluation of injera baking biomass stove",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-renewable-energy",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adem and Abduselam",
@@ -29641,8 +29644,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455478,
-    "budgetUtilizedETB": 455478,
+    "budgetAllocatedETB": 415267,
+    "budgetUtilizedETB": 415267,
     "objectives": [
       "Modification and Participatory evaluation of injera baking biomass stove",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29673,7 +29676,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-486-1",
-        "title": "Final Research Dossier: Modification and Participatory evaluation of injera baking biomass ...",
+        "title": "Final Research Dossier: Modification and Participatory evaluation of injera baking biomass stove",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29688,7 +29691,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Development and evaluation of small-scale Tea processing machine",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-renewable-energy",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adem and Teka",
@@ -29702,8 +29705,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455551,
-    "budgetUtilizedETB": 455551,
+    "budgetAllocatedETB": 482137,
+    "budgetUtilizedETB": 482137,
     "objectives": [
       "Development and evaluation of small-scale Tea processing machine",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29749,11 +29752,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and on Farm Evaluation of Tractor Operated Wheat and Rice Thresher",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Anane  Gemeda",
-    "initiators": "Anane  Gemeda",
+    "principalInvestigator": "Anane Gemeda",
+    "initiators": "Anane Gemeda",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -29763,8 +29766,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455624,
-    "budgetUtilizedETB": 455624,
+    "budgetAllocatedETB": 548683,
+    "budgetUtilizedETB": 548683,
     "objectives": [
       "Adaptation and on Farm Evaluation of Tractor Operated Wheat and Rice Thresher",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29795,7 +29798,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-488-1",
-        "title": "Final Research Dossier: Adaptation and on Farm Evaluation of Tractor Operated Wheat and Ric...",
+        "title": "Final Research Dossier: Adaptation and on Farm Evaluation of Tractor Operated Wheat and Rice Thresher",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29810,11 +29813,11 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Adaptation and on Farm Evaluation of Operated Groundnut Striper",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
-    "principalInvestigator": "Wasihun  Mitku",
-    "initiators": "Wasihun  Mitku",
+    "principalInvestigator": "Wasihun Mitku",
+    "initiators": "Wasihun Mitku",
     "piEmail": "boqolo@iqqo.gov.et",
     "collaborators": [
       "IQQO Center Technical Team"
@@ -29824,8 +29827,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455697,
-    "budgetUtilizedETB": 455697,
+    "budgetAllocatedETB": 505601,
+    "budgetUtilizedETB": 505601,
     "objectives": [
       "Adaptation and on Farm Evaluation of Operated Groundnut Striper",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29871,7 +29874,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "On farm evaluation and demonstration of engine operated sunflower thresher",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Rabira Wirtu",
@@ -29885,8 +29888,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455770,
-    "budgetUtilizedETB": 455770,
+    "budgetAllocatedETB": 507672,
+    "budgetUtilizedETB": 507672,
     "objectives": [
       "On farm evaluation and demonstration of engine operated sunflower thresher",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29917,7 +29920,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-490-1",
-        "title": "Final Research Dossier: On farm evaluation and demonstration of engine operated sunflower t...",
+        "title": "Final Research Dossier: On farm evaluation and demonstration of engine operated sunflower thresher",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29932,7 +29935,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Development And Performance Evaluation Of Tractor Drawn Multi Crop Planter",
     "centerId": "jima-eng",
     "directorateId": "agricultural-engineering",
-    "teamId": "team-farm-mechanization",
+    "teamId": "team-farm-machinery",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Rabira Wirtu",
@@ -29946,8 +29949,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455843,
-    "budgetUtilizedETB": 455843,
+    "budgetAllocatedETB": 462193,
+    "budgetUtilizedETB": 462193,
     "objectives": [
       "Development And Performance Evaluation Of Tractor Drawn Multi Crop Planter",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -29978,7 +29981,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-491-1",
-        "title": "Final Research Dossier: Development And Performance Evaluation Of Tractor Drawn Multi Crop ...",
+        "title": "Final Research Dossier: Development And Performance Evaluation Of Tractor Drawn Multi Crop Planter",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -29993,7 +29996,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Pre-scaling Up of an Engine -Operated Double-Disc Wet Coffee Pulper in Jimma and B/bedle zones of Oromia Region ,Ethiopia",
     "centerId": "jima-eng",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-extension-technology-promotion",
+    "teamId": "team-agricultural-extension",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Kumale Sedeso and Kemeru Dalecha",
@@ -30007,8 +30010,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455916,
-    "budgetUtilizedETB": 455916,
+    "budgetAllocatedETB": 574481,
+    "budgetUtilizedETB": 574481,
     "objectives": [
       "Pre-scaling Up of an Engine -Operated Double-Disc Wet Coffee Pulper in Jimma and B/bedle zones of Oromia Region ,Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30039,7 +30042,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-492-1",
-        "title": "Final Research Dossier: Pre-scaling Up of an Engine -Operated Double-Disc Wet Coffee Pulper...",
+        "title": "Final Research Dossier: Pre-scaling Up of an Engine -Operated Double-Disc Wet Coffee Pulper in Jimma and...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30054,7 +30057,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Assessments on Agricultural Mechanization Technology Utilization in Southwestern Oromia",
     "centerId": "jima-eng",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Husen A/gisa",
@@ -30068,8 +30071,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 455989,
-    "budgetUtilizedETB": 455989,
+    "budgetAllocatedETB": 410742,
+    "budgetUtilizedETB": 410742,
     "objectives": [
       "Assessments on Agricultural Mechanization Technology Utilization in Southwestern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30100,7 +30103,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-493-1",
-        "title": "Final Research Dossier: Assessments on Agricultural Mechanization Technology Utilization in...",
+        "title": "Final Research Dossier: Assessments on Agricultural Mechanization Technology Utilization in Southwestern...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30115,7 +30118,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Characterization and Analysis of Rice Farming Systems in Southwestern Oromia",
     "centerId": "jima-eng",
     "directorateId": "socioeconomics-extension",
-    "teamId": "team-agricultural-economics",
+    "teamId": "team-socioeconomics",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Husen A/gisa",
@@ -30129,8 +30132,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456062,
-    "budgetUtilizedETB": 456062,
+    "budgetAllocatedETB": 455645,
+    "budgetUtilizedETB": 455645,
     "objectives": [
       "Characterization and Analysis of Rice Farming Systems in Southwestern Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30162,7 +30165,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-494-1",
-        "title": "Final Research Dossier: Characterization and Analysis of Rice Farming Systems in Southweste...",
+        "title": "Final Research Dossier: Characterization and Analysis of Rice Farming Systems in Southwestern Oromia",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30177,7 +30180,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Participatory evaluation and demonstration of wheat grass juice in selected districts of Oromia",
     "centerId": "iqqo-hq",
     "directorateId": "food-science",
-    "teamId": "team-postharvest-processing",
+    "teamId": "team-food-technology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Shure &",
@@ -30191,8 +30194,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456135,
-    "budgetUtilizedETB": 456135,
+    "budgetAllocatedETB": 453294,
+    "budgetUtilizedETB": 453294,
     "objectives": [
       "Participatory evaluation and demonstration of wheat grass juice in selected districts of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30223,7 +30226,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-495-1",
-        "title": "Final Research Dossier: Participatory evaluation and demonstration of wheat grass juice in ...",
+        "title": "Final Research Dossier: Participatory evaluation and demonstration of wheat grass juice in selected dist...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30238,7 +30241,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Characterization of Some Ethiopian Semi Hulled Barley advanced lines for some processing Quality",
     "centerId": "iqqo-hq",
     "directorateId": "food-science",
-    "teamId": "team-postharvest-processing",
+    "teamId": "team-food-technology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tolera",
@@ -30252,8 +30255,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456208,
-    "budgetUtilizedETB": 456208,
+    "budgetAllocatedETB": 387638,
+    "budgetUtilizedETB": 387638,
     "objectives": [
       "Characterization of Some Ethiopian Semi Hulled Barley advanced lines for some processing Quality",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30284,7 +30287,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-496-1",
-        "title": "Final Research Dossier: Characterization of Some Ethiopian Semi Hulled Barley advanced line...",
+        "title": "Final Research Dossier: Characterization of Some Ethiopian Semi Hulled Barley advanced lines for some pr...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30299,7 +30302,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Nutritional analysis and effect of processing on nutritional quality of haricot bean varieties and candidate varieties at Kellem wollega",
     "centerId": "iqqo-hq",
     "directorateId": "food-science",
-    "teamId": "team-postharvest-processing",
+    "teamId": "team-food-technology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Tolera",
@@ -30313,8 +30316,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456281,
-    "budgetUtilizedETB": 456281,
+    "budgetAllocatedETB": 359921,
+    "budgetUtilizedETB": 359921,
     "objectives": [
       "Nutritional analysis and effect of processing on nutritional quality of haricot bean varieties and candidate varieties at Kellem wollega",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30345,7 +30348,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-497-1",
-        "title": "Final Research Dossier: Nutritional analysis and effect of processing on nutritional qualit...",
+        "title": "Final Research Dossier: Nutritional analysis and effect of processing on nutritional quality of haricot ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30357,10 +30360,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
   {
     "id": "comp-act-498",
     "code": "IQQO-COMP-FSRD-2018-498",
-    "title": "Effect of Processing methods on Nutritional quality and functional properties of Soya Bean Varieties Grown Under West Shoa and East  Hararge, Oromia",
+    "title": "Effect of Processing methods on Nutritional quality and functional properties of Soya Bean Varieties Grown Under West Shoa and East Hararge, Oromia",
     "centerId": "iqqo-hq",
     "directorateId": "food-science",
-    "teamId": "team-postharvest-processing",
+    "teamId": "team-food-technology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Nardos",
@@ -30374,10 +30377,10 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456354,
-    "budgetUtilizedETB": 456354,
+    "budgetAllocatedETB": 516640,
+    "budgetUtilizedETB": 516640,
     "objectives": [
-      "Effect of Processing methods on Nutritional quality and functional properties of Soya Bean Varieties Grown Under West Shoa and East  Hararge, Oromia",
+      "Effect of Processing methods on Nutritional quality and functional properties of Soya Bean Varieties Grown Under West Shoa and East Hararge, Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
       "Complete comprehensive data synthesis for regional research council verification."
     ],
@@ -30406,7 +30409,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-498-1",
-        "title": "Final Research Dossier: Effect of Processing methods on Nutritional quality and functional ...",
+        "title": "Final Research Dossier: Effect of Processing methods on Nutritional quality and functional properties of...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30421,7 +30424,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Functional and nutritional quality of field pea advanced lines grown at Bako",
     "centerId": "iqqo-hq",
     "directorateId": "food-science",
-    "teamId": "team-postharvest-processing",
+    "teamId": "team-food-technology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Nardos",
@@ -30435,8 +30438,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456427,
-    "budgetUtilizedETB": 456427,
+    "budgetAllocatedETB": 437003,
+    "budgetUtilizedETB": 437003,
     "objectives": [
       "Functional and nutritional quality of field pea advanced lines grown at Bako",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30467,7 +30470,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-499-1",
-        "title": "Final Research Dossier: Functional and nutritional quality of field pea advanced lines grow...",
+        "title": "Final Research Dossier: Functional and nutritional quality of field pea advanced lines grown at Bako",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30482,7 +30485,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Evaluation of functional and nutritional quality of sunflower advanced lines grown at Bako midland condition",
     "centerId": "iqqo-hq",
     "directorateId": "food-science",
-    "teamId": "team-postharvest-processing",
+    "teamId": "team-food-technology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Shure &",
@@ -30496,8 +30499,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456500,
-    "budgetUtilizedETB": 456500,
+    "budgetAllocatedETB": 513875,
+    "budgetUtilizedETB": 513875,
     "objectives": [
       "Evaluation of functional and nutritional quality of sunflower advanced lines grown at Bako midland condition",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30528,7 +30531,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-500-1",
-        "title": "Final Research Dossier: Evaluation of functional and nutritional quality of sunflower advan...",
+        "title": "Final Research Dossier: Evaluation of functional and nutritional quality of sunflower advanced lines gro...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30543,7 +30546,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Study of the effect of bacteriocins against some foodborne pathogens spiked into yoghurt",
     "centerId": "iqqo-hq",
     "directorateId": "food-science",
-    "teamId": "team-nutritional-analysis",
+    "teamId": "team-food-microbiology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adisu",
@@ -30557,8 +30560,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456573,
-    "budgetUtilizedETB": 456573,
+    "budgetAllocatedETB": 569671,
+    "budgetUtilizedETB": 569671,
     "objectives": [
       "Study of the effect of bacteriocins against some foodborne pathogens spiked into yoghurt",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30589,7 +30592,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-501-1",
-        "title": "Final Research Dossier: Study of the effect of bacteriocins against some foodborne pathogen...",
+        "title": "Final Research Dossier: Study of the effect of bacteriocins against some foodborne pathogens spiked into...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30604,7 +30607,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "title": "Study of the combined effect of extracts of black cumin (Nigella sativa L.) and rue (Ruta chalepenesis) seed extracts against some foodborne pathogens spiked into yoghurt",
     "centerId": "iqqo-hq",
     "directorateId": "food-science",
-    "teamId": "team-nutritional-analysis",
+    "teamId": "team-food-microbiology",
     "status": "Completed",
     "progressPercent": 100,
     "principalInvestigator": "Adisu, Zeinaba, Galeta & Ofijan",
@@ -30618,8 +30621,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456646,
-    "budgetUtilizedETB": 456646,
+    "budgetAllocatedETB": 356284,
+    "budgetUtilizedETB": 356284,
     "objectives": [
       "Study of the combined effect of extracts of black cumin (Nigella sativa L.) and rue (Ruta chalepenesis) seed extracts against some foodborne pathogens spiked into yoghurt",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30650,7 +30653,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-502-1",
-        "title": "Final Research Dossier: Study of the combined effect of extracts of black cumin (Nigella sa...",
+        "title": "Final Research Dossier: Study of the combined effect of extracts of black cumin (Nigella sativa L.) and ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30679,8 +30682,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456719,
-    "budgetUtilizedETB": 456719,
+    "budgetAllocatedETB": 499689,
+    "budgetUtilizedETB": 499689,
     "objectives": [
       "Physico-chemical analysis of sweet potato genotypes grown around Bako and Daro Labu Districts of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30711,7 +30714,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-503-1",
-        "title": "Final Research Dossier: Physico-chemical analysis of sweet potato genotypes grown around Ba...",
+        "title": "Final Research Dossier: Physico-chemical analysis of sweet potato genotypes grown around Bako and Daro L...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30740,8 +30743,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456792,
-    "budgetUtilizedETB": 456792,
+    "budgetAllocatedETB": 408772,
+    "budgetUtilizedETB": 408772,
     "objectives": [
       "Evaluation of Processing and Nutritional Qualities of adapting Cassava Varieties at Some Districts of Oromia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30772,7 +30775,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-504-1",
-        "title": "Final Research Dossier: Evaluation of Processing and Nutritional Qualities of adapting Cass...",
+        "title": "Final Research Dossier: Evaluation of Processing and Nutritional Qualities of adapting Cassava Varieties...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30801,8 +30804,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456865,
-    "budgetUtilizedETB": 456865,
+    "budgetAllocatedETB": 387971,
+    "budgetUtilizedETB": 387971,
     "objectives": [
       "Nutritional Characterization of Enset Landraces Grown in Guji and West Guji Zones of Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30833,7 +30836,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-505-1",
-        "title": "Final Research Dossier: Nutritional Characterization of Enset Landraces Grown in Guji and W...",
+        "title": "Final Research Dossier: Nutritional Characterization of Enset Landraces Grown in Guji and West Guji Zone...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30862,8 +30865,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2016-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 456938,
-    "budgetUtilizedETB": 456938,
+    "budgetAllocatedETB": 559517,
+    "budgetUtilizedETB": 559517,
     "objectives": [
       "Assessment of Heavy Metal Contamination in Irrigated Food Crops, Farm Land and Water in Akaki River Watersheds, Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30894,7 +30897,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-506-1",
-        "title": "Final Research Dossier: Assessment of Heavy Metal Contamination in Irrigated Food Crops, Fa...",
+        "title": "Final Research Dossier: Assessment of Heavy Metal Contamination in Irrigated Food Crops, Farm Land and W...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30923,8 +30926,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2017-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 457011,
-    "budgetUtilizedETB": 457011,
+    "budgetAllocatedETB": 564558,
+    "budgetUtilizedETB": 564558,
     "objectives": [
       "Participatory Evaluation and Demonstration of Wheat-Maize-Soybean Blended Bread Recipe in Selected Districts of Oromia, Ethiopia",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -30955,7 +30958,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-507-1",
-        "title": "Final Research Dossier: Participatory Evaluation and Demonstration of Wheat-Maize-Soybean B...",
+        "title": "Final Research Dossier: Participatory Evaluation and Demonstration of Wheat-Maize-Soybean Blended Bread ...",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"
@@ -30984,8 +30987,8 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "yearCompletionEC": "2018",
     "startDate": "2018-01-01",
     "endDate": "2018-12-30",
-    "budgetAllocatedETB": 457084,
-    "budgetUtilizedETB": 457084,
+    "budgetAllocatedETB": 438595,
+    "budgetUtilizedETB": 438595,
     "objectives": [
       "Development of rapid detection method for Gypsum in gypsum adulterated food",
       "Generate validated scientific findings and recommendations across mandated test agro-ecologies.",
@@ -31016,7 +31019,7 @@ export const COMPLETED_ACTIVITIES: ResearchActivity[] = [
     "deliverables": [
       {
         "id": "d-comp-508-1",
-        "title": "Final Research Dossier: Development of rapid detection method for Gypsum in gypsum adultera...",
+        "title": "Final Research Dossier: Development of rapid detection method for Gypsum in gypsum adulterated food",
         "type": "Technical Manual",
         "status": "Published",
         "date": "2018-10-15"

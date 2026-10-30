@@ -43,43 +43,6 @@ export const BASE_ACTIVITIES: ResearchActivity[] = [
     lastUpdated: '2026-03-28'
   },
   {
-    id: 'act-002',
-    code: 'IQQO-LRD-HOL-2024-03',
-    title: 'Standardization and Dissemination of Modern Queen Bee Mass Rearing Technology for Smallholder Beekeepers',
-    centerId: 'holeta-bee',
-    directorateId: 'livestock-research',
-    teamId: 'team-apiculture-sericulture',
-    status: 'Completed',
-    progressPercent: 100,
-    principalInvestigator: 'Dr. Taye Beyene',
-    piEmail: 'taye.beyene@iqqo.gov.et',
-    collaborators: ['Mrs. Aster Yohannes (Apiary Specialist)', 'Ato Girma Debele (Technician)'],
-    fiscalYear: 2024,
-    startDate: '2023-03-01',
-    endDate: '2025-06-30',
-    budgetAllocatedETB: 890000,
-    budgetUtilizedETB: 875000,
-    objectives: [
-      'Adapt Doolittle grafting method for Apis mellifera bandasi under highland climatic constraints.',
-      'Produce >1,200 mated pedigree queens annually with docile and high-honey hoarding genetic traits.',
-      'Train 180 youth and women honey producers across West Shewa and Finfinne Special Zones.'
-    ],
-    methodology: 'Controlled nurse colonies with optimal larval priming diets, incubator temperature regulation at 34.5°C, and mini-plus mating nuc tracking.',
-    expectedOutputs: 'Verified queen rearing manual in Afaan Oromoo and Amharic, established commercial nursery hub at Holeta.',
-    targetAgroEcology: 'Highland (2000m - 2400m a.s.l)',
-    milestones: [
-      { id: 'm-201', title: 'Evaluation of wooden vs wax cell cups for grafting acceptance', dueDate: '2023-08-30', completed: true, completedDate: '2023-08-20', deliverableSummary: 'Wax cups yielded 86% acceptance rate.' },
-      { id: 'm-202', title: 'Mini-mating nuc survival trials in cold rainy season', dueDate: '2024-04-15', completed: true, completedDate: '2024-04-10', deliverableSummary: 'Insulated polystyrene covers increased survival by 24%.' },
-      { id: 'm-203', title: 'Mass farmer training and kit distribution', dueDate: '2025-05-30', completed: true, completedDate: '2025-05-25', deliverableSummary: '194 beekeepers certified.' }
-    ],
-    deliverables: [
-      { id: 'd-201', title: 'Queen Bee Rearing Technical Guide for Oromia Beekeepers', type: 'Technical Manual', status: 'Published', date: '2024-11-12' },
-      { id: 'd-202', title: 'Journal of Apicultural Research: Queen Rearing Protocol in Ethiopian Highlands', type: 'Journal Publication', status: 'Published', date: '2025-06-15' }
-    ],
-    extensionHistory: [],
-    lastUpdated: '2025-07-02'
-  },
-  {
     id: 'act-003',
     code: 'IQQO-LRD-BAT-2025-02',
     title: 'Selective Breeding and Pond Nursery Optimization of Nile Tilapia (Oreochromis niloticus) in Lake Zeway Basin',
@@ -201,43 +164,6 @@ export const BASE_ACTIVITIES: ResearchActivity[] = [
     ],
     extensionHistory: [],
     lastUpdated: '2026-02-18'
-  },
-  {
-    id: 'act-006',
-    code: 'IQQO-CRD-BAK-2023-02',
-    title: 'Breeding for Drought-Tolerant and Low-Nitrogen Efficient White Maize Hybrids for Sub-Humid Midlands',
-    centerId: 'bako-arc',
-    directorateId: 'crop-research',
-    teamId: 'team-cereal-crops',
-    status: 'Completed',
-    progressPercent: 100,
-    principalInvestigator: 'Dr. Berhanu Mengistu',
-    piEmail: 'berhanu.m@iqqo.gov.et',
-    collaborators: ['Dr. Dagne Wegary (Maize Breeder)', 'Ato Solomon Admassu (Agronomist)'],
-    fiscalYear: 2023,
-    startDate: '2022-04-01',
-    endDate: '2025-04-30',
-    budgetAllocatedETB: 2100000,
-    budgetUtilizedETB: 2040000,
-    objectives: [
-      'Evaluate 36 single-cross maize hybrids under induced managed water stress during anthesis.',
-      'Screen lines under zero-nitrogen depleted trial plots to select for high nutrient use efficiency.',
-      'Release a three-way cross hybrid outyielding BH546 by at least 15% under drought stress.'
-    ],
-    methodology: 'Alpha lattice design with 3 replications across Bako, Bako-Engineering, and Billo sub-sites.',
-    expectedOutputs: 'Commercial registration of Bako Hybrid BH-661 with resistance to Turcicum leaf blight and grey leaf spot.',
-    targetAgroEcology: 'Midland Sub-humid (1650m a.s.l)',
-    milestones: [
-      { id: 'm-601', title: 'National maize preliminary yield trial (PYT) completion', dueDate: '2022-12-15', completed: true, completedDate: '2022-12-05' },
-      { id: 'm-602', title: 'National variety trial across 8 research stations in Ethiopia', dueDate: '2023-11-30', completed: true, completedDate: '2023-11-20' },
-      { id: 'm-603', title: 'Release dossier defense before National Release Committee', dueDate: '2024-05-20', completed: true, completedDate: '2024-05-18', deliverableSummary: 'Officially released as "BH-661 (Gudatu)".' }
-    ],
-    deliverables: [
-      { id: 'd-601', title: 'BH-661 (Gudatu) Maize Variety Official National Release Gazette', type: 'Variety Release', status: 'Certified', date: '2024-06-01' },
-      { id: 'd-602', title: 'Euphytica Journal: Genetic Gain in Maize Yield under Low Nitrogen Stress in Western Ethiopia', type: 'Journal Publication', status: 'Published', date: '2025-03-10' }
-    ],
-    extensionHistory: [],
-    lastUpdated: '2025-05-10'
   },
   {
     id: 'act-007',

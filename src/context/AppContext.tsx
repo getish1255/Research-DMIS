@@ -93,7 +93,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
   // Initialize activities from localStorage or fallback to INITIAL_ACTIVITIES
   const [activities, setActivities] = useState<ResearchActivity[]>(() => {
     try {
-      const saved = localStorage.getItem('iqqo_activities_data_v5');
+      const saved = localStorage.getItem('iqqo_activities_data_v6');
       if (saved) {
         const parsed = JSON.parse(saved);
         if (Array.isArray(parsed) && parsed.length >= INITIAL_ACTIVITIES.length) {
@@ -108,7 +108,7 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
 
   useEffect(() => {
     try {
-      localStorage.setItem('iqqo_activities_data_v5', JSON.stringify(activities));
+      localStorage.setItem('iqqo_activities_data_v6', JSON.stringify(activities));
     } catch {
       // ignore
     }
@@ -260,6 +260,8 @@ export const AppProvider: React.FC<{ children: ReactNode }> = ({ children }) => 
   };
 
   const resetAllData = () => {
+    localStorage.removeItem('iqqo_activities_data_v6');
+    localStorage.removeItem('iqqo_activities_data_v5');
     localStorage.removeItem('iqqo_activities_data_v4');
     localStorage.removeItem('iqqo_activities_data_v3');
     setActivities(INITIAL_ACTIVITIES);

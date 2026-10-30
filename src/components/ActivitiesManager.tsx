@@ -275,8 +275,8 @@ export const ActivitiesManager: React.FC = () => {
             >
               <option value="All">All Presentation Status</option>
               <option value="2018_Completed">All 2018 E.C. Completed (508)</option>
-              <option value="Will be presented">✓ Will be presented</option>
-              <option value="Will not presented">✗ Will not presented</option>
+              <option value="Will be presented">✓ Will be presented (469)</option>
+              <option value="Will not presented">✗ Will not presented (39)</option>
             </select>
           </div>
 

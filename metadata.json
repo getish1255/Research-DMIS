@@ -1,0 +1,6 @@
+{
+  "name": "IQQO Research Activities Management System",
+  "description": "Institutional research management system for Oromia Agricultural Research Institute (IQQO) across 18 centers and HQ, tracking directorates, teams, completed activities (2018 E.C.), and lifecycle metrics. Developer: Getachew Haile. Reference & Contact: boqolo@iqqo.gov.et.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
